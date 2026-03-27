@@ -1,7 +1,25 @@
 import type { BusStop } from "@autobuses/shared";
 
-const PARADAS_URL =
-  "https://servizos.vigo.org/html/vigo/datos/transporte/paradas.json";
+/**
+ * JSON de paradas Vitrasa publicado en Open Data del Concello.
+ * Catálogo CKAN (grupo Movilidad): https://datos-ckan.vigo.org/group/transporte
+ * Dataset «Paradas de Vitrasa»: recurso JSON → datos.vigo.org (mismo contenido que otras rutas legacy).
+ */
+const DEFAULT_PARADAS_URLS = [
+  "https://datos.vigo.org/data/transporte/paradas.json",
+  "https://servizos.vigo.org/html/vigo/datos/transporte/paradas.json",
+] as const;
+
+const FETCH_HEADERS: Record<string, string> = {
+  Accept: "application/json",
+  "User-Agent": "BusVigo-BFF/1.0 (Node; datos abertos Concello de Vigo)",
+};
+
+function paradasUrls(): string[] {
+  const override = process.env.PARADAS_URL?.trim();
+  if (override) return [override];
+  return [...DEFAULT_PARADAS_URLS];
+}
 
 function asRecord(v: unknown): Record<string, unknown> | null {
   return v !== null && typeof v === "object" ? (v as Record<string, unknown>) : null;
@@ -83,14 +101,23 @@ export function itemToBusStop(item: unknown): BusStop | null {
   return stop;
 }
 
+/** Descarga JSON desde la primera URL que responda 200. */
 export async function fetchParadasJson(): Promise<unknown> {
-  const res = await fetch(PARADAS_URL, {
-    headers: { Accept: "application/json" },
-  });
-  if (!res.ok) {
-    throw new Error(`Paradas upstream ${res.status} ${res.statusText}`);
+  const urls = paradasUrls();
+  let lastError: Error | undefined;
+  for (const url of urls) {
+    try {
+      const res = await fetch(url, { headers: FETCH_HEADERS });
+      if (!res.ok) {
+        lastError = new Error(`Paradas upstream ${url} → ${res.status} ${res.statusText}`);
+        continue;
+      }
+      return (await res.json()) as unknown;
+    } catch (e) {
+      lastError = e instanceof Error ? e : new Error(String(e));
+    }
   }
-  return res.json() as Promise<unknown>;
+  throw lastError ?? new Error("No hay URLs de paradas configuradas");
 }
 
 export function jsonToBusStops(raw: unknown): BusStop[] {
