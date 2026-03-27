@@ -32,6 +32,17 @@ app.get("/api/v1/stops/:id", async (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
+const server = app.listen(PORT, () => {
   console.log(`BFF escuchando en http://localhost:${PORT}`);
+});
+
+server.on("error", (err: NodeJS.ErrnoException) => {
+  if (err.code === "EADDRINUSE") {
+    console.error(
+      `Puerto ${PORT} en uso. Cierra el otro Node/proceso o arranca con PORT=3002`,
+    );
+  } else {
+    console.error(err);
+  }
+  process.exit(1);
 });
