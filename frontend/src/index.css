@@ -1,11 +1,12 @@
 @import "tailwindcss";
+@import "maplibre-gl/dist/maplibre-gl.css";
 
 @theme {
-  --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --color-bus-primary: oklch(0.45 0.14 250);
-  --color-bus-surface: oklch(0.98 0.01 250);
-  --color-bus-muted: oklch(0.55 0.02 250);
+  --font-sans: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+  --color-brand: oklch(0.52 0.16 245);
+  --color-brand-soft: oklch(0.94 0.03 245);
+  --color-app-bg: oklch(0.97 0.01 245);
+  --color-app-muted: oklch(0.52 0.03 245);
 }
 
 html,
@@ -17,4 +18,25 @@ body,
 body {
   margin: 0;
   font-family: var(--font-sans);
+  background:
+    radial-gradient(circle at 0% 0%, oklch(0.9 0.07 225 / 0.35), transparent 40%),
+    radial-gradient(circle at 100% 100%, oklch(0.92 0.06 180 / 0.4), transparent 35%),
+    var(--color-app-bg);
+}
+
+.live-badge-urgent {
+  background: linear-gradient(120deg, #ef4444, #f97316);
+  animation: badge-alert 1s ease-in-out infinite;
+}
+
+@keyframes badge-alert {
+  0%,
+  100% {
+    filter: saturate(1);
+    transform: scale(1);
+  }
+  50% {
+    filter: saturate(1.35);
+    transform: scale(1.06);
+  }
 }

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="barrio" type="string"></SimpleField>
+	<SimpleField name="codigo_postal" type="string"></SimpleField>
+	<SimpleField name="numero" type="int"></SimpleField>
+	<SimpleField name="web" type="string"></SimpleField>
+	<SimpleField name="calle" type="string"></SimpleField>
+	<SimpleField name="parroquia" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="telefono" type="string"></SimpleField>
+	<SimpleField name="nombre" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36201</SimpleData>
+		<SimpleData name="numero">1</SimpleData>
+		<SimpleData name="web">http://www.adif.es/es_ES/infraestructuras/estaciones/8223/informacion_000394.shtml</SimpleData>
+		<SimpleData name="calle">PRAZA ESTACION</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.71358</SimpleData>
+		<SimpleData name="id">0</SimpleData>
+		<SimpleData name="telefono">912320320</SimpleData>
+		<SimpleData name="nombre">Estación de Urzáiz</SimpleData>
+		<SimpleData name="lat">42.23419</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71358,42.234189999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">21</SimpleData>
+		<SimpleData name="web">http://www.adif.es/es_ES/infraestructuras/estaciones/22308/informacion_000390.shtml</SimpleData>
+		<SimpleData name="calle">RÚA AREAL</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.71217</SimpleData>
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="telefono">912320320</SimpleData>
+		<SimpleData name="nombre">Estación Guixar</SimpleData>
+		<SimpleData name="lat">42.2392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71217,42.239199999999997</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

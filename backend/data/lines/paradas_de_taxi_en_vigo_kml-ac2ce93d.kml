@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="barrio" type="string"></SimpleField>
+	<SimpleField name="codigo_postal" type="string"></SimpleField>
+	<SimpleField name="numero" type="int"></SimpleField>
+	<SimpleField name="web" type="string"></SimpleField>
+	<SimpleField name="calle" type="string"></SimpleField>
+	<SimpleField name="parroquia" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="telefono" type="string"></SimpleField>
+	<SimpleField name="nombre" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36204</SimpleData>
+		<SimpleData name="numero">74</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.71728</SimpleData>
+		<SimpleData name="id">0</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Rúa Ecuador(El Corte Inglés)</SimpleData>
+		<SimpleData name="lat">42.2324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71728,42.232399999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36210</SimpleData>
+		<SimpleData name="numero">1</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Avda. Castrelos</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.73241</SimpleData>
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Avda de Castrelos (Plaza América)</SimpleData>
+		<SimpleData name="lat">42.22016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.73241,42.22016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36211</SimpleData>
+		<SimpleData name="numero">38</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.72954</SimpleData>
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Álvaro Cunqueiro</SimpleData>
+		<SimpleData name="lat">42.22451</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72954,42.224510000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36208</SimpleData>
+		<SimpleData name="numero">106</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.7357</SimpleData>
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Torrecedeira (Praza Industria)</SimpleData>
+		<SimpleData name="lat">42.22478</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7357,42.224780000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36211</SimpleData>
+		<SimpleData name="numero">5</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.72749</SimpleData>
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Povisa</SimpleData>
+		<SimpleData name="lat">42.22331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72749,42.223309999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36210</SimpleData>
+		<SimpleData name="numero">1</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.7381</SimpleData>
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Val Miñor</SimpleData>
+		<SimpleData name="lat">42.2125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.738099999999999,42.212499999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36209</SimpleData>
+		<SimpleData name="numero">1</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.74443</SimpleData>
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Alcampo I</SimpleData>
+		<SimpleData name="lat">42.21917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.744429999999999,42.219169999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">225</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Ctra. Valadares</SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.72163</SimpleData>
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Ctra. Valadares</SimpleData>
+		<SimpleData name="lat">42.17759</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.721629999999999,42.177590000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">26</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Colón</SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.72046</SimpleData>
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Colón</SimpleData>
+		<SimpleData name="lat">42.23688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.720459999999999,42.236879999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">347</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Avda. Ramón Nieto</SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.68094</SimpleData>
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Avenida Ramón Nieto</SimpleData>
+		<SimpleData name="lat">42.22949</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.68094,42.229489999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36206</SimpleData>
+		<SimpleData name="numero">21</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.70716</SimpleData>
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Via Norte</SimpleData>
+		<SimpleData name="lat">42.23458</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.70716,42.23458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Areal</SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.71277</SimpleData>
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Areal (Estación tren)</SimpleData>
+		<SimpleData name="lat">42.24012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71277,42.240119999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Angela Iglesias Rebollar</SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.69171</SimpleData>
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Centro de salud Teis (Angela Iglesias Rebollar)</SimpleData>
+		<SimpleData name="lat">42.25203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.69171,42.252029999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36204</SimpleData>
+		<SimpleData name="numero">9</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">RUA Santo Domingo</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.71231</SimpleData>
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Santo Domingo</SimpleData>
+		<SimpleData name="lat">42.23242</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71231,42.232419999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36201</SimpleData>
+		<SimpleData name="numero">118</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Avda. García Barbón</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.7073</SimpleData>
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">García Barbón</SimpleData>
+		<SimpleData name="lat">42.24135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7073,42.241349999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36206</SimpleData>
+		<SimpleData name="numero">131</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.70299</SimpleData>
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Travesía de Vigo</SimpleData>
+		<SimpleData name="lat">42.24042</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.70299,42.24042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36207</SimpleData>
+		<SimpleData name="numero">236</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Aragón</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.698</SimpleData>
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Aragón 236</SimpleData>
+		<SimpleData name="lat">42.24234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.698,42.242339999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36207</SimpleData>
+		<SimpleData name="numero">4</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.70005</SimpleData>
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Purificación Saavedra (Mercado de Teis)</SimpleData>
+		<SimpleData name="lat">42.24747</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.700049999999999,42.24747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36209</SimpleData>
+		<SimpleData name="numero">1</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Fotógrafo Xosé Gil</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.74119</SimpleData>
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Fotógrafo Xose Gil</SimpleData>
+		<SimpleData name="lat">42.21562</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.74119,42.21562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36209</SimpleData>
+		<SimpleData name="numero">2</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Lalín</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.7342</SimpleData>
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Lalín</SimpleData>
+		<SimpleData name="lat">42.2215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7342,42.221499999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">RIOBOO</SimpleData>
+		<SimpleData name="codigo_postal">36204</SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Baixada ó Castaño</SimpleData>
+		<SimpleData name="parroquia">FREIXEIRO</SimpleData>
+		<SimpleData name="lon">-8.72331</SimpleData>
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Baixada ó Castaño</SimpleData>
+		<SimpleData name="lat">42.22111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72331,42.221110000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36203</SimpleData>
+		<SimpleData name="numero">10</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.72033</SimpleData>
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Plaza de España</SimpleData>
+		<SimpleData name="lat">42.2285</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72033,42.228499999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36204</SimpleData>
+		<SimpleData name="numero">2</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Padre Feijoo</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.7174</SimpleData>
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Padre Feijoo</SimpleData>
+		<SimpleData name="lat">42.22967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7174,42.229669999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36202</SimpleData>
+		<SimpleData name="numero">51</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Avda. Beiramar</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.73294</SimpleData>
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Casa del Mar</SimpleData>
+		<SimpleData name="lat">42.2344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.732939999999999,42.2344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36202</SimpleData>
+		<SimpleData name="numero">25</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Cánovas del Castillo</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.72715</SimpleData>
+		<SimpleData name="id">24</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">A Laxe (Centro Comercial)</SimpleData>
+		<SimpleData name="lat">42.24031</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72715,42.24031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36201</SimpleData>
+		<SimpleData name="numero">10</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa García Olloqui</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.72418</SimpleData>
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Garcia Olloqui</SimpleData>
+		<SimpleData name="lat">42.24026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72418,42.240259999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36202</SimpleData>
+		<SimpleData name="numero">1</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.72849</SimpleData>
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Paseo Alfonso</SimpleData>
+		<SimpleData name="lat">42.23569</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72849,42.235689999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36205</SimpleData>
+		<SimpleData name="numero">9</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.70893</SimpleData>
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Rúa Faisan (Ambulatorio Doblada)</SimpleData>
+		<SimpleData name="lat">42.22856</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.70893,42.228560000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36214</SimpleData>
+		<SimpleData name="numero">57</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Avda. Madrid</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.70971</SimpleData>
+		<SimpleData name="id">28</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Estación Autobuses (Av. Madrid)</SimpleData>
+		<SimpleData name="lat">42.22397</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.709709999999999,42.22397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36205</SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Avda. Alcalde Gregorio Espino</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.70942</SimpleData>
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Estación Autobuses (Gregorio Espino)</SimpleData>
+		<SimpleData name="lat">42.22412</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.70942,42.224119999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36204</SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Avda. Madrid</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.70215</SimpleData>
+		<SimpleData name="id">30</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Alcampo II</SimpleData>
+		<SimpleData name="lat">42.21485</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.70215,42.214849999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36206</SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Praza Maruja Mallo</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.70577</SimpleData>
+		<SimpleData name="id">31</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Plaza Maruja Mallo</SimpleData>
+		<SimpleData name="lat">42.23202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.705769999999999,42.232019999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36203</SimpleData>
+		<SimpleData name="numero">10</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.72016</SimpleData>
+		<SimpleData name="id">32</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Rua Bolivia (Plaza Eliptica)</SimpleData>
+		<SimpleData name="lat">42.23189</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72016,42.23189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36201</SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.71353</SimpleData>
+		<SimpleData name="id">33</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Estación Tren Urzáiz</SimpleData>
+		<SimpleData name="lat">42.23495</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71353,42.234949999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.715</SimpleData>
+		<SimpleData name="id">34</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Hospital Alvaro Cunqueiro</SimpleData>
+		<SimpleData name="lat">42.18769</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.715,42.187690000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">SAMIL</SimpleData>
+		<SimpleData name="codigo_postal">36212</SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Avda. Samil</SimpleData>
+		<SimpleData name="parroquia">NAVIA</SimpleData>
+		<SimpleData name="lon">-8.77403</SimpleData>
+		<SimpleData name="id">35</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Avenida de Samil</SimpleData>
+		<SimpleData name="lat">42.21236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.77403,42.212359999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">PEREIRO</SimpleData>
+		<SimpleData name="codigo_postal">36210</SimpleData>
+		<SimpleData name="numero">212</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Avda. Castrelos</SimpleData>
+		<SimpleData name="parroquia">CASTRELOS</SimpleData>
+		<SimpleData name="lon">-8.73225</SimpleData>
+		<SimpleData name="id">36</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Avenida Castrelos (Tanatorio)</SimpleData>
+		<SimpleData name="lat">42.20983</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.73225,42.209829999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36202</SimpleData>
+		<SimpleData name="numero">1</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Paseo de Granada</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.72611</SimpleData>
+		<SimpleData name="id">37</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Ayuntamiento</SimpleData>
+		<SimpleData name="lat">42.23554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72611,42.23554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36203</SimpleData>
+		<SimpleData name="numero">4</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Manuel Nuñez</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.72062</SimpleData>
+		<SimpleData name="id">38</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Manuel Nuñez</SimpleData>
+		<SimpleData name="lat">42.23526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72062,42.235259999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36201</SimpleData>
+		<SimpleData name="numero">49</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Ava. García Barbón</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.71617</SimpleData>
+		<SimpleData name="id">39</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">García Barbón</SimpleData>
+		<SimpleData name="lat">42.23696</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71617,42.236960000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36201</SimpleData>
+		<SimpleData name="numero">1</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Inés Pérez De Zeta</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.71904</SimpleData>
+		<SimpleData name="id">40</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Inés Pérez de Zeta (Arenal)</SimpleData>
+		<SimpleData name="lat">42.23906</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71904,42.239060000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">PENIS</SimpleData>
+		<SimpleData name="codigo_postal">36205</SimpleData>
+		<SimpleData name="numero">513</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Avda. Ramón Nieto</SimpleData>
+		<SimpleData name="parroquia">CABRAL</SimpleData>
+		<SimpleData name="lon">-8.67147</SimpleData>
+		<SimpleData name="id">41</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Cabral</SimpleData>
+		<SimpleData name="lat">42.22302</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.671469999999999,42.223019999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">CARBALLO DO PAZO</SimpleData>
+		<SimpleData name="codigo_postal">36312</SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Ramiro Pascual</SimpleData>
+		<SimpleData name="parroquia">BEADE</SimpleData>
+		<SimpleData name="lon">-8.70676</SimpleData>
+		<SimpleData name="id">42</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Beade (Igrexa)</SimpleData>
+		<SimpleData name="lat">42.19193</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.706759999999999,42.191929999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">BOUCIÑA</SimpleData>
+		<SimpleData name="codigo_postal">36214</SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Cmño. Meixueiro</SimpleData>
+		<SimpleData name="parroquia">LAVADORES</SimpleData>
+		<SimpleData name="lon">-8.68401</SimpleData>
+		<SimpleData name="id">43</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Hospital Meixoeiro</SimpleData>
+		<SimpleData name="lat">42.21505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.68401,42.215049999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">PEINADOR</SimpleData>
+		<SimpleData name="codigo_postal">36318</SimpleData>
+		<SimpleData name="numero">772</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Avda Aeroporto</SimpleData>
+		<SimpleData name="parroquia">CABRAL</SimpleData>
+		<SimpleData name="lon">-8.63377</SimpleData>
+		<SimpleData name="id">44</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Aeropuerto</SimpleData>
+		<SimpleData name="lat">42.22521</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.63377,42.225209999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">21</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.71759</SimpleData>
+		<SimpleData name="id">45</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Rosalía Castro (Centro Salud)</SimpleData>
+		<SimpleData name="lat">42.23809</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71759,42.23809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">124</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Rúa Gran Vía</SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.7243</SimpleData>
+		<SimpleData name="id">46</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Gran Vía</SimpleData>
+		<SimpleData name="lat">42.22366</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.724299999999999,42.223660000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">15</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.75454</SimpleData>
+		<SimpleData name="id">47</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Teixugueiras</SimpleData>
+		<SimpleData name="lat">42.21058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.75454,42.21058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">40</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">RUA PADRE SEIXAS</SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.74754</SimpleData>
+		<SimpleData name="id">48</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">PADRE SEIXAS</SimpleData>
+		<SimpleData name="lat">42.21098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.74754,42.210979999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">214</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">Ctra. Camposancos</SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.77252</SimpleData>
+		<SimpleData name="id">49</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Ctra. Camposancos</SimpleData>
+		<SimpleData name="lat">42.19359</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.77252,42.19359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">131</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.79554</SimpleData>
+		<SimpleData name="id">50</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Rúa Canido</SimpleData>
+		<SimpleData name="lat">42.19522</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.79554,42.195219999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">BOUZAS</SimpleData>
+		<SimpleData name="lon">-8.75322</SimpleData>
+		<SimpleData name="id">51</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Santo Cristo (Bouzas)</SimpleData>
+		<SimpleData name="lat">42.22543</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.75322,42.225430000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">2</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle"></SimpleData>
+		<SimpleData name="parroquia">BEMBRIVE</SimpleData>
+		<SimpleData name="lon">-8.68737</SimpleData>
+		<SimpleData name="id">52</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Rúa da Igrexa (Bembrive)</SimpleData>
+		<SimpleData name="lat">42.2043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.68737,42.204300000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">19</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">AVDA BEIRAMAR</SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.73199</SimpleData>
+		<SimpleData name="id">53</SimpleData>
+		<SimpleData name="telefono"></SimpleData>
+		<SimpleData name="nombre">Beiramar 19 (Puerto pesquero)</SimpleData>
+		<SimpleData name="lat">42.23587</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.73199,42.235869999999998</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

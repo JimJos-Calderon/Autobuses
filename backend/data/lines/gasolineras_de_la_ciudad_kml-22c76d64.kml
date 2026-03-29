@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="tipo" type="string"></SimpleField>
+	<SimpleField name="gid" type="int"></SimpleField>
+	<SimpleField name="p_bioalcohol" type="string"></SimpleField>
+	<SimpleField name="horario" type="string"></SimpleField>
+	<SimpleField name="municipio" type="string"></SimpleField>
+	<SimpleField name="codpos" type="int"></SimpleField>
+	<SimpleField name="direccion" type="string"></SimpleField>
+	<SimpleField name="p_bioetanol" type="string"></SimpleField>
+	<SimpleField name="p_gasolina_98" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="p_gasolina_protec" type="float"></SimpleField>
+	<SimpleField name="provincia" type="string"></SimpleField>
+	<SimpleField name="fecha" type="string"></SimpleField>
+	<SimpleField name="p_gasoleo_a" type="float"></SimpleField>
+	<SimpleField name="rotulo" type="string"></SimpleField>
+	<SimpleField name="p_gas" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="p_biodiesel" type="string"></SimpleField>
+	<SimpleField name="p_gasoleo_a_nuevo" type="string"></SimpleField>
+	<SimpleField name="p_ester_metilico" type="float"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320224</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36330</SimpleData>
+		<SimpleData name="direccion">AVENIDA RICARDO MELLA, 220</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.774722</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.459</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.699</SimpleData>
+		<SimpleData name="rotulo">PLENERGY</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.195472</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.774722,42.195472000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320191</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36202</SimpleData>
+		<SimpleData name="direccion">AVENIDA BEIRAMAR, 53</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.978000</SimpleData>
+		<SimpleData name="lon">-8.733278</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.669</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.889</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.233611</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.979000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.733278,42.233611000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">R</SimpleData>
+		<SimpleData name="gid">320192</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36202</SimpleData>
+		<SimpleData name="direccion">ZONA PUERTO PESQUERO DE VIGO, N</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.733417</SimpleData>
+		<SimpleData name="p_gasolina_protec">0</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">0</SimpleData>
+		<SimpleData name="rotulo">GNC IBÉRICA</SimpleData>
+		<SimpleData name="p_gas">2.350000</SimpleData>
+		<SimpleData name="lat">42.234528</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.733416999999999,42.234527999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320193</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-S: 07:30-22:30; D: 07:30-15:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36201</SimpleData>
+		<SimpleData name="direccion">CALLE REPUBLICA ARGENTINA, 8</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.699000</SimpleData>
+		<SimpleData name="lon">-8.717917</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.619</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.899</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.238472</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.929000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.717917,42.238472000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320194</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36213</SimpleData>
+		<SimpleData name="direccion">CARRETERA CAMPOSANCOS KM. 0,47</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.754778</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.459</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.699</SimpleData>
+		<SimpleData name="rotulo">BALLENOIL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.202278</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.709000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.754778,42.202278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320195</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36213</SimpleData>
+		<SimpleData name="direccion">AVENIDA RICARDO MELLA, S/N</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.719000</SimpleData>
+		<SimpleData name="lon">-8.761444</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.549</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.819</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.203917</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.761443999999999,42.203916999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320196</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36213</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE LA FLORIDA, 154</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.751528</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.459</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.699</SimpleData>
+		<SimpleData name="rotulo">PLENERGY</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.20675</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.751528,42.20675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320197</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36213</SimpleData>
+		<SimpleData name="direccion">CALLE SAN ANDRES DE COMESAÑA, 16</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.705000</SimpleData>
+		<SimpleData name="lon">-8.754778</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.545</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.829</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.202528</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.929000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.754778,42.202528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320198</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-V: 06:00-23:00; S-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36213</SimpleData>
+		<SimpleData name="direccion">CALLE RAMIRO PASCUAL, 18</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.685000</SimpleData>
+		<SimpleData name="lon">-8.718806</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.545</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.825</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.194333</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.925000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.718806,42.194333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320199</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36203</SimpleData>
+		<SimpleData name="direccion">PLAZA DE ESPAÑA, 0</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.729000</SimpleData>
+		<SimpleData name="lon">-8.719972</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.629</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.859</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.228889</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.719972,42.228889000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320200</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36204</SimpleData>
+		<SimpleData name="direccion">AVENIDA DE MADRID, 66</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.685000</SimpleData>
+		<SimpleData name="lon">-8.711444</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.535</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.845</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.224583</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.711444,42.224583000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320201</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36204</SimpleData>
+		<SimpleData name="direccion">AVDA DE MADRID, 110</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.708083</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.579</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.789</SimpleData>
+		<SimpleData name="rotulo">AUTOENERGY LOW COST</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.221778</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.708083,42.221778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320202</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36214</SimpleData>
+		<SimpleData name="direccion">RUA DO GANDARON, 52</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.698472</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.439</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.699</SimpleData>
+		<SimpleData name="rotulo">PLENERGY</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.221639</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.698472,42.221639000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320203</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36214</SimpleData>
+		<SimpleData name="direccion">CARRETERA VIGO- MADRID KM. 663</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.675000</SimpleData>
+		<SimpleData name="lon">-8.668806</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.525</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.845</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.211556</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.945000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.668806,42.211556000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320204</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36214</SimpleData>
+		<SimpleData name="direccion">CARRETERA MADRID - VIGO KM. 663,5</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.675000</SimpleData>
+		<SimpleData name="lon">-8.669083</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.525</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.845</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.211111</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.945000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.669083,42.211111000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320205</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36214</SimpleData>
+		<SimpleData name="direccion">AVENIDA MADRID, 137</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.685000</SimpleData>
+		<SimpleData name="lon">-8.705167</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.535</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.845</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.220056</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.945000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.705166999999999,42.220056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320206</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36214</SimpleData>
+		<SimpleData name="direccion">CALLE ALCALDE LAVADORES, 64</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.633000</SimpleData>
+		<SimpleData name="lon">-8.696861</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.459</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.722</SimpleData>
+		<SimpleData name="rotulo">BYE</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.221417</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.696861,42.221417000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320207</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36214</SimpleData>
+		<SimpleData name="direccion">CALLE ESTRADA DE MOLEDO, 2</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.707528</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.439</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.699</SimpleData>
+		<SimpleData name="rotulo">PLENERGY</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.215333</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.707528,42.215333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320208</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-22:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36214</SimpleData>
+		<SimpleData name="direccion">C/Alcalde de Lavadores</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.697987</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.479</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.769</SimpleData>
+		<SimpleData name="rotulo">GALP</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.223098</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.819000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.697986999999999,42.223098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320209</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36214</SimpleData>
+		<SimpleData name="direccion">AVDA. MADRID, 73</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.701000</SimpleData>
+		<SimpleData name="lon">-8.702472</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.599</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.866</SimpleData>
+		<SimpleData name="rotulo">MOEVE</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.216361</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.916000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.702472,42.216360999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320210</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36214</SimpleData>
+		<SimpleData name="direccion">AVENIDA MADRID, S/N</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.639000</SimpleData>
+		<SimpleData name="lon">-8.700889</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.479</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.699</SimpleData>
+		<SimpleData name="rotulo">ALCAMPO VIGO</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.214083</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.729000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.700889,42.214083000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320211</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-V: 06:00-23:00; S-D: 08:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36208</SimpleData>
+		<SimpleData name="direccion">AVENIDA ORILLAMAR, 173</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.700000</SimpleData>
+		<SimpleData name="lon">-8.745556</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.602</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.896</SimpleData>
+		<SimpleData name="rotulo">MOEVE</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.225306</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.946000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.745556,42.225306000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320212</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36208</SimpleData>
+		<SimpleData name="direccion">CALLE TOMAS PAREDES, 6</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.753444</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.529</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.799</SimpleData>
+		<SimpleData name="rotulo">GALP</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.221694</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.849000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.753444,42.221693999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320213</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 06:30-22:30</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36208</SimpleData>
+		<SimpleData name="direccion">CL EXPLANADA DE BOUZAS (2ª GLORIETA</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.695000</SimpleData>
+		<SimpleData name="lon">-8.754376</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.555</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.829</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas">1.099000</SimpleData>
+		<SimpleData name="lat">42.226792</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.754376,42.226792000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320214</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36208</SimpleData>
+		<SimpleData name="direccion">RUA RAMON SOLER, 5</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.738111</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.459</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.699</SimpleData>
+		<SimpleData name="rotulo">PETROPRIX</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.224417</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.738111,42.224417000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320215</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36210</SimpleData>
+		<SimpleData name="direccion">AVENIDA FLORIDA, 145</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.743556</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.459</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.699</SimpleData>
+		<SimpleData name="rotulo">AUTONETOIL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.213111</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.743556,42.213110999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320216</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36210</SimpleData>
+		<SimpleData name="direccion">BAIXADA/BAJADA Ó PONTILLÓN, S/N</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.726944</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.459</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.699</SimpleData>
+		<SimpleData name="rotulo">PLENERGY</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.215944</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.726944,42.215944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320217</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36207</SimpleData>
+		<SimpleData name="direccion">TRAVESIA DE VIGO, 242</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.717000</SimpleData>
+		<SimpleData name="lon">-8.684222</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.617</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.857</SimpleData>
+		<SimpleData name="rotulo">MOEVE</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.234583</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.897000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.684222,42.234583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320218</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36207</SimpleData>
+		<SimpleData name="direccion">RUA TRAVESIA DE VIGO, 239</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.718000</SimpleData>
+		<SimpleData name="lon">-8.693639</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.618</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.858</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.246306</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.898000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.693638999999999,42.246305999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320219</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36209</SimpleData>
+		<SimpleData name="direccion">CL BAYONA S/N</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.709000</SimpleData>
+		<SimpleData name="lon">-8.749444</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.609</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.849</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.214556</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.909000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.749444,42.214556000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320220</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36216</SimpleData>
+		<SimpleData name="direccion">AVENIDA GALICIA-TEIS, 165</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.649000</SimpleData>
+		<SimpleData name="lon">-8.681889</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.549</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.749</SimpleData>
+		<SimpleData name="rotulo">E.SERVICIO TEIS P.R.</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.255861</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.681889,42.255861000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320221</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36213</SimpleData>
+		<SimpleData name="direccion">AVENIDA CASTRELOS, 524</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.705000</SimpleData>
+		<SimpleData name="lon">-8.72125</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.545</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.829</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.190806</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.929000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72125,42.190806000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320222</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36213</SimpleData>
+		<SimpleData name="direccion">CARRETERA MATAMA PAZO-COMESAÑA KM. 159</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.666000</SimpleData>
+		<SimpleData name="lon">-8.760278</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.496</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.696</SimpleData>
+		<SimpleData name="rotulo">LAS PALMERAS</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.199083</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.736000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.760278,42.199083000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320223</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36330</SimpleData>
+		<SimpleData name="direccion">CALLE ESTURÁNS (COIA), 1</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.738972</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.459</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.729</SimpleData>
+		<SimpleData name="rotulo">GALEA</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.223722</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.738972,42.223722000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320225</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36318</SimpleData>
+		<SimpleData name="direccion">AVENIDA AEROPUERTO (CTRA. N-556, KM 5), 532</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.749000</SimpleData>
+		<SimpleData name="lon">-8.657083</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.649</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.869</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.233889</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.949000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.657083,42.233888999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320226</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36318</SimpleData>
+		<SimpleData name="direccion">AVENIDA AEROPUERTO, 473</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.749000</SimpleData>
+		<SimpleData name="lon">-8.655722</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.649</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.869</SimpleData>
+		<SimpleData name="rotulo">REPSOL</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.234972</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.949000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.655722,42.234971999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320227</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36318</SimpleData>
+		<SimpleData name="direccion">AVDA. AEROPORTO (CTRA. N-556 km 6,300)</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.709000</SimpleData>
+		<SimpleData name="lon">-8.643694</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.489</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.759</SimpleData>
+		<SimpleData name="rotulo">SIS CARBURANTES</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.233417</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.859000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.643694,42.233417000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320228</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 07:00-23:00</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36390</SimpleData>
+		<SimpleData name="direccion">AVDA. RICARDO MELLA, S/N (PO-325 km 5,8)</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98">1.706000</SimpleData>
+		<SimpleData name="lon">-8.801722</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.612</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.899</SimpleData>
+		<SimpleData name="rotulo">MOEVE</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.182917</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo">1.956000</SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.801722,42.182917000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="tipo">P</SimpleData>
+		<SimpleData name="gid">320229</SimpleData>
+		<SimpleData name="p_bioalcohol"></SimpleData>
+		<SimpleData name="horario">L-D: 24H</SimpleData>
+		<SimpleData name="municipio">Vigo</SimpleData>
+		<SimpleData name="codpos">36390</SimpleData>
+		<SimpleData name="direccion">AVENIDA RICARDO MELLA, 135</SimpleData>
+		<SimpleData name="p_bioetanol"></SimpleData>
+		<SimpleData name="p_gasolina_98"></SimpleData>
+		<SimpleData name="lon">-8.773861</SimpleData>
+		<SimpleData name="p_gasolina_protec">1.459</SimpleData>
+		<SimpleData name="provincia">PONTEVEDRA</SimpleData>
+		<SimpleData name="fecha">29/03/2026 7:05:00</SimpleData>
+		<SimpleData name="p_gasoleo_a">1.699</SimpleData>
+		<SimpleData name="rotulo">PETROPRIX</SimpleData>
+		<SimpleData name="p_gas"></SimpleData>
+		<SimpleData name="lat">42.195556</SimpleData>
+		<SimpleData name="p_biodiesel"></SimpleData>
+		<SimpleData name="p_gasoleo_a_nuevo"></SimpleData>
+		<SimpleData name="p_ester_metilico">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.773861,42.195556000000003</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

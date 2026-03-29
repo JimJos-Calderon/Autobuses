@@ -1,0 +1,8325 @@
+[
+  {
+    "id": "6930",
+    "name": "Praza De América, 1",
+    "lat": 42.220997313,
+    "lon": -8.732835177,
+    "lines": []
+  },
+  {
+    "id": "3250",
+    "name": "Rúa Da Coruña, 26",
+    "lat": 42.222378625,
+    "lon": -8.734134247,
+    "lines": []
+  },
+  {
+    "id": "6970",
+    "name": "Rúa Da Coruña, 52",
+    "lat": 42.223781999,
+    "lon": -8.735258991,
+    "lines": []
+  },
+  {
+    "id": "14892",
+    "name": "Rúa Do Conde De Torrecedeira, 123",
+    "lat": 42.224929414,
+    "lon": -8.735414067,
+    "lines": []
+  },
+  {
+    "id": "8460",
+    "name": "Rúa Do Conde De Torrecedeira, 105",
+    "lat": 42.227500225,
+    "lon": -8.734096707,
+    "lines": []
+  },
+  {
+    "id": "8480",
+    "name": "Rúa Do Conde De Torrecedeira, 81",
+    "lat": 42.229616766,
+    "lon": -8.732861043,
+    "lines": []
+  },
+  {
+    "id": "8450",
+    "name": "Rúa Do Conde De Torrecedeira (parque)",
+    "lat": 42.231511437,
+    "lon": -8.732178,
+    "lines": []
+  },
+  {
+    "id": "8470",
+    "name": "Rúa Do Conde De Torrecedeira, 21",
+    "lat": 42.234106639,
+    "lon": -8.731302569,
+    "lines": []
+  },
+  {
+    "id": "14173",
+    "name": "Rúa Do Gaiteiro De Ricardo Portela (fronte Pavillón)",
+    "lat": 42.235900754,
+    "lon": -8.731391435,
+    "lines": []
+  },
+  {
+    "id": "1150",
+    "name": "Rúa Da Ribeira Do Berbés",
+    "lat": 42.237384264,
+    "lon": -8.729603006,
+    "lines": []
+  },
+  {
+    "id": "14333",
+    "name": "Rúa De Cánovas Del Castillo, 18",
+    "lat": 42.240189011,
+    "lon": -8.726765331,
+    "lines": []
+  },
+  {
+    "id": "14121",
+    "name": "Praza De Compostela, 2",
+    "lat": 42.238978827,
+    "lon": -8.723607128,
+    "lines": []
+  },
+  {
+    "id": "20198",
+    "name": "Rúa De Policarpo Sanz, 26",
+    "lat": 42.237533428,
+    "lon": -8.722195046,
+    "lines": []
+  },
+  {
+    "id": "6620",
+    "name": "Rúa De Policarpo Sanz, 40",
+    "lat": 42.237570519,
+    "lon": -8.721008848,
+    "lines": []
+  },
+  {
+    "id": "14264",
+    "name": "Rúa De Urzáiz - Príncipe",
+    "lat": 42.235873545,
+    "lon": -8.720083317,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "8820",
+    "name": "Rúa De Urzáiz, 28",
+    "lat": 42.23516998,
+    "lon": -8.718398782,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5610",
+    "name": "Avda.. Da Gran Vía, 12",
+    "lat": 42.233503531,
+    "lon": -8.717236739,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5670",
+    "name": "Avda.. Da Gran Vía, 46",
+    "lat": 42.230988893,
+    "lon": -8.71867283,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14135",
+    "name": "Rúa De Santo Amaro (praza De España)",
+    "lat": 42.229174145,
+    "lon": -8.720143055,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "2440",
+    "name": "Rúa De Barcelona, 18",
+    "lat": 42.227184403,
+    "lon": -8.722366808,
+    "lines": []
+  },
+  {
+    "id": "2450",
+    "name": "Rúa De Barcelona, 44",
+    "lat": 42.225283542,
+    "lon": -8.724362504,
+    "lines": []
+  },
+  {
+    "id": "2430",
+    "name": "Rúa De Barcelona Hospital Ribera Povisa",
+    "lat": 42.223280419,
+    "lon": -8.727469542,
+    "lines": []
+  },
+  {
+    "id": "6530",
+    "name": "Rúa Do Pintor Laxeiro, 4",
+    "lat": 42.222480852,
+    "lon": -8.729812967,
+    "lines": []
+  },
+  {
+    "id": "14169",
+    "name": "Avda.. Das Camelias, 136",
+    "lat": 42.22244224,
+    "lon": -8.731271052,
+    "lines": []
+  },
+  {
+    "id": "20026",
+    "name": "Rúa Das Teixugueiras, 29",
+    "lat": 42.206488366,
+    "lon": -8.759906624,
+    "lines": []
+  },
+  {
+    "id": "14890",
+    "name": "Rúa Das Teixugueiras, 25",
+    "lat": 42.207545331,
+    "lon": -8.758718406,
+    "lines": []
+  },
+  {
+    "id": "14360",
+    "name": "Rúa Das Teixugueiras 19-Portal, 5",
+    "lat": 42.208965857,
+    "lon": -8.757020567,
+    "lines": []
+  },
+  {
+    "id": "14361",
+    "name": "Rúa Das Teixugueiras, 17",
+    "lat": 42.209770472,
+    "lon": -8.755295907,
+    "lines": []
+  },
+  {
+    "id": "14388",
+    "name": "Rúa Das Teixugueiras, 11",
+    "lat": 42.211610124,
+    "lon": -8.754550253,
+    "lines": []
+  },
+  {
+    "id": "14337",
+    "name": "Rúa Do Limpiño (rotonda Rúa Teixugueiras)",
+    "lat": 42.213080218,
+    "lon": -8.754660224,
+    "lines": []
+  },
+  {
+    "id": "14123",
+    "name": "Rúa Do Porriño, 9",
+    "lat": 42.214127819,
+    "lon": -8.752027594,
+    "lines": []
+  },
+  {
+    "id": "6650",
+    "name": "Rúa Do Porriño (instituto)",
+    "lat": 42.215554055,
+    "lon": -8.753042462,
+    "lines": []
+  },
+  {
+    "id": "6180",
+    "name": "Rúa De Marín (fronte 30)",
+    "lat": 42.21850454,
+    "lon": -8.753892634,
+    "lines": []
+  },
+  {
+    "id": "8950",
+    "name": "Rúa De Marín, 5",
+    "lat": 42.218712573,
+    "lon": -8.75011435,
+    "lines": []
+  },
+  {
+    "id": "8930",
+    "name": "Rúa De Vilagarcía De Arousa (cruce Rúa Do Grove)",
+    "lat": 42.22014115,
+    "lon": -8.745082757,
+    "lines": []
+  },
+  {
+    "id": "5070",
+    "name": "Rúa Da Estrada 10-12",
+    "lat": 42.220535836,
+    "lon": -8.74141599,
+    "lines": []
+  },
+  {
+    "id": "5090",
+    "name": "Rúa Da Estrada, 1",
+    "lat": 42.220359068,
+    "lon": -8.738861999,
+    "lines": []
+  },
+  {
+    "id": "1260",
+    "name": "Avda.. De Castelao, 21",
+    "lat": 42.219775977,
+    "lon": -8.736255523,
+    "lines": []
+  },
+  {
+    "id": "2780",
+    "name": "Avda.. Das Camelias, 135",
+    "lat": 42.222387178,
+    "lon": -8.731207698,
+    "lines": []
+  },
+  {
+    "id": "14331",
+    "name": "Rúa De Álvaro Cunqueiro, 30",
+    "lat": 42.223769828,
+    "lon": -8.728938728,
+    "lines": []
+  },
+  {
+    "id": "20170",
+    "name": "Rúa De Álvaro Cunqueiro, 4",
+    "lat": 42.224544805,
+    "lon": -8.730413561,
+    "lines": []
+  },
+  {
+    "id": "14899",
+    "name": "Rúa De López Mora, 33",
+    "lat": 42.225485719,
+    "lon": -8.730501434,
+    "lines": []
+  },
+  {
+    "id": "5880",
+    "name": "Rúa De López Mora, 19",
+    "lat": 42.226800566,
+    "lon": -8.731799623,
+    "lines": []
+  },
+  {
+    "id": "6480",
+    "name": "Rúa De Pi I Margall, 137",
+    "lat": 42.229149188,
+    "lon": -8.731886908,
+    "lines": []
+  },
+  {
+    "id": "14295",
+    "name": "Rúa De Pi I Margall, 121",
+    "lat": 42.230436358,
+    "lon": -8.731437473,
+    "lines": []
+  },
+  {
+    "id": "6520",
+    "name": "Rúa De Pi I Margall, 95",
+    "lat": 42.232285981,
+    "lon": -8.730816324,
+    "lines": []
+  },
+  {
+    "id": "6500",
+    "name": "Rúa De Pi I Margall, 51",
+    "lat": 42.233690068,
+    "lon": -8.730100174,
+    "lines": []
+  },
+  {
+    "id": "20197",
+    "name": "Rúa De Pi I Margall 3-5",
+    "lat": 42.23558703,
+    "lon": -8.728830897,
+    "lines": []
+  },
+  {
+    "id": "2735",
+    "name": "Rúa Da Cachamuíña (concello)",
+    "lat": 42.235033314,
+    "lon": -8.727202198,
+    "lines": []
+  },
+  {
+    "id": "8870",
+    "name": "Rúa De Venezuela, 4",
+    "lat": 42.234250043,
+    "lon": -8.724361531,
+    "lines": []
+  },
+  {
+    "id": "8880",
+    "name": "Rúa De Venezuela, 20",
+    "lat": 42.233188126,
+    "lon": -8.72155331,
+    "lines": []
+  },
+  {
+    "id": "8910",
+    "name": "Rúa De Venezuela, 42",
+    "lat": 42.232224046,
+    "lon": -8.718985824,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5660",
+    "name": "Avda.. Da Gran Vía, 19",
+    "lat": 42.232957918,
+    "lon": -8.717215735,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5530",
+    "name": "Avda.. De García Barbón, 18",
+    "lat": 42.23720456,
+    "lon": -8.718680736,
+    "lines": []
+  },
+  {
+    "id": "5540",
+    "name": "Avda.. De García Barbón, 28",
+    "lat": 42.236759685,
+    "lon": -8.716384581,
+    "lines": []
+  },
+  {
+    "id": "5560",
+    "name": "Avda.. De García Barbón, 60",
+    "lat": 42.236896919,
+    "lon": -8.712902905,
+    "lines": []
+  },
+  {
+    "id": "5580",
+    "name": "Avda.. De García Barbón, 90",
+    "lat": 42.238267348,
+    "lon": -8.709873166,
+    "lines": []
+  },
+  {
+    "id": "14396",
+    "name": "Avda.. De García Barbón, 106",
+    "lat": 42.239965365,
+    "lon": -8.708024282,
+    "lines": []
+  },
+  {
+    "id": "5500",
+    "name": "Avda.. De García Barbón, 126",
+    "lat": 42.24178025,
+    "lon": -8.706720936,
+    "lines": []
+  },
+  {
+    "id": "8010",
+    "name": "Rúa De Sanjurjo Badía, 106",
+    "lat": 42.245018172,
+    "lon": -8.703349646,
+    "lines": []
+  },
+  {
+    "id": "8030",
+    "name": "Rúa De Sanjurjo Badía, 136",
+    "lat": 42.246056261,
+    "lon": -8.701684825,
+    "lines": []
+  },
+  {
+    "id": "8050",
+    "name": "Rúa De Sanjurjo Badía, 202",
+    "lat": 42.247765296,
+    "lon": -8.698918203,
+    "lines": []
+  },
+  {
+    "id": "14132",
+    "name": "Rúa De Sanjurjo Badía, 252",
+    "lat": 42.249307631,
+    "lon": -8.696542008,
+    "lines": []
+  },
+  {
+    "id": "1240",
+    "name": "Avda.. De Buenos Aires, 8",
+    "lat": 42.249128205,
+    "lon": -8.69514773,
+    "lines": []
+  },
+  {
+    "id": "1220",
+    "name": "Avda.. De Buenos Aires, 46",
+    "lat": 42.247097055,
+    "lon": -8.693109251,
+    "lines": []
+  },
+  {
+    "id": "8570",
+    "name": "Rúa Da Travesía De Vigo, 239",
+    "lat": 42.246143319,
+    "lon": -8.69359937,
+    "lines": []
+  },
+  {
+    "id": "8560",
+    "name": "Rúa Da Travesía De Vigo, 213",
+    "lat": 42.24409871,
+    "lon": -8.69614733,
+    "lines": []
+  },
+  {
+    "id": "8540",
+    "name": "Rúa Da Travesía De Vigo, 193",
+    "lat": 42.242844316,
+    "lon": -8.698295825,
+    "lines": []
+  },
+  {
+    "id": "8520",
+    "name": "Rúa Da Travesía De Vigo, 153",
+    "lat": 42.241332883,
+    "lon": -8.702059906,
+    "lines": []
+  },
+  {
+    "id": "8500",
+    "name": "Rúa Da Travesía De Vigo, 105",
+    "lat": 42.238455548,
+    "lon": -8.703814812,
+    "lines": []
+  },
+  {
+    "id": "8600",
+    "name": "Rúa Da Travesía De Vigo, 71",
+    "lat": 42.236350093,
+    "lon": -8.70429745,
+    "lines": []
+  },
+  {
+    "id": "8590",
+    "name": "Rúa Da Travesía De Vigo, 37",
+    "lat": 42.233681224,
+    "lon": -8.706702136,
+    "lines": []
+  },
+  {
+    "id": "8630",
+    "name": "Rúa Da Travesía De Vigo, 7",
+    "lat": 42.232045931,
+    "lon": -8.708603793,
+    "lines": []
+  },
+  {
+    "id": "8850",
+    "name": "Rúa De Urzáiz, 97",
+    "lat": 42.232341315,
+    "lon": -8.710892054,
+    "lines": []
+  },
+  {
+    "id": "8750",
+    "name": "Rúa De Urzáiz - Est. Intermodal - C.c.",
+    "lat": 42.233722977,
+    "lon": -8.714502762,
+    "lines": []
+  },
+  {
+    "id": "8770",
+    "name": "Rúa De Urzáiz, 13",
+    "lat": 42.235420929,
+    "lon": -8.718721877,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "3230",
+    "name": "Rúa De Colón, 27",
+    "lat": 42.236471452,
+    "lon": -8.720164905,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "20193",
+    "name": "Rúa De Policarpo Sanz, 25",
+    "lat": 42.237667201,
+    "lon": -8.72126716,
+    "lines": []
+  },
+  {
+    "id": "6860",
+    "name": "Praza De Compostela",
+    "lat": 42.239118346,
+    "lon": -8.722531274,
+    "lines": []
+  },
+  {
+    "id": "20195",
+    "name": "Praza De Compostela (fronte 35)",
+    "lat": 42.2393606,
+    "lon": -8.724131464,
+    "lines": []
+  },
+  {
+    "id": "6300",
+    "name": "Rúa De Cánovas Del Castillo (centro Comercial)",
+    "lat": 42.240129541,
+    "lon": -8.727159759,
+    "lines": []
+  },
+  {
+    "id": "14223",
+    "name": "Avda.. Beiramar \"porto Pesqueiro Berbés\"",
+    "lat": 42.236685153,
+    "lon": -8.731609303,
+    "lines": []
+  },
+  {
+    "id": "14224",
+    "name": "Rúa Do Conde De Torrecedeira, 16",
+    "lat": 42.234285927,
+    "lon": -8.731266507,
+    "lines": []
+  },
+  {
+    "id": "14225",
+    "name": "Rúa Do Conde De Torrecedeira, 50",
+    "lat": 42.231716574,
+    "lon": -8.732308737,
+    "lines": []
+  },
+  {
+    "id": "14226",
+    "name": "Rúa Do Conde De Torrecedeira, 70",
+    "lat": 42.229574859,
+    "lon": -8.733073973,
+    "lines": []
+  },
+  {
+    "id": "14227",
+    "name": "Rúa Do Conde De Torrecedeira, 86",
+    "lat": 42.22696657,
+    "lon": -8.734559706,
+    "lines": []
+  },
+  {
+    "id": "20215",
+    "name": "Rúa Da Coruña, 21",
+    "lat": 42.223880296,
+    "lon": -8.735520196,
+    "lines": []
+  },
+  {
+    "id": "3240",
+    "name": "Rúa Da Coruña, 5",
+    "lat": 42.22214729,
+    "lon": -8.734167916,
+    "lines": []
+  },
+  {
+    "id": "6940",
+    "name": "Praza De América, 3",
+    "lat": 42.220663902,
+    "lon": -8.733419892,
+    "lines": []
+  },
+  {
+    "id": "5380",
+    "name": "Avda.. Da Florida, 8",
+    "lat": 42.219743053,
+    "lon": -8.734322187,
+    "lines": []
+  },
+  {
+    "id": "14300",
+    "name": "Avda.. Da Florida, 30",
+    "lat": 42.217907548,
+    "lon": -8.73707436,
+    "lines": []
+  },
+  {
+    "id": "5350",
+    "name": "Avda.. Da Florida, 40",
+    "lat": 42.216779248,
+    "lon": -8.738705143,
+    "lines": []
+  },
+  {
+    "id": "5290",
+    "name": "Avda.. Da Florida, 60",
+    "lat": 42.215060936,
+    "lon": -8.741309568,
+    "lines": []
+  },
+  {
+    "id": "5360",
+    "name": "Avda.. Da Florida, 70",
+    "lat": 42.212804215,
+    "lon": -8.744506761,
+    "lines": []
+  },
+  {
+    "id": "14162",
+    "name": "Avda.. Da Florida, 82",
+    "lat": 42.211371871,
+    "lon": -8.746523782,
+    "lines": []
+  },
+  {
+    "id": "5310",
+    "name": "Avda.. Da Florida, 140",
+    "lat": 42.208024308,
+    "lon": -8.750412985,
+    "lines": []
+  },
+  {
+    "id": "14128",
+    "name": "Camiño Do Caramuxo (fronte 9)",
+    "lat": 42.20733292,
+    "lon": -8.752159103,
+    "lines": []
+  },
+  {
+    "id": "14359",
+    "name": "Rúa Das Teixugueiras 16-Portal, 2",
+    "lat": 42.212235738,
+    "lon": -8.755011746,
+    "lines": []
+  },
+  {
+    "id": "14389",
+    "name": "Rúa Das Teixugueiras, 22",
+    "lat": 42.210212603,
+    "lon": -8.755079989,
+    "lines": []
+  },
+  {
+    "id": "14358",
+    "name": "Rúa Das Teixugueiras, 28",
+    "lat": 42.209054557,
+    "lon": -8.75715865,
+    "lines": []
+  },
+  {
+    "id": "14393",
+    "name": "Rúa Da Pedra Seixa (fronte Colexio)",
+    "lat": 42.209568936,
+    "lon": -8.760777001,
+    "lines": []
+  },
+  {
+    "id": "8410",
+    "name": "Rúa De Tomás Paredes (fronte 108)",
+    "lat": 42.218006346,
+    "lon": -8.754154367,
+    "lines": []
+  },
+  {
+    "id": "8430",
+    "name": "Rúa De Tomás Paredes, 9",
+    "lat": 42.221229518,
+    "lon": -8.753411657,
+    "lines": []
+  },
+  {
+    "id": "2830",
+    "name": "Rúa De Camilo Veiga, 33",
+    "lat": 42.22243855,
+    "lon": -8.751978552,
+    "lines": []
+  },
+  {
+    "id": "8390",
+    "name": "Rúa De Tomás A. Alonso, 251",
+    "lat": 42.223510532,
+    "lon": -8.748903264,
+    "lines": []
+  },
+  {
+    "id": "14165",
+    "name": "Rúa De Tomás A. Alonso, 193",
+    "lat": 42.224905029,
+    "lon": -8.745285775,
+    "lines": []
+  },
+  {
+    "id": "8340",
+    "name": "Rúa De Tomás A. Alonso, 137",
+    "lat": 42.223840474,
+    "lon": -8.740432891,
+    "lines": []
+  },
+  {
+    "id": "6990",
+    "name": "Praza Eugenio Fadrique, 9",
+    "lat": 42.224099613,
+    "lon": -8.735838344,
+    "lines": []
+  },
+  {
+    "id": "14136",
+    "name": "Avda.. De Galicia, 18",
+    "lat": 42.250484372,
+    "lon": -8.694878804,
+    "lines": []
+  },
+  {
+    "id": "1680",
+    "name": "Avda.. De Galicia (parque Cruce Balbarda)",
+    "lat": 42.251327471,
+    "lon": -8.69260735,
+    "lines": []
+  },
+  {
+    "id": "1610",
+    "name": "Avda.. De Galicia, 146",
+    "lat": 42.251376198,
+    "lon": -8.68920404,
+    "lines": []
+  },
+  {
+    "id": "14134",
+    "name": "Avda.. De Galicia, 182",
+    "lat": 42.253208793,
+    "lon": -8.686995591,
+    "lines": []
+  },
+  {
+    "id": "1640",
+    "name": "Avda.. De Galicia, 200",
+    "lat": 42.254950083,
+    "lon": -8.684862748,
+    "lines": []
+  },
+  {
+    "id": "1650",
+    "name": "Avda.. De Galicia, 238",
+    "lat": 42.256910715,
+    "lon": -8.68201353,
+    "lines": []
+  },
+  {
+    "id": "1660",
+    "name": "Avda.. De Galicia, 280",
+    "lat": 42.259217959,
+    "lon": -8.679666503,
+    "lines": []
+  },
+  {
+    "id": "1790",
+    "name": "Avda.. De Vigo 261 (cuatro Puentes)",
+    "lat": 42.261621089,
+    "lon": -8.677207279,
+    "lines": []
+  },
+  {
+    "id": "1760",
+    "name": "Avda.. De Vigo, 201",
+    "lat": 42.26408966,
+    "lon": -8.674082239,
+    "lines": []
+  },
+  {
+    "id": "1750",
+    "name": "Avda.. De Vigo, 161",
+    "lat": 42.266305919,
+    "lon": -8.672818918,
+    "lines": []
+  },
+  {
+    "id": "1730",
+    "name": "Avda.. De Vigo, 129",
+    "lat": 42.267833798,
+    "lon": -8.671345739,
+    "lines": []
+  },
+  {
+    "id": "1720",
+    "name": "Avda.. De Vigo, 95",
+    "lat": 42.270480988,
+    "lon": -8.667726374,
+    "lines": []
+  },
+  {
+    "id": "1820",
+    "name": "Avda.. De Vigo, 49",
+    "lat": 42.271878394,
+    "lon": -8.666356304,
+    "lines": []
+  },
+  {
+    "id": "1830",
+    "name": "Avda.. De Vigo, 11",
+    "lat": 42.274038501,
+    "lon": -8.666949932,
+    "lines": []
+  },
+  {
+    "id": "2090",
+    "name": "Avda.. De Redondela, 32",
+    "lat": 42.272074281,
+    "lon": -8.664593691,
+    "lines": []
+  },
+  {
+    "id": "2130",
+    "name": "Avda.. De Redondela (instituto)",
+    "lat": 42.266758811,
+    "lon": -8.667247828,
+    "lines": []
+  },
+  {
+    "id": "2110",
+    "name": "Avda.. De Redondela, 70",
+    "lat": 42.263286688,
+    "lon": -8.668985036,
+    "lines": []
+  },
+  {
+    "id": "2060",
+    "name": "Avda.. De Redondela, 122",
+    "lat": 42.259945558,
+    "lon": -8.672608434,
+    "lines": []
+  },
+  {
+    "id": "195",
+    "name": "Rúa De Ángel De Lema, 247",
+    "lat": 42.256624708,
+    "lon": -8.677490797,
+    "lines": []
+  },
+  {
+    "id": "250",
+    "name": "Rúa De Ángel De Lema, 221",
+    "lat": 42.255252085,
+    "lon": -8.679480662,
+    "lines": []
+  },
+  {
+    "id": "220",
+    "name": "Rúa De Ángel De Lema, 163",
+    "lat": 42.252694363,
+    "lon": -8.68302903,
+    "lines": []
+  },
+  {
+    "id": "260",
+    "name": "Rúa De Ángel De Lema, 91",
+    "lat": 42.250421216,
+    "lon": -8.685464716,
+    "lines": []
+  },
+  {
+    "id": "20054",
+    "name": "Rúa De Ángel De Lema, 33",
+    "lat": 42.248897377,
+    "lon": -8.689150714,
+    "lines": []
+  },
+  {
+    "id": "240",
+    "name": "Rúa De Ángel De Lema, 19",
+    "lat": 42.247513476,
+    "lon": -8.691874301,
+    "lines": []
+  },
+  {
+    "id": "6570",
+    "name": "Rúa De Pizarro, 65",
+    "lat": 42.231357755,
+    "lon": -8.71296778,
+    "lines": []
+  },
+  {
+    "id": "6580",
+    "name": "Rúa De Pizarro, 7",
+    "lat": 42.229860487,
+    "lon": -8.717979137,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5680",
+    "name": "Avda.. Da Gran Vía, 66",
+    "lat": 42.228173802,
+    "lon": -8.720267623,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5700",
+    "name": "Avda.. Da Gran Vía, 104",
+    "lat": 42.225325884,
+    "lon": -8.722106624,
+    "lines": []
+  },
+  {
+    "id": "14398",
+    "name": "Avda.. Da Gran Vía, 116",
+    "lat": 42.22406594,
+    "lon": -8.723691036,
+    "lines": []
+  },
+  {
+    "id": "5620",
+    "name": "Avda.. Da Gran Vía, 148",
+    "lat": 42.222321607,
+    "lon": -8.726440421,
+    "lines": []
+  },
+  {
+    "id": "5640",
+    "name": "Avda.. Da Gran Vía, 176",
+    "lat": 42.220868033,
+    "lon": -8.730264447,
+    "lines": []
+  },
+  {
+    "id": "1250",
+    "name": "Avda.. De Castelao, 16",
+    "lat": 42.219730396,
+    "lon": -8.737456513,
+    "lines": []
+  },
+  {
+    "id": "20077",
+    "name": "Avda.. De Castelao, 40",
+    "lat": 42.219259727,
+    "lon": -8.739809435,
+    "lines": []
+  },
+  {
+    "id": "1270",
+    "name": "Avda.. De Castelao, 50",
+    "lat": 42.218704937,
+    "lon": -8.74254446,
+    "lines": []
+  },
+  {
+    "id": "1290",
+    "name": "Avda.. De Castelao, 54",
+    "lat": 42.218158263,
+    "lon": -8.745797727,
+    "lines": []
+  },
+  {
+    "id": "20027",
+    "name": "Avda.. De Castelao, 64",
+    "lat": 42.217691983,
+    "lon": -8.749585877,
+    "lines": []
+  },
+  {
+    "id": "1300",
+    "name": "Avda.. De Castelao, 68",
+    "lat": 42.217466378,
+    "lon": -8.751245499,
+    "lines": []
+  },
+  {
+    "id": "6640",
+    "name": "Rúa Do Porriño (fronte Instituto)",
+    "lat": 42.215506175,
+    "lon": -8.753186569,
+    "lines": []
+  },
+  {
+    "id": "14125",
+    "name": "Rúa Do Porriño (fronte 9)",
+    "lat": 42.213869651,
+    "lon": -8.751990789,
+    "lines": []
+  },
+  {
+    "id": "1320",
+    "name": "Avda.. De Castelao, 87",
+    "lat": 42.217302224,
+    "lon": -8.751104752,
+    "lines": []
+  },
+  {
+    "id": "1310",
+    "name": "Avda.. De Castelao, 73",
+    "lat": 42.217705528,
+    "lon": -8.747753325,
+    "lines": []
+  },
+  {
+    "id": "20075",
+    "name": "Avda.. De Castelao, 65",
+    "lat": 42.218011215,
+    "lon": -8.745369728,
+    "lines": []
+  },
+  {
+    "id": "1280",
+    "name": "Avda.. De Castelao, 41",
+    "lat": 42.218523315,
+    "lon": -8.74223465,
+    "lines": []
+  },
+  {
+    "id": "20076",
+    "name": "Avda.. De Castelao, 25",
+    "lat": 42.21901679,
+    "lon": -8.739919147,
+    "lines": []
+  },
+  {
+    "id": "14901",
+    "name": "Avda.. De Castelao, 1",
+    "lat": 42.220211003,
+    "lon": -8.734183023,
+    "lines": []
+  },
+  {
+    "id": "14206",
+    "name": "Avda.. Da Gran Vía (instituto)",
+    "lat": 42.220514043,
+    "lon": -8.731700217,
+    "lines": []
+  },
+  {
+    "id": "5650",
+    "name": "Avda.. Da Gran Vía, 185",
+    "lat": 42.220971136,
+    "lon": -8.729196245,
+    "lines": []
+  },
+  {
+    "id": "5630",
+    "name": "Avda.. Da Gran Vía, 147",
+    "lat": 42.222790356,
+    "lon": -8.724940076,
+    "lines": []
+  },
+  {
+    "id": "5600",
+    "name": "Avda.. Da Gran Vía, 107",
+    "lat": 42.225140059,
+    "lon": -8.72184818,
+    "lines": []
+  },
+  {
+    "id": "5690",
+    "name": "Avda.. Da Gran Vía, 85",
+    "lat": 42.226868266,
+    "lon": -8.720637433,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "6550",
+    "name": "Rúa De Pizarro, 10",
+    "lat": 42.229886416,
+    "lon": -8.717463365,
+    "lines": []
+  },
+  {
+    "id": "20177",
+    "name": "Rúa De Pizarro, 16",
+    "lat": 42.230767817,
+    "lon": -8.715105964,
+    "lines": []
+  },
+  {
+    "id": "6560",
+    "name": "Rúa De Pizarro, 34",
+    "lat": 42.23113801,
+    "lon": -8.711696824,
+    "lines": []
+  },
+  {
+    "id": "8610",
+    "name": "Rúa Da Travesía De Vigo, 8",
+    "lat": 42.232028188,
+    "lon": -8.708203776,
+    "lines": []
+  },
+  {
+    "id": "8580",
+    "name": "Rúa Da Travesía De Vigo, 32",
+    "lat": 42.233828086,
+    "lon": -8.706311242,
+    "lines": []
+  },
+  {
+    "id": "8620",
+    "name": "Rúa Da Travesía De Vigo, 82",
+    "lat": 42.236261792,
+    "lon": -8.703994979,
+    "lines": []
+  },
+  {
+    "id": "8510",
+    "name": "Rúa Da Travesía De Vigo, 124",
+    "lat": 42.238413145,
+    "lon": -8.703563202,
+    "lines": []
+  },
+  {
+    "id": "8530",
+    "name": "Rúa Da Travesía De Vigo, 158",
+    "lat": 42.241101222,
+    "lon": -8.701974032,
+    "lines": []
+  },
+  {
+    "id": "14126",
+    "name": "Rúa Da Travesía De Vigo, 194",
+    "lat": 42.242494425,
+    "lon": -8.699249038,
+    "lines": []
+  },
+  {
+    "id": "8490",
+    "name": "Rúa Da Travesía De Vigo, 202",
+    "lat": 42.244366441,
+    "lon": -8.695452075,
+    "lines": []
+  },
+  {
+    "id": "8550",
+    "name": "Rúa Da Travesía De Vigo, 220",
+    "lat": 42.246425568,
+    "lon": -8.692950624,
+    "lines": []
+  },
+  {
+    "id": "230",
+    "name": "Rúa De Ángel De Lema, 14",
+    "lat": 42.248041601,
+    "lon": -8.691024475,
+    "lines": []
+  },
+  {
+    "id": "20053",
+    "name": "Rúa De Ángel De Lema (cruce Paraixal)",
+    "lat": 42.248962858,
+    "lon": -8.688272303,
+    "lines": []
+  },
+  {
+    "id": "190",
+    "name": "Rúa De Ángel De Lema, 58",
+    "lat": 42.250539537,
+    "lon": -8.685179363,
+    "lines": []
+  },
+  {
+    "id": "200",
+    "name": "Rúa De Ángel De Lema, 100",
+    "lat": 42.252115803,
+    "lon": -8.683374373,
+    "lines": []
+  },
+  {
+    "id": "210",
+    "name": "Rúa De Ángel De Lema, 140",
+    "lat": 42.255798748,
+    "lon": -8.678507526,
+    "lines": []
+  },
+  {
+    "id": "2070",
+    "name": "Avda.. De Redondela, 109",
+    "lat": 42.259481393,
+    "lon": -8.67292487,
+    "lines": []
+  },
+  {
+    "id": "2100",
+    "name": "Avda.. De Redondela, 47",
+    "lat": 42.263186001,
+    "lon": -8.668939094,
+    "lines": []
+  },
+  {
+    "id": "2080",
+    "name": "Avda.. De Redondela, 19",
+    "lat": 42.266569717,
+    "lon": -8.667160768,
+    "lines": []
+  },
+  {
+    "id": "5030",
+    "name": "Avda.. De Redondela (fronte 28)",
+    "lat": 42.272502528,
+    "lon": -8.664787252,
+    "lines": []
+  },
+  {
+    "id": "1710",
+    "name": "Avda.. De Vigo, 6",
+    "lat": 42.274450823,
+    "lon": -8.667138233,
+    "lines": []
+  },
+  {
+    "id": "1840",
+    "name": "Avda.. De Vigo, 72",
+    "lat": 42.27159436,
+    "lon": -8.666389735,
+    "lines": []
+  },
+  {
+    "id": "1740",
+    "name": "Avda.. De Vigo, 120",
+    "lat": 42.27068743,
+    "lon": -8.668057842,
+    "lines": []
+  },
+  {
+    "id": "1770",
+    "name": "Avda.. De Vigo (alameda De Rosalía De Castro)",
+    "lat": 42.26785896,
+    "lon": -8.671440263,
+    "lines": []
+  },
+  {
+    "id": "1780",
+    "name": "Avda.. De Vigo, 230",
+    "lat": 42.266245291,
+    "lon": -8.672965754,
+    "lines": []
+  },
+  {
+    "id": "1800",
+    "name": "Avda.. De Vigo, 266",
+    "lat": 42.263995234,
+    "lon": -8.674224503,
+    "lines": []
+  },
+  {
+    "id": "1810",
+    "name": "Avda.. De Vigo, 320",
+    "lat": 42.262068498,
+    "lon": -8.676736193,
+    "lines": []
+  },
+  {
+    "id": "20132",
+    "name": "Avda.. De Galicia, 341",
+    "lat": 42.260473187,
+    "lon": -8.67881466,
+    "lines": []
+  },
+  {
+    "id": "1670",
+    "name": "Avda.. De Galicia, 285",
+    "lat": 42.258365967,
+    "lon": -8.680508997,
+    "lines": []
+  },
+  {
+    "id": "1590",
+    "name": "Avda.. De Galicia (parque Riouxa)",
+    "lat": 42.256667905,
+    "lon": -8.682575386,
+    "lines": []
+  },
+  {
+    "id": "1630",
+    "name": "Avda.. De Galicia, 165",
+    "lat": 42.255177674,
+    "lon": -8.684734482,
+    "lines": []
+  },
+  {
+    "id": "1620",
+    "name": "Avda.. De Galicia, 139",
+    "lat": 42.253987165,
+    "lon": -8.686196616,
+    "lines": []
+  },
+  {
+    "id": "1600",
+    "name": "Avda.. De Galicia, 103",
+    "lat": 42.251389209,
+    "lon": -8.689369833,
+    "lines": []
+  },
+  {
+    "id": "1690",
+    "name": "Avda.. De Galicia, 71",
+    "lat": 42.251420909,
+    "lon": -8.692153216,
+    "lines": []
+  },
+  {
+    "id": "14133",
+    "name": "Avda.. De Galicia, 37",
+    "lat": 42.250977575,
+    "lon": -8.694471881,
+    "lines": []
+  },
+  {
+    "id": "8040",
+    "name": "Rúa De Sanjurjo Badía, 167",
+    "lat": 42.24874024,
+    "lon": -8.697546209,
+    "lines": []
+  },
+  {
+    "id": "8020",
+    "name": "Rúa De Sanjurjo Badía, 123",
+    "lat": 42.246941664,
+    "lon": -8.700376378,
+    "lines": []
+  },
+  {
+    "id": "8060",
+    "name": "Rúa De Sanjurjo Badía, 79",
+    "lat": 42.244926864,
+    "lon": -8.703642393,
+    "lines": []
+  },
+  {
+    "id": "5490",
+    "name": "Avda.. De García Barbón (fronte 120)",
+    "lat": 42.241557555,
+    "lon": -8.707094861,
+    "lines": []
+  },
+  {
+    "id": "14397",
+    "name": "Avda.. De García Barbón (fronte 104)",
+    "lat": 42.23973713,
+    "lon": -8.708397682,
+    "lines": []
+  },
+  {
+    "id": "5510",
+    "name": "Avda.. De García Barbón, 127",
+    "lat": 42.238290358,
+    "lon": -8.71014103,
+    "lines": []
+  },
+  {
+    "id": "5570",
+    "name": "Avda.. De García Barbón, 87",
+    "lat": 42.237003397,
+    "lon": -8.713586994,
+    "lines": []
+  },
+  {
+    "id": "14245",
+    "name": "Avda.. De García Barbón, 43",
+    "lat": 42.23691728,
+    "lon": -8.716743143,
+    "lines": []
+  },
+  {
+    "id": "5520",
+    "name": "Avda.. García Barbón, 7",
+    "lat": 42.237485586,
+    "lon": -8.719397801,
+    "lines": []
+  },
+  {
+    "id": "6980",
+    "name": "Praza Eugenio Fadrique, 6",
+    "lat": 42.224471236,
+    "lon": -8.73619635,
+    "lines": []
+  },
+  {
+    "id": "8330",
+    "name": "Rúa De Tomás A. Alonso, 86",
+    "lat": 42.223897608,
+    "lon": -8.740424721,
+    "lines": []
+  },
+  {
+    "id": "14164",
+    "name": "Rúa De Tomás A. Alonso, 144",
+    "lat": 42.225172437,
+    "lon": -8.744777354,
+    "lines": []
+  },
+  {
+    "id": "20100",
+    "name": "Rúa De Camilo Veiga, 6",
+    "lat": 42.223195763,
+    "lon": -8.749650702,
+    "lines": []
+  },
+  {
+    "id": "20099",
+    "name": "Rúa De Camilo Veiga, 48",
+    "lat": 42.222390674,
+    "lon": -8.752507356,
+    "lines": []
+  },
+  {
+    "id": "14131",
+    "name": "Rúa De Tomás Paredes, 4",
+    "lat": 42.221948768,
+    "lon": -8.753171211,
+    "lines": []
+  },
+  {
+    "id": "8440",
+    "name": "Rúa De Tomás Paredes, 86",
+    "lat": 42.220192578,
+    "lon": -8.754164587,
+    "lines": []
+  },
+  {
+    "id": "8420",
+    "name": "Rúa De Tomás Paredes, 114",
+    "lat": 42.218031265,
+    "lon": -8.754258995,
+    "lines": []
+  },
+  {
+    "id": "7410",
+    "name": "Rúa De Eduardo Cabello (igrexa)",
+    "lat": 42.226366639,
+    "lon": -8.752928216,
+    "lines": []
+  },
+  {
+    "id": "6450",
+    "name": "Praza De Suárez Llanos",
+    "lat": 42.224306065,
+    "lon": -8.753090783,
+    "lines": []
+  },
+  {
+    "id": "8370",
+    "name": "Rúa De Tomás A. Alonso, 220",
+    "lat": 42.223984208,
+    "lon": -8.751326546,
+    "lines": []
+  },
+  {
+    "id": "6460",
+    "name": "Rúa Dos Pescadores, 10",
+    "lat": 42.224853579,
+    "lon": -8.752608542,
+    "lines": []
+  },
+  {
+    "id": "14124",
+    "name": "Rúa De Eduardo Cabello (fronte Igrexa)",
+    "lat": 42.226569499,
+    "lon": -8.752773946,
+    "lines": []
+  },
+  {
+    "id": "20113",
+    "name": "Praza De América 3 (dirección Hospital)",
+    "lat": 42.220876566,
+    "lon": -8.733367644,
+    "lines": []
+  },
+  {
+    "id": "1360",
+    "name": "Avda.. De Castrelos, 16",
+    "lat": 42.219613217,
+    "lon": -8.732629194,
+    "lines": []
+  },
+  {
+    "id": "1500",
+    "name": "Avda.. De Castrelos, 58",
+    "lat": 42.217084821,
+    "lon": -8.732530893,
+    "lines": []
+  },
+  {
+    "id": "20013",
+    "name": "Avda.. De Castrelos, 116",
+    "lat": 42.215905917,
+    "lon": -8.732471102,
+    "lines": []
+  },
+  {
+    "id": "1390",
+    "name": "Avda.. De Castrelos, 186",
+    "lat": 42.212735556,
+    "lon": -8.732314182,
+    "lines": []
+  },
+  {
+    "id": "1400",
+    "name": "Avda.. De Castrelos, 202",
+    "lat": 42.210706683,
+    "lon": -8.732237372,
+    "lines": []
+  },
+  {
+    "id": "20124",
+    "name": "Estrada Clara Campoamor, 6",
+    "lat": 42.208989468,
+    "lon": -8.729330619,
+    "lines": []
+  },
+  {
+    "id": "20172",
+    "name": "Estrada Clara Campoamor (cruce Camiño Da Nogueira)",
+    "lat": 42.203736336,
+    "lon": -8.726617869,
+    "lines": []
+  },
+  {
+    "id": "20127",
+    "name": "Estrada Clara Campoamor (fronte Rotonda Hac)",
+    "lat": 42.19007538,
+    "lon": -8.718125045,
+    "lines": []
+  },
+  {
+    "id": "20111",
+    "name": "H. A. Cunqueiro (hospital De Día)",
+    "lat": 42.187585838,
+    "lon": -8.716278919,
+    "lines": []
+  },
+  {
+    "id": "20102",
+    "name": "H. A. Cunqueiro (porta Principal)",
+    "lat": 42.191034002,
+    "lon": -8.714303116,
+    "lines": []
+  },
+  {
+    "id": "20012",
+    "name": "Avda.. De Castrelos, 33",
+    "lat": 42.215888032,
+    "lon": -8.732331627,
+    "lines": []
+  },
+  {
+    "id": "1410",
+    "name": "Avda.. De Castrelos, 13",
+    "lat": 42.218060161,
+    "lon": -8.732450427,
+    "lines": []
+  },
+  {
+    "id": "1330",
+    "name": "Avda.. De Castrelos (pavillón)",
+    "lat": 42.219553947,
+    "lon": -8.732509436,
+    "lines": []
+  },
+  {
+    "id": "8840",
+    "name": "Rúa De Urzáiz 60 - Est. Intermodal - C.c.",
+    "lat": 42.233986283,
+    "lon": -8.71541048,
+    "lines": []
+  },
+  {
+    "id": "7000",
+    "name": "Praza De Fernando O Católico",
+    "lat": 42.232427317,
+    "lon": -8.711371073,
+    "lines": []
+  },
+  {
+    "id": "5810",
+    "name": "Rúa De Jenaro De La Fuente, 10",
+    "lat": 42.232258514,
+    "lon": -8.705770621,
+    "lines": []
+  },
+  {
+    "id": "5820",
+    "name": "Rúa De Jenaro De La Fuente, 22",
+    "lat": 42.232042043,
+    "lon": -8.703616807,
+    "lines": []
+  },
+  {
+    "id": "710",
+    "name": "Rúa De Aragón (instituto)",
+    "lat": 42.232478958,
+    "lon": -8.701988706,
+    "lines": []
+  },
+  {
+    "id": "910",
+    "name": "Avda.. Do Aeroporto, 54",
+    "lat": 42.234679919,
+    "lon": -8.699623994,
+    "lines": []
+  },
+  {
+    "id": "14106",
+    "name": "Avda.. Do Aeroporto, 92",
+    "lat": 42.234161582,
+    "lon": -8.695074564,
+    "lines": []
+  },
+  {
+    "id": "730",
+    "name": "Avda.. Do Aeroporto, 130",
+    "lat": 42.231109162,
+    "lon": -8.690501398,
+    "lines": []
+  },
+  {
+    "id": "750",
+    "name": "Avda.. Do Aeroporto, 184",
+    "lat": 42.233103986,
+    "lon": -8.68716283,
+    "lines": []
+  },
+  {
+    "id": "760",
+    "name": "Avda.. Do Aeroporto, 240",
+    "lat": 42.236775611,
+    "lon": -8.683736566,
+    "lines": []
+  },
+  {
+    "id": "780",
+    "name": "Avda.. Do Aeroporto, 298",
+    "lat": 42.238554288,
+    "lon": -8.680663432,
+    "lines": []
+  },
+  {
+    "id": "800",
+    "name": "Avda.. Do Aeroporto, 328",
+    "lat": 42.237801674,
+    "lon": -8.676524783,
+    "lines": []
+  },
+  {
+    "id": "810",
+    "name": "Avda.. Do Aeroporto, 350",
+    "lat": 42.235521261,
+    "lon": -8.67465521,
+    "lines": []
+  },
+  {
+    "id": "830",
+    "name": "Avda.. Do Aeroporto, 378",
+    "lat": 42.234673289,
+    "lon": -8.671348046,
+    "lines": []
+  },
+  {
+    "id": "860",
+    "name": "Avda.. Do Aeroporto, 446",
+    "lat": 42.235612667,
+    "lon": -8.666529207,
+    "lines": []
+  },
+  {
+    "id": "880",
+    "name": "Avda.. Do Aeroporto, 484",
+    "lat": 42.23544051,
+    "lon": -8.662354939,
+    "lines": []
+  },
+  {
+    "id": "14251",
+    "name": "Avda.. Do Aeroporto (fronte 463)",
+    "lat": 42.234817602,
+    "lon": -8.65882027,
+    "lines": []
+  },
+  {
+    "id": "930",
+    "name": "Avda.. Do Aeroporto, 570",
+    "lat": 42.231979036,
+    "lon": -8.65372496,
+    "lines": []
+  },
+  {
+    "id": "950",
+    "name": "Avda.. Do Aeroporto, 614",
+    "lat": 42.233626818,
+    "lon": -8.647811163,
+    "lines": []
+  },
+  {
+    "id": "690",
+    "name": "Avda.. Do Aeroporto, 656",
+    "lat": 42.233064093,
+    "lon": -8.642742935,
+    "lines": []
+  },
+  {
+    "id": "960",
+    "name": "Avda.. Do Aeroporto, 686",
+    "lat": 42.230918888,
+    "lon": -8.638532893,
+    "lines": []
+  },
+  {
+    "id": "700",
+    "name": "Avda.. Do Aeroporto (colexio)",
+    "lat": 42.228674047,
+    "lon": -8.633340309,
+    "lines": []
+  },
+  {
+    "id": "6440",
+    "name": "Camiño Do Pino Manso, 6",
+    "lat": 42.222951208,
+    "lon": -8.635051581,
+    "lines": []
+  },
+  {
+    "id": "14228",
+    "name": "Avda.. De Peinador, 100",
+    "lat": 42.221696342,
+    "lon": -8.632840997,
+    "lines": []
+  },
+  {
+    "id": "90",
+    "name": "Aeroporto De Peinador",
+    "lat": 42.225956918,
+    "lon": -8.63286469,
+    "lines": []
+  },
+  {
+    "id": "680",
+    "name": "Avda.. Do Aeroporto (aeroclub)",
+    "lat": 42.229005723,
+    "lon": -8.634356866,
+    "lines": []
+  },
+  {
+    "id": "940",
+    "name": "Avda.. Do Aeroporto, 605",
+    "lat": 42.230493878,
+    "lon": -8.638023273,
+    "lines": []
+  },
+  {
+    "id": "920",
+    "name": "Avda.. Do Aeroporto (cruce Camiño Das Cereixeiras)",
+    "lat": 42.233499069,
+    "lon": -8.643325214,
+    "lines": []
+  },
+  {
+    "id": "900",
+    "name": "Avda.. Do Aeroporto, 531",
+    "lat": 42.233527998,
+    "lon": -8.648237616,
+    "lines": []
+  },
+  {
+    "id": "890",
+    "name": "Avda.. Do Aeroporto, 491",
+    "lat": 42.232066419,
+    "lon": -8.653842977,
+    "lines": []
+  },
+  {
+    "id": "14250",
+    "name": "Avda.. Do Aeroporto, 463",
+    "lat": 42.234914814,
+    "lon": -8.658983411,
+    "lines": []
+  },
+  {
+    "id": "870",
+    "name": "Avda.. Do Aeroporto, 447",
+    "lat": 42.23543058,
+    "lon": -8.66197943,
+    "lines": []
+  },
+  {
+    "id": "850",
+    "name": "Avda.. Do Aeroporto, 423",
+    "lat": 42.23630176,
+    "lon": -8.665791599,
+    "lines": []
+  },
+  {
+    "id": "820",
+    "name": "Avda.. Do Aeroporto, 377",
+    "lat": 42.234766626,
+    "lon": -8.671305131,
+    "lines": []
+  },
+  {
+    "id": "790",
+    "name": "Avda.. Do Aeroporto, 325",
+    "lat": 42.237426811,
+    "lon": -8.675474476,
+    "lines": []
+  },
+  {
+    "id": "770",
+    "name": "Avda.. Do Aeroporto, 273",
+    "lat": 42.238939528,
+    "lon": -8.681422497,
+    "lines": []
+  },
+  {
+    "id": "720",
+    "name": "Avda.. Do Aeroporto, 215",
+    "lat": 42.235739016,
+    "lon": -8.684254232,
+    "lines": []
+  },
+  {
+    "id": "740",
+    "name": "Avda.. Do Aeroporto, 181",
+    "lat": 42.233560754,
+    "lon": -8.686937524,
+    "lines": []
+  },
+  {
+    "id": "970",
+    "name": "Avda.. Do Aeroporto, 91",
+    "lat": 42.232787318,
+    "lon": -8.693473285,
+    "lines": []
+  },
+  {
+    "id": "20219",
+    "name": "Avda.. Do Aeroporto (fronte 90)",
+    "lat": 42.234830699,
+    "lon": -8.695443515,
+    "lines": []
+  },
+  {
+    "id": "840",
+    "name": "Avda.. Do Aeroporto, 43",
+    "lat": 42.234904325,
+    "lon": -8.699245802,
+    "lines": []
+  },
+  {
+    "id": "5800",
+    "name": "Rúa De Jenaro De La Fuente, 29",
+    "lat": 42.232202275,
+    "lon": -8.703792246,
+    "lines": []
+  },
+  {
+    "id": "5830",
+    "name": "Rúa De Jenaro De La Fuente, 11",
+    "lat": 42.23238699,
+    "lon": -8.705610784,
+    "lines": []
+  },
+  {
+    "id": "380",
+    "name": "Rúa De Aragón, 221",
+    "lat": 42.242091376,
+    "lon": -8.698668131,
+    "lines": []
+  },
+  {
+    "id": "360",
+    "name": "Rúa De Aragón, 193",
+    "lat": 42.24013184,
+    "lon": -8.700947033,
+    "lines": []
+  },
+  {
+    "id": "420",
+    "name": "Rúa De Aragón, 147",
+    "lat": 42.238092485,
+    "lon": -8.701156245,
+    "lines": []
+  },
+  {
+    "id": "400",
+    "name": "Rúa De Aragón, 91",
+    "lat": 42.235598195,
+    "lon": -8.701426538,
+    "lines": []
+  },
+  {
+    "id": "20052",
+    "name": "Rúa De Aragón, 21",
+    "lat": 42.232748414,
+    "lon": -8.702539655,
+    "lines": []
+  },
+  {
+    "id": "20192",
+    "name": "Rúa De Colón, 26",
+    "lat": 42.237168511,
+    "lon": -8.720373767,
+    "lines": []
+  },
+  {
+    "id": "8900",
+    "name": "Rúa De Venezuela, 45",
+    "lat": 42.232243383,
+    "lon": -8.718524158,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "8890",
+    "name": "Rúa De Venezuela, 21",
+    "lat": 42.233283503,
+    "lon": -8.721378959,
+    "lines": []
+  },
+  {
+    "id": "6960",
+    "name": "Avda.. Das Camelias S/N ( Praza Do Rei)",
+    "lat": 42.235056275,
+    "lon": -8.726757514,
+    "lines": []
+  },
+  {
+    "id": "20079",
+    "name": "Avda.. Das Camelias, 8",
+    "lat": 42.23341294,
+    "lon": -8.729045156,
+    "lines": []
+  },
+  {
+    "id": "2800",
+    "name": "Avda.. Das Camelias, 46",
+    "lat": 42.230291959,
+    "lon": -8.730279255,
+    "lines": []
+  },
+  {
+    "id": "2810",
+    "name": "Avda.. Das Camelias, 80",
+    "lat": 42.227601839,
+    "lon": -8.730236339,
+    "lines": []
+  },
+  {
+    "id": "14166",
+    "name": "Avda.. Das Camelias, 114",
+    "lat": 42.225142981,
+    "lon": -8.729707944,
+    "lines": []
+  },
+  {
+    "id": "6880",
+    "name": "Praza Do Cristo Da Vitoria",
+    "lat": 42.215576278,
+    "lon": -8.748885599,
+    "lines": []
+  },
+  {
+    "id": "14168",
+    "name": "Avda.. Das Camelias, 113",
+    "lat": 42.224928285,
+    "lon": -8.729631509,
+    "lines": []
+  },
+  {
+    "id": "2820",
+    "name": "Avda.. Das Camelias (praza 8 De Marzo)",
+    "lat": 42.227403959,
+    "lon": -8.729948584,
+    "lines": []
+  },
+  {
+    "id": "2790",
+    "name": "Avda.. Das Camelias, 37",
+    "lat": 42.230566426,
+    "lon": -8.730086804,
+    "lines": []
+  },
+  {
+    "id": "20078",
+    "name": "Avda.. Das Camelias, 3",
+    "lat": 42.233341329,
+    "lon": -8.728967219,
+    "lines": []
+  },
+  {
+    "id": "20190",
+    "name": "Avda.. Das Camelias (fronte Praza Do Rei)",
+    "lat": 42.234906013,
+    "lon": -8.72662052,
+    "lines": []
+  },
+  {
+    "id": "390",
+    "name": "Rúa De Aragón, 26",
+    "lat": 42.233174046,
+    "lon": -8.702380309,
+    "lines": []
+  },
+  {
+    "id": "410",
+    "name": "Rúa De Aragón, 82",
+    "lat": 42.235524387,
+    "lon": -8.701248417,
+    "lines": []
+  },
+  {
+    "id": "340",
+    "name": "Rúa De Aragón, 116",
+    "lat": 42.238036494,
+    "lon": -8.700921187,
+    "lines": []
+  },
+  {
+    "id": "350",
+    "name": "Rúa De Aragón, 162",
+    "lat": 42.240488915,
+    "lon": -8.700357923,
+    "lines": []
+  },
+  {
+    "id": "370",
+    "name": "Rúa De Aragón, 212",
+    "lat": 42.242101304,
+    "lon": -8.698394546,
+    "lines": []
+  },
+  {
+    "id": "6210",
+    "name": "Avda.. De E. Martínez Garrido, 16",
+    "lat": 42.229259529,
+    "lon": -8.699964485,
+    "lines": []
+  },
+  {
+    "id": "14140",
+    "name": "Avda.. De E. Martínez Garrido, 30",
+    "lat": 42.228210877,
+    "lon": -8.699999354,
+    "lines": []
+  },
+  {
+    "id": "6250",
+    "name": "Avda.. De E. Martínez Garrido, 80",
+    "lat": 42.22667463,
+    "lon": -8.702581423,
+    "lines": []
+  },
+  {
+    "id": "20136",
+    "name": "Avda.. De E. Martínez Garrido, 98",
+    "lat": 42.225764699,
+    "lon": -8.704499864,
+    "lines": []
+  },
+  {
+    "id": "14180",
+    "name": "Avda.. De E. Martínez Garrido, 108",
+    "lat": 42.224749197,
+    "lon": -8.707320585,
+    "lines": []
+  },
+  {
+    "id": "5750",
+    "name": "Avda.. Do Alcalde Gregorio Espino, 79",
+    "lat": 42.225785485,
+    "lon": -8.708786105,
+    "lines": []
+  },
+  {
+    "id": "5740",
+    "name": "Avda.. Do Alcalde Gregorio Espino, 57",
+    "lat": 42.227831786,
+    "lon": -8.707855407,
+    "lines": []
+  },
+  {
+    "id": "5720",
+    "name": "Avda.. Do Alcalde Gregorio Espino, 33",
+    "lat": 42.230134504,
+    "lon": -8.706992656,
+    "lines": []
+  },
+  {
+    "id": "14122",
+    "name": "Avda.. Do Alcalde Gregorio Espino, 9",
+    "lat": 42.231584097,
+    "lon": -8.706968521,
+    "lines": []
+  },
+  {
+    "id": "20116",
+    "name": "Estrada Da Coutada-Beade, 2",
+    "lat": 42.192037327,
+    "lon": -8.70573732,
+    "lines": []
+  },
+  {
+    "id": "3930",
+    "name": "Estrada Da Coutada, 12",
+    "lat": 42.19287831,
+    "lon": -8.703506202,
+    "lines": []
+  },
+  {
+    "id": "14113",
+    "name": "Estrada Da Coutada, 20",
+    "lat": 42.193458577,
+    "lon": -8.702065856,
+    "lines": []
+  },
+  {
+    "id": "3880",
+    "name": "Estrada Da Coutada, 44",
+    "lat": 42.194829735,
+    "lon": -8.699040324,
+    "lines": []
+  },
+  {
+    "id": "3910",
+    "name": "Estrada Da Coutada, 68",
+    "lat": 42.195404022,
+    "lon": -8.695794851,
+    "lines": []
+  },
+  {
+    "id": "3710",
+    "name": "Estrada De Bembrive, 363",
+    "lat": 42.193846109,
+    "lon": -8.69200489,
+    "lines": []
+  },
+  {
+    "id": "3720",
+    "name": "Estrada De Bembrive, 341",
+    "lat": 42.1948986,
+    "lon": -8.689213754,
+    "lines": []
+  },
+  {
+    "id": "3640",
+    "name": "Estrada De Bembrive, 315",
+    "lat": 42.197359418,
+    "lon": -8.688113004,
+    "lines": []
+  },
+  {
+    "id": "3730",
+    "name": "Estrada De Bembrive, 301",
+    "lat": 42.199203404,
+    "lon": -8.688880116,
+    "lines": []
+  },
+  {
+    "id": "14419",
+    "name": "Estrada De Bembrive (cruce Camiño Dos Rapadouros)",
+    "lat": 42.201138734,
+    "lon": -8.688585073,
+    "lines": []
+  },
+  {
+    "id": "3630",
+    "name": "Estrada De Bembrive, 269",
+    "lat": 42.20274418,
+    "lon": -8.684443742,
+    "lines": []
+  },
+  {
+    "id": "14111",
+    "name": "Estrada De Bembrive (centro Saúde)",
+    "lat": 42.204262657,
+    "lon": -8.684801801,
+    "lines": []
+  },
+  {
+    "id": "3610",
+    "name": "Estrada De Bembrive, 237",
+    "lat": 42.204446407,
+    "lon": -8.68809021,
+    "lines": []
+  },
+  {
+    "id": "3590",
+    "name": "Estrada De Bembrive, 195",
+    "lat": 42.204458432,
+    "lon": -8.690765895,
+    "lines": []
+  },
+  {
+    "id": "14153",
+    "name": "Estrada De Bembrive, 173",
+    "lat": 42.205357233,
+    "lon": -8.692495739,
+    "lines": []
+  },
+  {
+    "id": "3370",
+    "name": "Estrada De Bembrive (cruce Rúa Eifonso)",
+    "lat": 42.205676226,
+    "lon": -8.693112047,
+    "lines": []
+  },
+  {
+    "id": "3570",
+    "name": "Estrada De Bembrive, 109",
+    "lat": 42.209576972,
+    "lon": -8.695580071,
+    "lines": []
+  },
+  {
+    "id": "3690",
+    "name": "Estrada De Bembrive, 73",
+    "lat": 42.210947345,
+    "lon": -8.69627482,
+    "lines": []
+  },
+  {
+    "id": "3660",
+    "name": "Estrada De Bembrive, 39",
+    "lat": 42.212227656,
+    "lon": -8.697028614,
+    "lines": []
+  },
+  {
+    "id": "110",
+    "name": "Avda.. Do Alcalde Lavadores, 171",
+    "lat": 42.215074591,
+    "lon": -8.696738405,
+    "lines": []
+  },
+  {
+    "id": "100",
+    "name": "Avda.. Do Alcalde Lavadores, 125",
+    "lat": 42.219008975,
+    "lon": -8.69606935,
+    "lines": []
+  },
+  {
+    "id": "160",
+    "name": "Avda.. Do Alcalde Lavadores, 67",
+    "lat": 42.222830286,
+    "lon": -8.697231476,
+    "lines": []
+  },
+  {
+    "id": "140",
+    "name": "Avda.. Do Alcalde Lavadores, 29",
+    "lat": 42.223444913,
+    "lon": -8.700801996,
+    "lines": []
+  },
+  {
+    "id": "3070",
+    "name": "Rúa Da Ceboleira, 49",
+    "lat": 42.224816342,
+    "lon": -8.701565998,
+    "lines": []
+  },
+  {
+    "id": "14139",
+    "name": "Avda.. De E. Martínez Garrido, 27",
+    "lat": 42.227492758,
+    "lon": -8.700413366,
+    "lines": []
+  },
+  {
+    "id": "6200",
+    "name": "Avda.. De E. Martínez Garrido, 11",
+    "lat": 42.229298043,
+    "lon": -8.699760249,
+    "lines": []
+  },
+  {
+    "id": "430",
+    "name": "Rúa Do Areal (aduana)",
+    "lat": 42.239341996,
+    "lon": -8.720234413,
+    "lines": []
+  },
+  {
+    "id": "1120",
+    "name": "Avda.. De Beiramar (fronte Casa Do Mar)",
+    "lat": 42.23416729,
+    "lon": -8.733331094,
+    "lines": []
+  },
+  {
+    "id": "1130",
+    "name": "Avda.. De Beiramar (peiraos Auxiliares)",
+    "lat": 42.231238831,
+    "lon": -8.735255297,
+    "lines": []
+  },
+  {
+    "id": "1160",
+    "name": "Avda.. De Beiramar (sto. Domingo)",
+    "lat": 42.225759663,
+    "lon": -8.743239749,
+    "lines": []
+  },
+  {
+    "id": "1140",
+    "name": "Avda.. De Beiramar (freire)",
+    "lat": 42.225068475,
+    "lon": -8.74774586,
+    "lines": []
+  },
+  {
+    "id": "2540",
+    "name": "Bouzas (rotonda De Las Anclas)",
+    "lat": 42.22513153,
+    "lon": -8.751597027,
+    "lines": []
+  },
+  {
+    "id": "14167",
+    "name": "Beiramar - Pescadores",
+    "lat": 42.225279021,
+    "lon": -8.751908648,
+    "lines": []
+  },
+  {
+    "id": "14329",
+    "name": "Citroën (puerta Principal)",
+    "lat": 42.210124372,
+    "lon": -8.741139991,
+    "lines": []
+  },
+  {
+    "id": "14328",
+    "name": "Citroën - Psa",
+    "lat": 42.208988415,
+    "lon": -8.746151897,
+    "lines": []
+  },
+  {
+    "id": "3740",
+    "name": "Rúa De Canido (igrexa)",
+    "lat": 42.197431882,
+    "lon": -8.790144971,
+    "lines": []
+  },
+  {
+    "id": "3810",
+    "name": "Rúa De Canido, 55",
+    "lat": 42.200106486,
+    "lon": -8.785121194,
+    "lines": []
+  },
+  {
+    "id": "3790",
+    "name": "Rúa De Canido, 15",
+    "lat": 42.201898697,
+    "lon": -8.781706742,
+    "lines": []
+  },
+  {
+    "id": "14362",
+    "name": "Avda.. De Samil, 101",
+    "lat": 42.202937872,
+    "lon": -8.776830486,
+    "lines": []
+  },
+  {
+    "id": "2190",
+    "name": "Avda.. De Samil, 81",
+    "lat": 42.205147646,
+    "lon": -8.77674534,
+    "lines": []
+  },
+  {
+    "id": "2180",
+    "name": "Avda.. De Samil, 67",
+    "lat": 42.206809895,
+    "lon": -8.776206766,
+    "lines": []
+  },
+  {
+    "id": "2170",
+    "name": "Avda.. De Samil, 35",
+    "lat": 42.210171416,
+    "lon": -8.774585056,
+    "lines": []
+  },
+  {
+    "id": "1920",
+    "name": "Avda.. De Europa, 101",
+    "lat": 42.211066417,
+    "lon": -8.772953743,
+    "lines": []
+  },
+  {
+    "id": "1900",
+    "name": "Avda.. De Europa (cruce Rúa Do Bravo)",
+    "lat": 42.211855119,
+    "lon": -8.766755158,
+    "lines": []
+  },
+  {
+    "id": "1890",
+    "name": "Avda.. De Europa, 23",
+    "lat": 42.215913672,
+    "lon": -8.759904797,
+    "lines": []
+  },
+  {
+    "id": "1880",
+    "name": "Avda.. De Europa (cruce Rúa Das Teixugueiras)",
+    "lat": 42.216687933,
+    "lon": -8.756794466,
+    "lines": []
+  },
+  {
+    "id": "14392",
+    "name": "Rúa Da Pedra Seixa (colexio)",
+    "lat": 42.209458591,
+    "lon": -8.760561083,
+    "lines": []
+  },
+  {
+    "id": "14129",
+    "name": "Camiño Do Caramuxo, 11",
+    "lat": 42.20723039,
+    "lon": -8.752592351,
+    "lines": []
+  },
+  {
+    "id": "5340",
+    "name": "Avda.. Da Florida, 197",
+    "lat": 42.208621114,
+    "lon": -8.749572184,
+    "lines": []
+  },
+  {
+    "id": "14163",
+    "name": "Avda.. Da Florida (fronte 82)",
+    "lat": 42.211442202,
+    "lon": -8.746227469,
+    "lines": []
+  },
+  {
+    "id": "5320",
+    "name": "Avda.. Da Florida, 145",
+    "lat": 42.213244058,
+    "lon": -8.743657913,
+    "lines": []
+  },
+  {
+    "id": "5300",
+    "name": "Avda.. Da Florida, 117",
+    "lat": 42.214827343,
+    "lon": -8.741319027,
+    "lines": []
+  },
+  {
+    "id": "5370",
+    "name": "Avda.. Da Florida, 69",
+    "lat": 42.216928527,
+    "lon": -8.738268035,
+    "lines": []
+  },
+  {
+    "id": "14301",
+    "name": "Avda.. Da Florida, 47",
+    "lat": 42.218257459,
+    "lon": -8.736328798,
+    "lines": []
+  },
+  {
+    "id": "5330",
+    "name": "Avda.. Da Florida, 3",
+    "lat": 42.220228436,
+    "lon": -8.733426296,
+    "lines": []
+  },
+  {
+    "id": "1230",
+    "name": "Avda.. De Buenos Aires, 49",
+    "lat": 42.247251925,
+    "lon": -8.693122662,
+    "lines": []
+  },
+  {
+    "id": "14127",
+    "name": "Avda.. De Buenos Aires, 13",
+    "lat": 42.249306896,
+    "lon": -8.695179916,
+    "lines": []
+  },
+  {
+    "id": "20024",
+    "name": "Rúa Das Teixugueiras, 34",
+    "lat": 42.207634066,
+    "lon": -8.758920861,
+    "lines": []
+  },
+  {
+    "id": "20025",
+    "name": "Rúa Das Teixugueiras, 38",
+    "lat": 42.206553268,
+    "lon": -8.760122491,
+    "lines": []
+  },
+  {
+    "id": "20091",
+    "name": "Camiño Da Miragaia 11-13",
+    "lat": 42.238164803,
+    "lon": -8.711212761,
+    "lines": []
+  },
+  {
+    "id": "20057",
+    "name": "Estación Ferrocarril Guixar",
+    "lat": 42.238843911,
+    "lon": -8.713008504,
+    "lines": []
+  },
+  {
+    "id": "20058",
+    "name": "Rúa Do Canceleiro, 6",
+    "lat": 42.238435471,
+    "lon": -8.714413687,
+    "lines": []
+  },
+  {
+    "id": "2930",
+    "name": "Rúa De Cantabria, 58",
+    "lat": 42.235377808,
+    "lon": -8.695695331,
+    "lines": []
+  },
+  {
+    "id": "2870",
+    "name": "Rúa De Cantabria (compañía Suministradora De Auga)",
+    "lat": 42.237397409,
+    "lon": -8.694169154,
+    "lines": []
+  },
+  {
+    "id": "2880",
+    "name": "Rúa De Cantabria, 148",
+    "lat": 42.239331582,
+    "lon": -8.692983618,
+    "lines": []
+  },
+  {
+    "id": "2910",
+    "name": "Rúa De Cantabria, 212",
+    "lat": 42.241655974,
+    "lon": -8.692827561,
+    "lines": []
+  },
+  {
+    "id": "6740",
+    "name": "Rúa Da Vista Do Mar, 95",
+    "lat": 42.242957479,
+    "lon": -8.691167762,
+    "lines": []
+  },
+  {
+    "id": "14385",
+    "name": "Rúa Da Vista Do Mar, 45",
+    "lat": 42.240712912,
+    "lon": -8.6919418,
+    "lines": []
+  },
+  {
+    "id": "14386",
+    "name": "Rúa Da Vista Do Mar (embalse)",
+    "lat": 42.238020208,
+    "lon": -8.691543884,
+    "lines": []
+  },
+  {
+    "id": "14387",
+    "name": "Rúa Da Vista Do Mar, 1",
+    "lat": 42.237167043,
+    "lon": -8.693243792,
+    "lines": []
+  },
+  {
+    "id": "2920",
+    "name": "Rúa De Cantabria, 45",
+    "lat": 42.235852081,
+    "lon": -8.695592417,
+    "lines": []
+  },
+  {
+    "id": "5790",
+    "name": "Hospital Do Meixoeiro",
+    "lat": 42.214534062,
+    "lon": -8.684756053,
+    "lines": []
+  },
+  {
+    "id": "3960",
+    "name": "Baixada Do Castelo",
+    "lat": 42.213984907,
+    "lon": -8.682160511,
+    "lines": []
+  },
+  {
+    "id": "3970",
+    "name": "Estrada Vella De Madrid, 190",
+    "lat": 42.215872123,
+    "lon": -8.679765298,
+    "lines": []
+  },
+  {
+    "id": "572",
+    "name": "Estrada De Madrid, 210",
+    "lat": 42.214058797,
+    "lon": -8.672946954,
+    "lines": []
+  },
+  {
+    "id": "14291",
+    "name": "Avda.. Da Ponte (vigo Memorial)",
+    "lat": 42.209935219,
+    "lon": -8.671464542,
+    "lines": []
+  },
+  {
+    "id": "20141",
+    "name": "Avda.. Da Ponte (fronte Vigo Memorial)",
+    "lat": 42.21057897,
+    "lon": -8.671171189,
+    "lines": []
+  },
+  {
+    "id": "5590",
+    "name": "Avda.. Da Ponte (grupo S. Gorxal)",
+    "lat": 42.213057463,
+    "lon": -8.670479203,
+    "lines": []
+  },
+  {
+    "id": "14395",
+    "name": "Estrada De Madrid, 217",
+    "lat": 42.215601037,
+    "lon": -8.675477665,
+    "lines": []
+  },
+  {
+    "id": "14138",
+    "name": "Estrada De Madrid (campo De Fútbol)",
+    "lat": 42.216459201,
+    "lon": -8.678591709,
+    "lines": []
+  },
+  {
+    "id": "4810",
+    "name": "Estrada Vella De Madrid, 177",
+    "lat": 42.21827574,
+    "lon": -8.679588272,
+    "lines": []
+  },
+  {
+    "id": "14304",
+    "name": "Estrada Vella De Madrid, 145",
+    "lat": 42.221313975,
+    "lon": -8.681944471,
+    "lines": []
+  },
+  {
+    "id": "4790",
+    "name": "Estrada Vella De Madrid, 123",
+    "lat": 42.220436017,
+    "lon": -8.683690589,
+    "lines": []
+  },
+  {
+    "id": "20095",
+    "name": "Estrada Vella De Madrid 107a",
+    "lat": 42.219212419,
+    "lon": -8.685836356,
+    "lines": []
+  },
+  {
+    "id": "4830",
+    "name": "Estrada Vella De Madrid, 81",
+    "lat": 42.218719793,
+    "lon": -8.690012555,
+    "lines": []
+  },
+  {
+    "id": "4820",
+    "name": "Estrada Vella De Madrid, 31",
+    "lat": 42.216687676,
+    "lon": -8.693917852,
+    "lines": []
+  },
+  {
+    "id": "14302",
+    "name": "Estrada Vella De Madrid, 7",
+    "lat": 42.214542094,
+    "lon": -8.696431619,
+    "lines": []
+  },
+  {
+    "id": "1930",
+    "name": "Estrada De Madrid (fronte Seminario)",
+    "lat": 42.21474886,
+    "lon": -8.69897918,
+    "lines": []
+  },
+  {
+    "id": "2010",
+    "name": "Avda.. De Madrid, 195",
+    "lat": 42.218213283,
+    "lon": -8.703163426,
+    "lines": []
+  },
+  {
+    "id": "2000",
+    "name": "Avda.. De Madrid, 133",
+    "lat": 42.220728012,
+    "lon": -8.70612292,
+    "lines": []
+  },
+  {
+    "id": "1970",
+    "name": "Avda.. De Madrid, 57",
+    "lat": 42.223965709,
+    "lon": -8.710062068,
+    "lines": []
+  },
+  {
+    "id": "2040",
+    "name": "Avda.. De Madrid (trasera Colexio Hogar)",
+    "lat": 42.226835791,
+    "lon": -8.715823453,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "6950",
+    "name": "Praza De España (cruce Rúa De Pizarro)",
+    "lat": 42.229280401,
+    "lon": -8.719123549,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "20203",
+    "name": "Avda.. Da Gran Vía, 47",
+    "lat": 42.230881062,
+    "lon": -8.718397577,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "15001",
+    "name": "Rúa Regueiro Do Forno (vial C) Centro De Servicios",
+    "lat": 42.176036704,
+    "lon": -8.709480986,
+    "lines": []
+  },
+  {
+    "id": "8180",
+    "name": "Estrada Da Garrida, 291",
+    "lat": 42.173993336,
+    "lon": -8.70329684,
+    "lines": []
+  },
+  {
+    "id": "14209",
+    "name": "Estrada Da Garrida, 263",
+    "lat": 42.173333822,
+    "lon": -8.705439803,
+    "lines": []
+  },
+  {
+    "id": "4100",
+    "name": "Estrada Da Garrida, 199",
+    "lat": 42.16978602,
+    "lon": -8.708967287,
+    "lines": []
+  },
+  {
+    "id": "14101",
+    "name": "Estrada Da Garrida, 165",
+    "lat": 42.168008539,
+    "lon": -8.710415438,
+    "lines": []
+  },
+  {
+    "id": "4140",
+    "name": "Estrada Da Garrida (frente 80)",
+    "lat": 42.166208944,
+    "lon": -8.711992518,
+    "lines": []
+  },
+  {
+    "id": "4130",
+    "name": "Estrada Da Garrida, 83",
+    "lat": 42.16561193,
+    "lon": -8.714589004,
+    "lines": []
+  },
+  {
+    "id": "14308",
+    "name": "Camiño Do Pinal, 6",
+    "lat": 42.16328558,
+    "lon": -8.716707662,
+    "lines": []
+  },
+  {
+    "id": "14309",
+    "name": "Camiño Do Pinal, 28",
+    "lat": 42.161067029,
+    "lon": -8.716468628,
+    "lines": []
+  },
+  {
+    "id": "14310",
+    "name": "Camiño Do Pinal (fronte 57)",
+    "lat": 42.159564137,
+    "lon": -8.718295559,
+    "lines": []
+  },
+  {
+    "id": "20159",
+    "name": "Estrada De Valadares, 571",
+    "lat": 42.160348044,
+    "lon": -8.718706355,
+    "lines": []
+  },
+  {
+    "id": "14311",
+    "name": "Estrada De Valadares, 505",
+    "lat": 42.162720337,
+    "lon": -8.718900908,
+    "lines": []
+  },
+  {
+    "id": "180",
+    "name": "Estrada De Valadares, 451",
+    "lat": 42.166144986,
+    "lon": -8.720162371,
+    "lines": []
+  },
+  {
+    "id": "5760",
+    "name": "Estrada De Valadares, 377",
+    "lat": 42.16929549,
+    "lon": -8.723249687,
+    "lines": []
+  },
+  {
+    "id": "4620",
+    "name": "Estrada De Valadares, 329",
+    "lat": 42.172330151,
+    "lon": -8.723766367,
+    "lines": []
+  },
+  {
+    "id": "4560",
+    "name": "Estrada De Valadares, 233",
+    "lat": 42.177017792,
+    "lon": -8.721519832,
+    "lines": []
+  },
+  {
+    "id": "4590",
+    "name": "Estrada De Valadares, 173",
+    "lat": 42.180670846,
+    "lon": -8.721533506,
+    "lines": []
+  },
+  {
+    "id": "4660",
+    "name": "Estrada De Valadares, 99",
+    "lat": 42.183997801,
+    "lon": -8.723857214,
+    "lines": []
+  },
+  {
+    "id": "4640",
+    "name": "Estrada De Valadares (cruce Camiño Do Canizo)",
+    "lat": 42.18659932,
+    "lon": -8.719619913,
+    "lines": []
+  },
+  {
+    "id": "2510",
+    "name": "Avda.. De Castrelos, 439",
+    "lat": 42.191323803,
+    "lon": -8.721049887,
+    "lines": []
+  },
+  {
+    "id": "1470",
+    "name": "Avda.. De Castrelos, 399",
+    "lat": 42.194996678,
+    "lon": -8.72097155,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "1440",
+    "name": "Avda.. De Castrelos, 339",
+    "lat": 42.198480135,
+    "lon": -8.723827649,
+    "lines": []
+  },
+  {
+    "id": "1420",
+    "name": "Avda.. De Castrelos, 297",
+    "lat": 42.201440099,
+    "lon": -8.726409762,
+    "lines": []
+  },
+  {
+    "id": "1380",
+    "name": "Avda.. De Castrelos, 179",
+    "lat": 42.20533568,
+    "lon": -8.730078621,
+    "lines": []
+  },
+  {
+    "id": "1350",
+    "name": "Avda.. De Castrelos, 121",
+    "lat": 42.208026488,
+    "lon": -8.7312098,
+    "lines": []
+  },
+  {
+    "id": "1490",
+    "name": "Avda.. De Castrelos, 67",
+    "lat": 42.210613294,
+    "lon": -8.732057664,
+    "lines": []
+  },
+  {
+    "id": "14894",
+    "name": "Avda.. Do Alcalde Portanet, 8",
+    "lat": 42.211736934,
+    "lon": -8.733337505,
+    "lines": []
+  },
+  {
+    "id": "660",
+    "name": "Avda.. Do Alcalde Portanet, 34",
+    "lat": 42.211494566,
+    "lon": -8.736022397,
+    "lines": []
+  },
+  {
+    "id": "5400",
+    "name": "Avda.. Do Fragoso, 95",
+    "lat": 42.213518168,
+    "lon": -8.737719785,
+    "lines": []
+  },
+  {
+    "id": "5460",
+    "name": "Avda.. Do Fragoso, 71",
+    "lat": 42.215301002,
+    "lon": -8.736123434,
+    "lines": []
+  },
+  {
+    "id": "5440",
+    "name": "Avda.. Do Fragoso, 47",
+    "lat": 42.217288508,
+    "lon": -8.73454375,
+    "lines": []
+  },
+  {
+    "id": "20103",
+    "name": "Avda.. Do Fragoso, 21",
+    "lat": 42.218946899,
+    "lon": -8.733670293,
+    "lines": []
+  },
+  {
+    "id": "5420",
+    "name": "Avda.. Do Fragoso, 3",
+    "lat": 42.220297406,
+    "lon": -8.732924981,
+    "lines": []
+  },
+  {
+    "id": "3420",
+    "name": "Avda.. De Castrelos (cemiterio De Pereiró)",
+    "lat": 42.208071495,
+    "lon": -8.731366082,
+    "lines": []
+  },
+  {
+    "id": "1430",
+    "name": "Avda.. De Castrelos, 318",
+    "lat": 42.203408408,
+    "lon": -8.728817983,
+    "lines": []
+  },
+  {
+    "id": "1450",
+    "name": "Avda.. De Castrelos, 366",
+    "lat": 42.201044695,
+    "lon": -8.726112037,
+    "lines": []
+  },
+  {
+    "id": "1460",
+    "name": "Avda.. De Castrelos, 396",
+    "lat": 42.198867605,
+    "lon": -8.72460549,
+    "lines": []
+  },
+  {
+    "id": "3030",
+    "name": "Avda.. De Castrelos, 458",
+    "lat": 42.194702579,
+    "lon": -8.721025195,
+    "lines": []
+  },
+  {
+    "id": "20173",
+    "name": "Avda.. De Castrelos, 502",
+    "lat": 42.192504056,
+    "lon": -8.721215121,
+    "lines": []
+  },
+  {
+    "id": "1480",
+    "name": "Avda.. De Castrelos, 526",
+    "lat": 42.19015727,
+    "lon": -8.72109012,
+    "lines": []
+  },
+  {
+    "id": "4650",
+    "name": "Estrada De Valadares, 48",
+    "lat": 42.186641056,
+    "lon": -8.719853265,
+    "lines": []
+  },
+  {
+    "id": "4570",
+    "name": "Estrada De Valadares, 100",
+    "lat": 42.183987864,
+    "lon": -8.724154939,
+    "lines": []
+  },
+  {
+    "id": "4580",
+    "name": "Estrada De Valadares, 146",
+    "lat": 42.180249473,
+    "lon": -8.721850007,
+    "lines": []
+  },
+  {
+    "id": "4600",
+    "name": "Estrada De Valadares, 212",
+    "lat": 42.176419487,
+    "lon": -8.72197849,
+    "lines": []
+  },
+  {
+    "id": "4610",
+    "name": "Estrada De Valadares, 262",
+    "lat": 42.172481228,
+    "lon": -8.723905842,
+    "lines": []
+  },
+  {
+    "id": "5770",
+    "name": "Estrada De Valadares, 310",
+    "lat": 42.16911061,
+    "lon": -8.723904146,
+    "lines": []
+  },
+  {
+    "id": "4630",
+    "name": "Estrada De Valadares, 406",
+    "lat": 42.165721529,
+    "lon": -8.720146278,
+    "lines": []
+  },
+  {
+    "id": "14208",
+    "name": "Estrada De Valadares, 452",
+    "lat": 42.162237207,
+    "lon": -8.71885531,
+    "lines": []
+  },
+  {
+    "id": "20160",
+    "name": "Estrada De Valadares, 522",
+    "lat": 42.160066796,
+    "lon": -8.718938239,
+    "lines": []
+  },
+  {
+    "id": "14219",
+    "name": "Camiño Do Pinal, 59",
+    "lat": 42.159500512,
+    "lon": -8.718247279,
+    "lines": []
+  },
+  {
+    "id": "14207",
+    "name": "Camiño Do Pinal, 19",
+    "lat": 42.161212162,
+    "lon": -8.716377433,
+    "lines": []
+  },
+  {
+    "id": "14222",
+    "name": "Camiño Do Pinal, 5",
+    "lat": 42.162959525,
+    "lon": -8.716541365,
+    "lines": []
+  },
+  {
+    "id": "4060",
+    "name": "Estrada Da Gándara, 7",
+    "lat": 42.164326088,
+    "lon": -8.716892619,
+    "lines": []
+  },
+  {
+    "id": "4110",
+    "name": "Estrada Da Garrida, 40",
+    "lat": 42.165331611,
+    "lon": -8.714862589,
+    "lines": []
+  },
+  {
+    "id": "4120",
+    "name": "Estrada Da Garrida, 84",
+    "lat": 42.166399713,
+    "lon": -8.711237684,
+    "lines": []
+  },
+  {
+    "id": "14102",
+    "name": "Estrada Da Garrida, 108",
+    "lat": 42.168282882,
+    "lon": -8.710066751,
+    "lines": []
+  },
+  {
+    "id": "4090",
+    "name": "Estrada Da Garrida, 124",
+    "lat": 42.170369621,
+    "lon": -8.708506123,
+    "lines": []
+  },
+  {
+    "id": "14210",
+    "name": "Estrada Da Garrida (frente 243)",
+    "lat": 42.173077394,
+    "lon": -8.705659744,
+    "lines": []
+  },
+  {
+    "id": "14413",
+    "name": "Estrada Da Garrida (cruce Camiño Fabas)",
+    "lat": 42.173955568,
+    "lon": -8.703050076,
+    "lines": []
+  },
+  {
+    "id": "14211",
+    "name": "Estrada Do Monte Alba, 32",
+    "lat": 42.165479162,
+    "lon": -8.721775005,
+    "lines": []
+  },
+  {
+    "id": "14212",
+    "name": "Estrada Do Monte Alba, 54",
+    "lat": 42.164694101,
+    "lon": -8.724472962,
+    "lines": []
+  },
+  {
+    "id": "14213",
+    "name": "Estrada Do Freixo (campo Fútbol)",
+    "lat": 42.169153241,
+    "lon": -8.729001464,
+    "lines": []
+  },
+  {
+    "id": "20169",
+    "name": "Estrada Do Freixo (despois 235)",
+    "lat": 42.173616782,
+    "lon": -8.730810863,
+    "lines": []
+  },
+  {
+    "id": "14214",
+    "name": "Estrada Do Freixo, 191",
+    "lat": 42.175760907,
+    "lon": -8.734516924,
+    "lines": []
+  },
+  {
+    "id": "14205",
+    "name": "Estrada Do Freixo (cemiterio)",
+    "lat": 42.178408629,
+    "lon": -8.733198549,
+    "lines": []
+  },
+  {
+    "id": "14215",
+    "name": "Estrada Do Freixo, 90",
+    "lat": 42.175592169,
+    "lon": -8.734477788,
+    "lines": []
+  },
+  {
+    "id": "20168",
+    "name": "Estrada Do Freixo (despois 118)",
+    "lat": 42.173596087,
+    "lon": -8.730918928,
+    "lines": []
+  },
+  {
+    "id": "14216",
+    "name": "Estrada Do Freixo (fronte Campo Fútbol)",
+    "lat": 42.169143301,
+    "lon": -8.729076566,
+    "lines": []
+  },
+  {
+    "id": "14217",
+    "name": "Estrada Do Monte Alba (frente 54)",
+    "lat": 42.164570839,
+    "lon": -8.724561475,
+    "lines": []
+  },
+  {
+    "id": "14218",
+    "name": "Estrada Do Monte Alba, 21",
+    "lat": 42.165288305,
+    "lon": -8.721367309,
+    "lines": []
+  },
+  {
+    "id": "5410",
+    "name": "Avda.. Do Fragoso, 12",
+    "lat": 42.219689698,
+    "lon": -8.733384686,
+    "lines": []
+  },
+  {
+    "id": "5450",
+    "name": "Avda.. Do Fragoso, 54",
+    "lat": 42.215348678,
+    "lon": -8.736273638,
+    "lines": []
+  },
+  {
+    "id": "5470",
+    "name": "Avda.. Do Fragoso, 86",
+    "lat": 42.21315264,
+    "lon": -8.738470803,
+    "lines": []
+  },
+  {
+    "id": "14253",
+    "name": "Estrada Clara Campoamor (cruce Rúa Do Padrón Do Couto)",
+    "lat": 42.164455564,
+    "lon": -8.707223843,
+    "lines": []
+  },
+  {
+    "id": "3850",
+    "name": "Estrada Clara Campoamor (cruce Estrada Marcosende)",
+    "lat": 42.167933917,
+    "lon": -8.692758811,
+    "lines": []
+  },
+  {
+    "id": "8700",
+    "name": "Enxeñeiros (cuvi)",
+    "lat": 42.167963445,
+    "lon": -8.688421342,
+    "lines": []
+  },
+  {
+    "id": "8740",
+    "name": "Telecomunicacións (cuvi)",
+    "lat": 42.170123888,
+    "lon": -8.687270393,
+    "lines": []
+  },
+  {
+    "id": "8720",
+    "name": "Humanidades (cuvi)",
+    "lat": 42.169678809,
+    "lon": -8.679104749,
+    "lines": []
+  },
+  {
+    "id": "20009",
+    "name": "Estrada Herville, 16",
+    "lat": 42.154843231,
+    "lon": -8.67357438,
+    "lines": []
+  },
+  {
+    "id": "20018",
+    "name": "Estrada Herville, 70",
+    "lat": 42.151451604,
+    "lon": -8.673803367,
+    "lines": []
+  },
+  {
+    "id": "20019",
+    "name": "Subida Aos Padróns, 165",
+    "lat": 42.149222193,
+    "lon": -8.679363987,
+    "lines": []
+  },
+  {
+    "id": "20020",
+    "name": "Subida Aos Padróns (cruce Parque Forestal)",
+    "lat": 42.151606055,
+    "lon": -8.679299082,
+    "lines": []
+  },
+  {
+    "id": "20130",
+    "name": "Parque Forestal De Zamáns (proba Andaina)",
+    "lat": 42.152788309,
+    "lon": -8.681902684,
+    "lines": []
+  },
+  {
+    "id": "20081",
+    "name": "Subida Aos Padróns (cruce Camiño Da Chan Da Rabicha)",
+    "lat": 42.151852858,
+    "lon": -8.684956786,
+    "lines": []
+  },
+  {
+    "id": "20021",
+    "name": "Subida Aos Padróns (fronte 34)",
+    "lat": 42.152770176,
+    "lon": -8.686251828,
+    "lines": []
+  },
+  {
+    "id": "9050",
+    "name": "Estrada Da Igrexa, 45",
+    "lat": 42.154646971,
+    "lon": -8.688349062,
+    "lines": []
+  },
+  {
+    "id": "3140",
+    "name": "Estrada De Zamáns, 255",
+    "lat": 42.15800346,
+    "lon": -8.686134691,
+    "lines": []
+  },
+  {
+    "id": "6150",
+    "name": "Estrada De Zamáns, 233",
+    "lat": 42.160616846,
+    "lon": -8.691088401,
+    "lines": []
+  },
+  {
+    "id": "8100",
+    "name": "Estrada Da Gándara, 79",
+    "lat": 42.160735669,
+    "lon": -8.709771124,
+    "lines": []
+  },
+  {
+    "id": "4070",
+    "name": "Estrada Da Gándara, 55",
+    "lat": 42.162254659,
+    "lon": -8.713740793,
+    "lines": []
+  },
+  {
+    "id": "3400",
+    "name": "Estrada Da Gándara, 22",
+    "lat": 42.163584451,
+    "lon": -8.716088728,
+    "lines": []
+  },
+  {
+    "id": "4080",
+    "name": "Estrada Da Gándara, 48",
+    "lat": 42.162252671,
+    "lon": -8.71400365,
+    "lines": []
+  },
+  {
+    "id": "8110",
+    "name": "Estrada Da Gándara (seoane)",
+    "lat": 42.160670051,
+    "lon": -8.709878412,
+    "lines": []
+  },
+  {
+    "id": "6160",
+    "name": "Estrada De Zamáns, 150",
+    "lat": 42.160635942,
+    "lon": -8.69145083,
+    "lines": []
+  },
+  {
+    "id": "3150",
+    "name": "Estrada De Zamáns (cruce Igrexa)",
+    "lat": 42.157661469,
+    "lon": -8.685973759,
+    "lines": []
+  },
+  {
+    "id": "6670",
+    "name": "Estrada Da Venda, 109",
+    "lat": 42.183004832,
+    "lon": -8.702601056,
+    "lines": []
+  },
+  {
+    "id": "4920",
+    "name": "Estrada Da Venda, 49",
+    "lat": 42.186610342,
+    "lon": -8.709937804,
+    "lines": []
+  },
+  {
+    "id": "4900",
+    "name": "Estrada Da Venda, 35",
+    "lat": 42.188304845,
+    "lon": -8.711474749,
+    "lines": []
+  },
+  {
+    "id": "4870",
+    "name": "Estrada Da Venda, 5",
+    "lat": 42.192029809,
+    "lon": -8.712623715,
+    "lines": []
+  },
+  {
+    "id": "8980",
+    "name": "Rúa Do Seixo, 38",
+    "lat": 42.197532685,
+    "lon": -8.713614705,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "9000",
+    "name": "Rúa Do Seixo (parque)",
+    "lat": 42.200719549,
+    "lon": -8.714115872,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "6700",
+    "name": "Rúa Do Portoloureiro, 43",
+    "lat": 42.204947406,
+    "lon": -8.715589643,
+    "lines": []
+  },
+  {
+    "id": "6720",
+    "name": "Rúa Do Portoloureiro (fronte 28)",
+    "lat": 42.207385347,
+    "lon": -8.718127604,
+    "lines": []
+  },
+  {
+    "id": "3320",
+    "name": "Rúa Da Costa, 63",
+    "lat": 42.210154848,
+    "lon": -8.720902403,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14182",
+    "name": "Rúa Da Costa, 39",
+    "lat": 42.211618245,
+    "lon": -8.72147159,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "3290",
+    "name": "Rúa Da Costa, 13",
+    "lat": 42.213397685,
+    "lon": -8.72248211,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "8200",
+    "name": "Subida Da Costa, 21",
+    "lat": 42.214714337,
+    "lon": -8.723068388,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "8210",
+    "name": "Subida Da Costa, 3",
+    "lat": 42.214377129,
+    "lon": -8.725964538,
+    "lines": []
+  },
+  {
+    "id": "20174",
+    "name": "Baixada Ao Pontillón S/N",
+    "lat": 42.21519917,
+    "lon": -8.726793773,
+    "lines": []
+  },
+  {
+    "id": "3052",
+    "name": "Avda.. Arquitecto Antonio Palacios (cruce Rúa Ricardo Torres)",
+    "lat": 42.216966631,
+    "lon": -8.729813845,
+    "lines": []
+  },
+  {
+    "id": "5430",
+    "name": "Avda.. Do Fragoso, 36",
+    "lat": 42.217381871,
+    "lon": -8.734669814,
+    "lines": []
+  },
+  {
+    "id": "14181",
+    "name": "Camiño Da Corredoura (igrexa)",
+    "lat": 42.210954716,
+    "lon": -8.727776522,
+    "lines": []
+  },
+  {
+    "id": "8220",
+    "name": "Camiño Da Corredoura, 3",
+    "lat": 42.213993258,
+    "lon": -8.726740824,
+    "lines": []
+  },
+  {
+    "id": "8190",
+    "name": "Subida Da Costa (colina)",
+    "lat": 42.214660701,
+    "lon": -8.722840401,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14179",
+    "name": "Rúa Da Costa, 4",
+    "lat": 42.213260612,
+    "lon": -8.722562576,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "3300",
+    "name": "Rúa Da Costa, 22",
+    "lat": 42.211751348,
+    "lon": -8.721691531,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "3310",
+    "name": "Rúa Da Costa, 74",
+    "lat": 42.209233023,
+    "lon": -8.720666368,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "6680",
+    "name": "Rúa Do Portoloureiro, 26",
+    "lat": 42.207311837,
+    "lon": -8.718650635,
+    "lines": []
+  },
+  {
+    "id": "6690",
+    "name": "Rúa Do Portoloureiro, 52",
+    "lat": 42.20495956,
+    "lon": -8.715695557,
+    "lines": []
+  },
+  {
+    "id": "8990",
+    "name": "Rúa Do Seixo, 75",
+    "lat": 42.200673849,
+    "lon": -8.714185609,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "8970",
+    "name": "Rúa Do Seixo, 45",
+    "lat": 42.197425383,
+    "lon": -8.713700535,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "4910",
+    "name": "Estrada Da Venda, 4",
+    "lat": 42.19205763,
+    "lon": -8.712722956,
+    "lines": []
+  },
+  {
+    "id": "4880",
+    "name": "Estrada Da Venda, 240",
+    "lat": 42.188021902,
+    "lon": -8.711457595,
+    "lines": []
+  },
+  {
+    "id": "4890",
+    "name": "Estrada Da Venda, 238",
+    "lat": 42.186610014,
+    "lon": -8.710023944,
+    "lines": []
+  },
+  {
+    "id": "4860",
+    "name": "Estrada Da Venda (cruce Camiño Da Coutadiña)",
+    "lat": 42.182744465,
+    "lon": -8.70286123,
+    "lines": []
+  },
+  {
+    "id": "3820",
+    "name": "Rúa Do Falcoído, 16",
+    "lat": 42.182659954,
+    "lon": -8.699663442,
+    "lines": []
+  },
+  {
+    "id": "3830",
+    "name": "Rúa Do Falcoído (cruce Camiño Goaldino)",
+    "lat": 42.180635405,
+    "lon": -8.696958243,
+    "lines": []
+  },
+  {
+    "id": "8710",
+    "name": "Universidade.",
+    "lat": 42.167985106,
+    "lon": -8.688425395,
+    "lines": []
+  },
+  {
+    "id": "8730",
+    "name": "Telecomunicacións (cuvi) B",
+    "lat": 42.170159671,
+    "lon": -8.68735086,
+    "lines": []
+  },
+  {
+    "id": "8721",
+    "name": "Universidade..",
+    "lat": 42.169776602,
+    "lon": -8.678942156,
+    "lines": []
+  },
+  {
+    "id": "20156",
+    "name": "Económicas E Empresariais (cuvi 2)",
+    "lat": 42.169627618,
+    "lon": -8.67984145,
+    "lines": []
+  },
+  {
+    "id": "14105",
+    "name": "Ciencias Xurídicas (cuvi)",
+    "lat": 42.167237978,
+    "lon": -8.681135704,
+    "lines": []
+  },
+  {
+    "id": "8660",
+    "name": "Química (cuvi)",
+    "lat": 42.168290977,
+    "lon": -8.68342947,
+    "lines": []
+  },
+  {
+    "id": "8670",
+    "name": "Bioloxía (cuvi)",
+    "lat": 42.167687661,
+    "lon": -8.685994335,
+    "lines": []
+  },
+  {
+    "id": "8680",
+    "name": "Económicas E Empresariais (cuvi)",
+    "lat": 42.169603028,
+    "lon": -8.680108895,
+    "lines": []
+  },
+  {
+    "id": "3860",
+    "name": "Estrada Clara Campoamor (cruce Rúa Do Falcoído)",
+    "lat": 42.168248021,
+    "lon": -8.692608608,
+    "lines": []
+  },
+  {
+    "id": "3840",
+    "name": "Rúa Do Falcoído (cruce Camiño Das Presas)",
+    "lat": 42.181019011,
+    "lon": -8.696918009,
+    "lines": []
+  },
+  {
+    "id": "3870",
+    "name": "Rúa Do Falcoído, 13",
+    "lat": 42.182749988,
+    "lon": -8.699953254,
+    "lines": []
+  },
+  {
+    "id": "2020",
+    "name": "Avda.. De Madrid, 2",
+    "lat": 42.228518615,
+    "lon": -8.719214126,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "2030",
+    "name": "Avda.. De Madrid, 28",
+    "lat": 42.226744428,
+    "lon": -8.716268699,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "1960",
+    "name": "Avda.. De Madrid, 62",
+    "lat": 42.224676782,
+    "lon": -8.711832326,
+    "lines": []
+  },
+  {
+    "id": "1990",
+    "name": "Avda.. De Madrid, 110",
+    "lat": 42.222130198,
+    "lon": -8.708300774,
+    "lines": []
+  },
+  {
+    "id": "1950",
+    "name": "Avda.. De Madrid, 124",
+    "lat": 42.220567154,
+    "lon": -8.706419628,
+    "lines": []
+  },
+  {
+    "id": "1940",
+    "name": "Avda.. De Madrid, 136",
+    "lat": 42.218338954,
+    "lon": -8.703817429,
+    "lines": []
+  },
+  {
+    "id": "1980",
+    "name": "Estrada De Madrid (seminario)",
+    "lat": 42.214703324,
+    "lon": -8.699378397,
+    "lines": []
+  },
+  {
+    "id": "4750",
+    "name": "Estrada Vella De Madrid, 6",
+    "lat": 42.213983883,
+    "lon": -8.697464269,
+    "lines": []
+  },
+  {
+    "id": "4760",
+    "name": "Estrada Vella De Madrid, 34",
+    "lat": 42.216359908,
+    "lon": -8.693040769,
+    "lines": []
+  },
+  {
+    "id": "4840",
+    "name": "Estrada Vella De Madrid, 76",
+    "lat": 42.218745617,
+    "lon": -8.689009409,
+    "lines": []
+  },
+  {
+    "id": "20096",
+    "name": "Estrada Vella De Madrid (fronte 107a)",
+    "lat": 42.219128991,
+    "lon": -8.685753208,
+    "lines": []
+  },
+  {
+    "id": "4770",
+    "name": "Estrada Vella De Madrid, 104",
+    "lat": 42.219822923,
+    "lon": -8.684198247,
+    "lines": []
+  },
+  {
+    "id": "4780",
+    "name": "Estrada Vella De Madrid, 136",
+    "lat": 42.220845201,
+    "lon": -8.680581909,
+    "lines": []
+  },
+  {
+    "id": "4800",
+    "name": "Estrada Vella De Madrid, 160",
+    "lat": 42.218049288,
+    "lon": -8.679899408,
+    "lines": []
+  },
+  {
+    "id": "3980",
+    "name": "Estrada Vella De Madrid (cruce Hospital)",
+    "lat": 42.21620386,
+    "lon": -8.681570425,
+    "lines": []
+  },
+  {
+    "id": "20112",
+    "name": "H. A. Cunqueiro (urxencias)",
+    "lat": 42.188578188,
+    "lon": -8.713087125,
+    "lines": []
+  },
+  {
+    "id": "20119",
+    "name": "H. A. Cunqueiro (chegada)",
+    "lat": 42.190930878,
+    "lon": -8.71409354,
+    "lines": []
+  },
+  {
+    "id": "20216",
+    "name": "Avda.. De Cesáreo Vázquez (fronte 43)",
+    "lat": 42.179747589,
+    "lon": -8.802157388,
+    "lines": []
+  },
+  {
+    "id": "20049",
+    "name": "Avda.. De Cesáreo Vázquez, 62",
+    "lat": 42.18238342,
+    "lon": -8.802126069,
+    "lines": []
+  },
+  {
+    "id": "3110",
+    "name": "Avda.. De Cesáreo Vázquez, 74",
+    "lat": 42.184416675,
+    "lon": -8.802179713,
+    "lines": []
+  },
+  {
+    "id": "3080",
+    "name": "Avda.. De Cesáreo Vázquez, 136",
+    "lat": 42.187532955,
+    "lon": -8.800948579,
+    "lines": []
+  },
+  {
+    "id": "3090",
+    "name": "Avda.. De Cesáreo Vázquez, 182",
+    "lat": 42.190974769,
+    "lon": -8.79947071,
+    "lines": []
+  },
+  {
+    "id": "3780",
+    "name": "Rúa De Canido, 217",
+    "lat": 42.193041793,
+    "lon": -8.797590453,
+    "lines": []
+  },
+  {
+    "id": "3770",
+    "name": "Rúa De Canido, 135",
+    "lat": 42.1950348,
+    "lon": -8.795701844,
+    "lines": []
+  },
+  {
+    "id": "4690",
+    "name": "Estrada Do Vao, 153",
+    "lat": 42.196307191,
+    "lon": -8.790777973,
+    "lines": []
+  },
+  {
+    "id": "4730",
+    "name": "Estrada Do Vao, 91",
+    "lat": 42.19405266,
+    "lon": -8.78551292,
+    "lines": []
+  },
+  {
+    "id": "4710",
+    "name": "Estrada Do Vao, 65",
+    "lat": 42.194064592,
+    "lon": -8.781224067,
+    "lines": []
+  },
+  {
+    "id": "4670",
+    "name": "Estrada Do Vao, 27",
+    "lat": 42.193836069,
+    "lon": -8.776441689,
+    "lines": []
+  },
+  {
+    "id": "3490",
+    "name": "Estrada De Camposancos, 171",
+    "lat": 42.193613504,
+    "lon": -8.772222574,
+    "lines": []
+  },
+  {
+    "id": "3450",
+    "name": "Estrada De Camposancos, 155",
+    "lat": 42.194732286,
+    "lon": -8.769245322,
+    "lines": []
+  },
+  {
+    "id": "3480",
+    "name": "Estrada De Camposancos, 141",
+    "lat": 42.196095467,
+    "lon": -8.766230519,
+    "lines": []
+  },
+  {
+    "id": "20211",
+    "name": "Estrada De Camposancos, 109",
+    "lat": 42.198422825,
+    "lon": -8.762538026,
+    "lines": []
+  },
+  {
+    "id": "3520",
+    "name": "Estrada De Camposancos, 75",
+    "lat": 42.200000035,
+    "lon": -8.759107913,
+    "lines": []
+  },
+  {
+    "id": "3460",
+    "name": "Estrada De Camposancos, 19",
+    "lat": 42.203197031,
+    "lon": -8.753437723,
+    "lines": []
+  },
+  {
+    "id": "14202",
+    "name": "Rúa De Jenaro De La Fuente, 58",
+    "lat": 42.231273786,
+    "lon": -8.700145645,
+    "lines": []
+  },
+  {
+    "id": "7330",
+    "name": "Avda.. De Ramón Nieto, 50",
+    "lat": 42.231776636,
+    "lon": -8.697735869,
+    "lines": []
+  },
+  {
+    "id": "7360",
+    "name": "Avda.. De Ramón Nieto, 96",
+    "lat": 42.230432101,
+    "lon": -8.694045149,
+    "lines": []
+  },
+  {
+    "id": "7210",
+    "name": "Avda.. De Ramón Nieto, 136",
+    "lat": 42.229661504,
+    "lon": -8.691416585,
+    "lines": []
+  },
+  {
+    "id": "7230",
+    "name": "Avda.. De Ramón Nieto, 198",
+    "lat": 42.229560215,
+    "lon": -8.687854611,
+    "lines": []
+  },
+  {
+    "id": "7240",
+    "name": "Avda.. De Ramón Nieto, 252",
+    "lat": 42.229454954,
+    "lon": -8.684539401,
+    "lines": []
+  },
+  {
+    "id": "7260",
+    "name": "Avda.. De Ramón Nieto, 308",
+    "lat": 42.22953241,
+    "lon": -8.681347572,
+    "lines": []
+  },
+  {
+    "id": "7290",
+    "name": "Avda.. De Ramón Nieto, 360",
+    "lat": 42.228411862,
+    "lon": -8.678489489,
+    "lines": []
+  },
+  {
+    "id": "14354",
+    "name": "Avda.. De Ramón Nieto (fronte Igrexa)",
+    "lat": 42.225911433,
+    "lon": -8.675526243,
+    "lines": []
+  },
+  {
+    "id": "7300",
+    "name": "Avda.. De Ramón Nieto, 390",
+    "lat": 42.223957681,
+    "lon": -8.673451332,
+    "lines": []
+  },
+  {
+    "id": "7310",
+    "name": "Avda.. De Ramón Nieto, 406",
+    "lat": 42.223219273,
+    "lon": -8.672272983,
+    "lines": []
+  },
+  {
+    "id": "7590",
+    "name": "Avda.. Do Tranvía, 40",
+    "lat": 42.225201551,
+    "lon": -8.667101684,
+    "lines": []
+  },
+  {
+    "id": "14203",
+    "name": "Avda.. Do Tranvía S/N (despois Camiño Lugar)",
+    "lat": 42.226524401,
+    "lon": -8.661251786,
+    "lines": []
+  },
+  {
+    "id": "7540",
+    "name": "Avda.. Do Tranvía, 100",
+    "lat": 42.226657624,
+    "lon": -8.659447983,
+    "lines": []
+  },
+  {
+    "id": "14189",
+    "name": "Rúa Molais, 84",
+    "lat": 42.226081487,
+    "lon": -8.654133203,
+    "lines": []
+  },
+  {
+    "id": "6280",
+    "name": "Rúa Molais (parque Da Grileira)",
+    "lat": 42.223843943,
+    "lon": -8.65334865,
+    "lines": []
+  },
+  {
+    "id": "2210",
+    "name": "Avda.. De Santa Mariña, 137",
+    "lat": 42.222538699,
+    "lon": -8.656616496,
+    "lines": []
+  },
+  {
+    "id": "14183",
+    "name": "Rúa Do Xalón (colexio)",
+    "lat": 42.220622235,
+    "lon": -8.654888024,
+    "lines": []
+  },
+  {
+    "id": "14273",
+    "name": "Rúa Do Xalón, 41",
+    "lat": 42.219274062,
+    "lon": -8.656419893,
+    "lines": []
+  },
+  {
+    "id": "14184",
+    "name": "Rúa Do Xalón, 5",
+    "lat": 42.217384986,
+    "lon": -8.657082399,
+    "lines": []
+  },
+  {
+    "id": "14185",
+    "name": "Rúa Da Becerreira, 81",
+    "lat": 42.219667098,
+    "lon": -8.659470523,
+    "lines": []
+  },
+  {
+    "id": "14188",
+    "name": "Rúa Da Becerreira, 41",
+    "lat": 42.217595578,
+    "lon": -8.661414166,
+    "lines": []
+  },
+  {
+    "id": "14186",
+    "name": "Rúa Da Becerreira (fronte 64)",
+    "lat": 42.218044517,
+    "lon": -8.662618478,
+    "lines": []
+  },
+  {
+    "id": "14187",
+    "name": "Rúa Da Becerreira, 1",
+    "lat": 42.221588029,
+    "lon": -8.662035851,
+    "lines": []
+  },
+  {
+    "id": "2240",
+    "name": "Avda.. De Santa Mariña, 77",
+    "lat": 42.222432209,
+    "lon": -8.662773458,
+    "lines": []
+  },
+  {
+    "id": "14415",
+    "name": "Avda.. De Santa Mariña (antes 49)",
+    "lat": 42.221557416,
+    "lon": -8.665381534,
+    "lines": []
+  },
+  {
+    "id": "2220",
+    "name": "Avda.. De Santa Mariña, 17",
+    "lat": 42.220338634,
+    "lon": -8.668666271,
+    "lines": []
+  },
+  {
+    "id": "1540",
+    "name": "Avda.. Da Ponte, 15",
+    "lat": 42.221677429,
+    "lon": -8.66978207,
+    "lines": []
+  },
+  {
+    "id": "7340",
+    "name": "Avda.. De Ramón Nieto, 503",
+    "lat": 42.223272423,
+    "lon": -8.67216119,
+    "lines": []
+  },
+  {
+    "id": "7320",
+    "name": "Avda.. De Ramón Nieto, 475",
+    "lat": 42.224462184,
+    "lon": -8.673842935,
+    "lines": []
+  },
+  {
+    "id": "14355",
+    "name": "Avda.. De Ramón Nieto, 409",
+    "lat": 42.226638363,
+    "lon": -8.676135104,
+    "lines": []
+  },
+  {
+    "id": "7280",
+    "name": "Avda.. De Ramón Nieto, 355",
+    "lat": 42.228432118,
+    "lon": -8.67827376,
+    "lines": []
+  },
+  {
+    "id": "7270",
+    "name": "Avda.. De Ramón Nieto, 341",
+    "lat": 42.229570145,
+    "lon": -8.681232237,
+    "lines": []
+  },
+  {
+    "id": "7250",
+    "name": "Avda.. De Ramón Nieto, 273",
+    "lat": 42.229533333,
+    "lon": -8.684593198,
+    "lines": []
+  },
+  {
+    "id": "7370",
+    "name": "Avda.. De Ramón Nieto, 247",
+    "lat": 42.229607881,
+    "lon": -8.686980211,
+    "lines": []
+  },
+  {
+    "id": "7220",
+    "name": "Avda.. De Ramón Nieto, 173",
+    "lat": 42.229736581,
+    "lon": -8.691879077,
+    "lines": []
+  },
+  {
+    "id": "7200",
+    "name": "Avda.. De Ramón Nieto, 125",
+    "lat": 42.231023929,
+    "lon": -8.69459232,
+    "lines": []
+  },
+  {
+    "id": "7350",
+    "name": "Avda.. De Ramón Nieto, 57",
+    "lat": 42.231927571,
+    "lon": -8.697668814,
+    "lines": []
+  },
+  {
+    "id": "14141",
+    "name": "Rúa De Jenaro De La Fuente, 43",
+    "lat": 42.231379202,
+    "lon": -8.699876213,
+    "lines": []
+  },
+  {
+    "id": "3510",
+    "name": "Estrada De Camposancos, 28",
+    "lat": 42.202849227,
+    "lon": -8.753870291,
+    "lines": []
+  },
+  {
+    "id": "3530",
+    "name": "Estrada De Camposancos, 88",
+    "lat": 42.199773285,
+    "lon": -8.759958845,
+    "lines": []
+  },
+  {
+    "id": "20210",
+    "name": "Estrada De Camposancos, 108",
+    "lat": 42.19824056,
+    "lon": -8.763182189,
+    "lines": []
+  },
+  {
+    "id": "3540",
+    "name": "Estrada De Camposancos, 138",
+    "lat": 42.19617384,
+    "lon": -8.766295392,
+    "lines": []
+  },
+  {
+    "id": "3500",
+    "name": "Estrada De Camposancos, 190",
+    "lat": 42.194553241,
+    "lon": -8.770325583,
+    "lines": []
+  },
+  {
+    "id": "3470",
+    "name": "Estrada De Camposancos, 214",
+    "lat": 42.193581709,
+    "lon": -8.772496159,
+    "lines": []
+  },
+  {
+    "id": "4700",
+    "name": "Estrada Do Vao, 46",
+    "lat": 42.194014721,
+    "lon": -8.777055245,
+    "lines": []
+  },
+  {
+    "id": "4720",
+    "name": "Estrada Do Vao, 90",
+    "lat": 42.193937416,
+    "lon": -8.781634173,
+    "lines": []
+  },
+  {
+    "id": "4680",
+    "name": "Estrada Do Vao, 116",
+    "lat": 42.19429691,
+    "lon": -8.786574405,
+    "lines": []
+  },
+  {
+    "id": "4740",
+    "name": "Estrada Do Vao (praia Do Vao)",
+    "lat": 42.196595321,
+    "lon": -8.791019372,
+    "lines": []
+  },
+  {
+    "id": "3760",
+    "name": "Rúa De Canido (fronte 119)",
+    "lat": 42.1957321,
+    "lon": -8.795211362,
+    "lines": []
+  },
+  {
+    "id": "3750",
+    "name": "Rúa De Canido (praia De Canido)",
+    "lat": 42.193128934,
+    "lon": -8.797957944,
+    "lines": []
+  },
+  {
+    "id": "3130",
+    "name": "Avda.. De Cesáreo Vázquez, 169",
+    "lat": 42.191030413,
+    "lon": -8.799596773,
+    "lines": []
+  },
+  {
+    "id": "3120",
+    "name": "Avda.. De Cesáreo Vázquez, 141",
+    "lat": 42.187320701,
+    "lon": -8.801121407,
+    "lines": []
+  },
+  {
+    "id": "3100",
+    "name": "Avda.. De Cesáreo Vázquez, 99",
+    "lat": 42.184766843,
+    "lon": -8.802180879,
+    "lines": []
+  },
+  {
+    "id": "20048",
+    "name": "Avda.. De Cesáreo Vázquez (cruce Camiño Amariz Lourenzo)",
+    "lat": 42.182684406,
+    "lon": -8.802402364,
+    "lines": []
+  },
+  {
+    "id": "7890",
+    "name": "Avda.. De Cesáreo Vázquez, 61",
+    "lat": 42.180764289,
+    "lon": -8.80256063,
+    "lines": []
+  },
+  {
+    "id": "1550",
+    "name": "Avda.. Da Ponte, 18",
+    "lat": 42.221299207,
+    "lon": -8.670013709,
+    "lines": []
+  },
+  {
+    "id": "2260",
+    "name": "Avda.. De Santa Mariña, 18",
+    "lat": 42.220504663,
+    "lon": -8.668053014,
+    "lines": []
+  },
+  {
+    "id": "14414",
+    "name": "Avda.. De Santa Mariña, 40",
+    "lat": 42.221587211,
+    "lon": -8.665078444,
+    "lines": []
+  },
+  {
+    "id": "2230",
+    "name": "Avda.. De Santa Mariña, 52",
+    "lat": 42.222347963,
+    "lon": -8.662841482,
+    "lines": []
+  },
+  {
+    "id": "20080",
+    "name": "Avda.. De Santa Mariña, 68",
+    "lat": 42.221674556,
+    "lon": -8.660937347,
+    "lines": []
+  },
+  {
+    "id": "2250",
+    "name": "Avda.. De Santa Mariña (cruce Camiño Do Narxo)",
+    "lat": 42.220826115,
+    "lon": -8.659651094,
+    "lines": []
+  },
+  {
+    "id": "2200",
+    "name": "Avda.. De Santa Mariña, 110",
+    "lat": 42.22271748,
+    "lon": -8.656176614,
+    "lines": []
+  },
+  {
+    "id": "2270",
+    "name": "Avda.. De Santa Mariña, 103",
+    "lat": 42.22113201,
+    "lon": -8.658591621,
+    "lines": []
+  },
+  {
+    "id": "20082",
+    "name": "Avda.. De Santa Mariña (fronte 66)",
+    "lat": 42.221758032,
+    "lon": -8.661135597,
+    "lines": []
+  },
+  {
+    "id": "14198",
+    "name": "Rúa Do Riomao, 21",
+    "lat": 42.227231301,
+    "lon": -8.659997969,
+    "lines": []
+  },
+  {
+    "id": "5170",
+    "name": "Rúa Das Figueiras (praza Da Feira)",
+    "lat": 42.227529644,
+    "lon": -8.66169041,
+    "lines": []
+  },
+  {
+    "id": "5280",
+    "name": "Rúa Das Figueiras, 113",
+    "lat": 42.225940716,
+    "lon": -8.663830813,
+    "lines": []
+  },
+  {
+    "id": "5270",
+    "name": "Rúa Das Figueiras, 65",
+    "lat": 42.224367639,
+    "lon": -8.665989991,
+    "lines": []
+  },
+  {
+    "id": "5250",
+    "name": "Rúa Das Figueiras, 29",
+    "lat": 42.223048763,
+    "lon": -8.667374011,
+    "lines": []
+  },
+  {
+    "id": "3270",
+    "name": "Rúa Da Coruña (fronte 39)",
+    "lat": 42.226490285,
+    "lon": -8.73744901,
+    "lines": []
+  },
+  {
+    "id": "1210",
+    "name": "Avda.. De Beiramar, 61",
+    "lat": 42.230811976,
+    "lon": -8.735364934,
+    "lines": []
+  },
+  {
+    "id": "1200",
+    "name": "Avda.. De Beiramar, 51",
+    "lat": 42.234233798,
+    "lon": -8.73312316,
+    "lines": []
+  },
+  {
+    "id": "20062",
+    "name": "Avda.. De Beiramar, 1",
+    "lat": 42.236143706,
+    "lon": -8.73180718,
+    "lines": []
+  },
+  {
+    "id": "14107",
+    "name": "Camiño Padín (rotonda Autoestrada)",
+    "lat": 42.257847205,
+    "lon": -8.677696507,
+    "lines": []
+  },
+  {
+    "id": "1040",
+    "name": "Avda.. Da Atlántida, 32",
+    "lat": 42.223237503,
+    "lon": -8.755707801,
+    "lines": []
+  },
+  {
+    "id": "14267",
+    "name": "Avda.. Da Atlántida, 64",
+    "lat": 42.221892792,
+    "lon": -8.758191526,
+    "lines": []
+  },
+  {
+    "id": "1060",
+    "name": "Avda.. Da Atlántida, 84",
+    "lat": 42.221789505,
+    "lon": -8.759905458,
+    "lines": []
+  },
+  {
+    "id": "1070",
+    "name": "Avda.. Da Atlántida, 114",
+    "lat": 42.221148357,
+    "lon": -8.764660969,
+    "lines": []
+  },
+  {
+    "id": "1010",
+    "name": "Avda.. Da Atlántida, 136",
+    "lat": 42.221479642,
+    "lon": -8.767482698,
+    "lines": []
+  },
+  {
+    "id": "1020",
+    "name": "Avda.. Da Atlántida, 150",
+    "lat": 42.222764778,
+    "lon": -8.769405842,
+    "lines": []
+  },
+  {
+    "id": "6750",
+    "name": "Avda.. De Samil (praia Da Fonte)",
+    "lat": 42.221783554,
+    "lon": -8.773517669,
+    "lines": []
+  },
+  {
+    "id": "14170",
+    "name": "Avda.. De Samil (praia Da Punta)",
+    "lat": 42.218831744,
+    "lon": -8.77571001,
+    "lines": []
+  },
+  {
+    "id": "6790",
+    "name": "Avda.. De Samil (fronte Hotel)",
+    "lat": 42.214773038,
+    "lon": -8.774765933,
+    "lines": []
+  },
+  {
+    "id": "6780",
+    "name": "Avda.. De Samil (dunas)",
+    "lat": 42.210256843,
+    "lon": -8.774740625,
+    "lines": []
+  },
+  {
+    "id": "6810",
+    "name": "Avda.. De Samil (parking)",
+    "lat": 42.207405928,
+    "lon": -8.776153122,
+    "lines": []
+  },
+  {
+    "id": "6820",
+    "name": "Avda.. De Samil (polideportivo)",
+    "lat": 42.20362713,
+    "lon": -8.777027535,
+    "lines": []
+  },
+  {
+    "id": "6760",
+    "name": "Rúa De Canido (praia Da Calzoa)",
+    "lat": 42.201847037,
+    "lon": -8.782205633,
+    "lines": []
+  },
+  {
+    "id": "3800",
+    "name": "Rúa De Canido, 26",
+    "lat": 42.199639519,
+    "lon": -8.785727373,
+    "lines": []
+  },
+  {
+    "id": "6830",
+    "name": "Praia Do Vao",
+    "lat": 42.197495083,
+    "lon": -8.790235556,
+    "lines": []
+  },
+  {
+    "id": "310",
+    "name": "Rúa Do Arquitecto Antonio Cominges, 4",
+    "lat": 42.190850463,
+    "lon": -8.80358845,
+    "lines": []
+  },
+  {
+    "id": "280",
+    "name": "Rúa Do Arquitecto Antonio Cominges, 38",
+    "lat": 42.189490674,
+    "lon": -8.808107114,
+    "lines": []
+  },
+  {
+    "id": "20212",
+    "name": "Rúa Do Canabido, 18",
+    "lat": 42.188388732,
+    "lon": -8.805956864,
+    "lines": []
+  },
+  {
+    "id": "560",
+    "name": "Avda.. De Ricardo Mella, 518",
+    "lat": 42.181015915,
+    "lon": -8.807696921,
+    "lines": []
+  },
+  {
+    "id": "2330",
+    "name": "Avda.. De Ricardo Mella, 357",
+    "lat": 42.173316968,
+    "lon": -8.81100291,
+    "lines": []
+  },
+  {
+    "id": "2320",
+    "name": "Baixada Á Praia, 121",
+    "lat": 42.172541892,
+    "lon": -8.809133287,
+    "lines": []
+  },
+  {
+    "id": "2380",
+    "name": "Baixada Á Praia, 101",
+    "lat": 42.169719111,
+    "lon": -8.808832324,
+    "lines": []
+  },
+  {
+    "id": "2360",
+    "name": "Baixada Á Praia (parque C.cívico)",
+    "lat": 42.167825345,
+    "lon": -8.806386831,
+    "lines": []
+  },
+  {
+    "id": "7870",
+    "name": "Baixada Á Praia, 4",
+    "lat": 42.166897971,
+    "lon": -8.802204658,
+    "lines": []
+  },
+  {
+    "id": "2340",
+    "name": "Baixada Á Praia, 44",
+    "lat": 42.167981444,
+    "lon": -8.806504239,
+    "lines": []
+  },
+  {
+    "id": "2350",
+    "name": "Baixada Á Praia, 74",
+    "lat": 42.169850316,
+    "lon": -8.808861828,
+    "lines": []
+  },
+  {
+    "id": "2370",
+    "name": "Baixada Á Praia, 94",
+    "lat": 42.172705652,
+    "lon": -8.809114415,
+    "lines": []
+  },
+  {
+    "id": "2310",
+    "name": "Baixada Á Praia (fronte 187)",
+    "lat": 42.173398721,
+    "lon": -8.811050666,
+    "lines": []
+  },
+  {
+    "id": "650",
+    "name": "Avda.. De Ricardo Mella, 289",
+    "lat": 42.181065441,
+    "lon": -8.807509871,
+    "lines": []
+  },
+  {
+    "id": "600",
+    "name": "Avda.. De Ricardo Mella, 273",
+    "lat": 42.189927171,
+    "lon": -8.800634184,
+    "lines": []
+  },
+  {
+    "id": "630",
+    "name": "Avda.. De Ricardo Mella, 223",
+    "lat": 42.189304527,
+    "lon": -8.79068363,
+    "lines": []
+  },
+  {
+    "id": "14357",
+    "name": "Avda.. De Ricardo Mella (cruce Camiño Do Río)",
+    "lat": 42.191796473,
+    "lon": -8.784014088,
+    "lines": []
+  },
+  {
+    "id": "620",
+    "name": "Avda.. De Ricado Mella, 165",
+    "lat": 42.1935678,
+    "lon": -8.781529566,
+    "lines": []
+  },
+  {
+    "id": "580",
+    "name": "Avda.. De Ricardo Mella, 135",
+    "lat": 42.195766012,
+    "lon": -8.773648966,
+    "lines": []
+  },
+  {
+    "id": "14248",
+    "name": "Camiño Dos Muíños, 74",
+    "lat": 42.200580723,
+    "lon": -8.76911862,
+    "lines": []
+  },
+  {
+    "id": "6290",
+    "name": "Rúa De San Paio (cruce Rúa Muíños)",
+    "lat": 42.202031781,
+    "lon": -8.769502424,
+    "lines": []
+  },
+  {
+    "id": "7900",
+    "name": "Rúa De San Paio (cruce Camiño Da Quintela)",
+    "lat": 42.20492472,
+    "lon": -8.768904292,
+    "lines": []
+  },
+  {
+    "id": "7910",
+    "name": "Rúa De San Paio (igrexa)",
+    "lat": 42.208040013,
+    "lon": -8.767458581,
+    "lines": []
+  },
+  {
+    "id": "7920",
+    "name": "Rúa De San Paio (torreiro)",
+    "lat": 42.208926096,
+    "lon": -8.765294038,
+    "lines": []
+  },
+  {
+    "id": "14402",
+    "name": "Rúa De San Paio, 111",
+    "lat": 42.210791203,
+    "lon": -8.761940347,
+    "lines": []
+  },
+  {
+    "id": "8000",
+    "name": "Rúa De San Paio, 83",
+    "lat": 42.212034517,
+    "lon": -8.760916715,
+    "lines": []
+  },
+  {
+    "id": "7970",
+    "name": "Rúa De San Paio (fronte 58)",
+    "lat": 42.213820465,
+    "lon": -8.760651176,
+    "lines": []
+  },
+  {
+    "id": "4850",
+    "name": "Estrada Vella De Madrid (frente Centro Comercial)",
+    "lat": 42.216448197,
+    "lon": -8.68163748,
+    "lines": []
+  },
+  {
+    "id": "3350",
+    "name": "Rúa Do Couto, 1",
+    "lat": 42.230911796,
+    "lon": -8.722711253,
+    "lines": []
+  },
+  {
+    "id": "14178",
+    "name": "Rúa Do Marqués De Alcedo (parque)",
+    "lat": 42.233009005,
+    "lon": -8.724497604,
+    "lines": []
+  },
+  {
+    "id": "1860",
+    "name": "Avda.. De Europa (cruce Rúa Da Pardaíña)",
+    "lat": 42.216741568,
+    "lon": -8.757129742,
+    "lines": []
+  },
+  {
+    "id": "1850",
+    "name": "Avda.. De Europa (antes Camiño Freixeiro)",
+    "lat": 42.216135691,
+    "lon": -8.759632243,
+    "lines": []
+  },
+  {
+    "id": "7980",
+    "name": "Rúa De San Paio, 54",
+    "lat": 42.21430717,
+    "lon": -8.760710185,
+    "lines": []
+  },
+  {
+    "id": "7990",
+    "name": "Rúa De San Paio, 76",
+    "lat": 42.212612622,
+    "lon": -8.760868435,
+    "lines": []
+  },
+  {
+    "id": "14401",
+    "name": "Rúa De San Paio (cruce Camiño Barroca)",
+    "lat": 42.21072167,
+    "lon": -8.76212542,
+    "lines": []
+  },
+  {
+    "id": "7930",
+    "name": "Rúa De San Paio, 136",
+    "lat": 42.208999211,
+    "lon": -8.765346753,
+    "lines": []
+  },
+  {
+    "id": "7940",
+    "name": "Rúa De San Paio, 220",
+    "lat": 42.207987966,
+    "lon": -8.767688321,
+    "lines": []
+  },
+  {
+    "id": "7950",
+    "name": "Rúa De San Paio, 242",
+    "lat": 42.206253649,
+    "lon": -8.768742472,
+    "lines": []
+  },
+  {
+    "id": "7960",
+    "name": "Rúa De San Paio, 284",
+    "lat": 42.202111343,
+    "lon": -8.769560881,
+    "lines": []
+  },
+  {
+    "id": "14247",
+    "name": "Camiño Dos Muíños, 69",
+    "lat": 42.200511179,
+    "lon": -8.769110573,
+    "lines": []
+  },
+  {
+    "id": "570",
+    "name": "Avda.. De Ricardo Mella, 250",
+    "lat": 42.195225102,
+    "lon": -8.775226375,
+    "lines": []
+  },
+  {
+    "id": "530",
+    "name": "Avda.. De Ricardo Mella (estación Coruxo)",
+    "lat": 42.193562859,
+    "lon": -8.78173994,
+    "lines": []
+  },
+  {
+    "id": "14356",
+    "name": "Avda.. De Ricardo Mella, 314",
+    "lat": 42.192009114,
+    "lon": -8.783993123,
+    "lines": []
+  },
+  {
+    "id": "540",
+    "name": "Avda.. De Ricardo Mella (fronte 223)",
+    "lat": 42.189424424,
+    "lon": -8.790733064,
+    "lines": []
+  },
+  {
+    "id": "14294",
+    "name": "Avda.. De Ricardo Mella, 406",
+    "lat": 42.190704974,
+    "lon": -8.799306832,
+    "lines": []
+  },
+  {
+    "id": "14249",
+    "name": "Avda.. De Cesáreo Vázquez, 5",
+    "lat": 42.177662554,
+    "lon": -8.800157923,
+    "lines": []
+  },
+  {
+    "id": "20196",
+    "name": "Estrada De Camposancos, 498",
+    "lat": 42.175325155,
+    "lon": -8.799594139,
+    "lines": []
+  },
+  {
+    "id": "20178",
+    "name": "Estrada De Camposancos (cruce Camiño Da Estea)",
+    "lat": 42.172412443,
+    "lon": -8.799591567,
+    "lines": []
+  },
+  {
+    "id": "320",
+    "name": "Rúa Do Arquitecto Antonio Cominges, 70",
+    "lat": 42.189221331,
+    "lon": -8.811730246,
+    "lines": []
+  },
+  {
+    "id": "330",
+    "name": "Rúa Do Arquitecto Antonio Cominges, 90",
+    "lat": 42.187213169,
+    "lon": -8.813069201,
+    "lines": []
+  },
+  {
+    "id": "270",
+    "name": "Rúa De Desiderio Pernas Arquitecto, 1",
+    "lat": 42.18920151,
+    "lon": -8.810340862,
+    "lines": []
+  },
+  {
+    "id": "290",
+    "name": "Rúa Do Arquitecto Gómez Román, 37",
+    "lat": 42.190149471,
+    "lon": -8.803788225,
+    "lines": []
+  },
+  {
+    "id": "2140",
+    "name": "Avda.. De Samil (verbum)",
+    "lat": 42.21323221,
+    "lon": -8.774382415,
+    "lines": []
+  },
+  {
+    "id": "2160",
+    "name": "Avda.. De Samil, 15",
+    "lat": 42.215860796,
+    "lon": -8.774720144,
+    "lines": []
+  },
+  {
+    "id": "14171",
+    "name": "Avda.. De Samil (fronte Praia Da Punta)",
+    "lat": 42.218844713,
+    "lon": -8.775459221,
+    "lines": []
+  },
+  {
+    "id": "2150",
+    "name": "Avda.. De Samil (fronte Praia Da Fonte)",
+    "lat": 42.221416498,
+    "lon": -8.773724153,
+    "lines": []
+  },
+  {
+    "id": "990",
+    "name": "Avda.. Da Atlántida (fronte 148)",
+    "lat": 42.222451366,
+    "lon": -8.769134894,
+    "lines": []
+  },
+  {
+    "id": "1000",
+    "name": "Avda.. Da Atlántida, 109",
+    "lat": 42.221220508,
+    "lon": -8.767194468,
+    "lines": []
+  },
+  {
+    "id": "980",
+    "name": "Avda.. Da Atlántida, 99",
+    "lat": 42.221170087,
+    "lon": -8.763656977,
+    "lines": []
+  },
+  {
+    "id": "1050",
+    "name": "Avda.. Da Atlántida, 71",
+    "lat": 42.221875354,
+    "lon": -8.760935381,
+    "lines": []
+  },
+  {
+    "id": "14268",
+    "name": "Avda.. Da Atlántida, 49",
+    "lat": 42.221731945,
+    "lon": -8.758417175,
+    "lines": []
+  },
+  {
+    "id": "1030",
+    "name": "Avda.. Da Atlántida, 25",
+    "lat": 42.223219677,
+    "lon": -8.754753277,
+    "lines": []
+  },
+  {
+    "id": "14174",
+    "name": "Rúa Do Padre Seixas (parque Da Bouza)",
+    "lat": 42.211844516,
+    "lon": -8.749287921,
+    "lines": []
+  },
+  {
+    "id": "6955",
+    "name": "Praza De España (cruce Rúa De Fernando Conde)",
+    "lat": 42.229438377,
+    "lon": -8.719781108,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14336",
+    "name": "Rúa Das Teixugueiras, 8",
+    "lat": 42.21447626,
+    "lon": -8.75600551,
+    "lines": []
+  },
+  {
+    "id": "1580",
+    "name": "Avda.. Da Ponte, 54",
+    "lat": 42.218393587,
+    "lon": -8.669480106,
+    "lines": []
+  },
+  {
+    "id": "1510",
+    "name": "Avda.. Da Ponte, 80",
+    "lat": 42.215203365,
+    "lon": -8.670416197,
+    "lines": []
+  },
+  {
+    "id": "3430",
+    "name": "Avda.. Da Ponte 86 (cemiterio)",
+    "lat": 42.215621206,
+    "lon": -8.67221512,
+    "lines": []
+  },
+  {
+    "id": "14108",
+    "name": "Avda.. Da Ponte (antes Desvío Autovía)",
+    "lat": 42.21401741,
+    "lon": -8.67133083,
+    "lines": []
+  },
+  {
+    "id": "9040",
+    "name": "Estrada Das Plantas (cruce Camiño Monte Vello)",
+    "lat": 42.20831564,
+    "lon": -8.670282438,
+    "lines": []
+  },
+  {
+    "id": "9020",
+    "name": "Xestoso",
+    "lat": 42.207584622,
+    "lon": -8.670108196,
+    "lines": []
+  },
+  {
+    "id": "7500",
+    "name": "Rúa Do Carballal, 18",
+    "lat": 42.196388225,
+    "lon": -8.684151676,
+    "lines": []
+  },
+  {
+    "id": "7490",
+    "name": "Rúa Do Carballal, 52",
+    "lat": 42.194091099,
+    "lon": -8.683392611,
+    "lines": []
+  },
+  {
+    "id": "7760",
+    "name": "Camiño Das Cunchadas (cruce Rúa Da Senra)",
+    "lat": 42.193300199,
+    "lon": -8.681021538,
+    "lines": []
+  },
+  {
+    "id": "7620",
+    "name": "Rúa Das Chans, 97",
+    "lat": 42.189146758,
+    "lon": -8.678708548,
+    "lines": []
+  },
+  {
+    "id": "14154",
+    "name": "Rúa Das Chans (fronte 56)",
+    "lat": 42.19360258,
+    "lon": -8.677258993,
+    "lines": []
+  },
+  {
+    "id": "7610",
+    "name": "Rúa Das Chans (colexio)",
+    "lat": 42.196647395,
+    "lon": -8.677801904,
+    "lines": []
+  },
+  {
+    "id": "7600",
+    "name": "Rúa Dos Chans (cruce Subida Chans)",
+    "lat": 42.198544554,
+    "lon": -8.677824939,
+    "lines": []
+  },
+  {
+    "id": "8230",
+    "name": "Rúa Dos Chans (cruce Camiño Regada)",
+    "lat": 42.199146625,
+    "lon": -8.676419461,
+    "lines": []
+  },
+  {
+    "id": "14330",
+    "name": "Subida Ás Chans (fronte Cruce Rúa Senra)",
+    "lat": 42.198072667,
+    "lon": -8.682624653,
+    "lines": []
+  },
+  {
+    "id": "7470",
+    "name": "Rúa Da Cruz, 63",
+    "lat": 42.198206824,
+    "lon": -8.684878336,
+    "lines": []
+  },
+  {
+    "id": "6900",
+    "name": "Rúa Da Cruz, 49",
+    "lat": 42.199031443,
+    "lon": -8.686165797,
+    "lines": []
+  },
+  {
+    "id": "7480",
+    "name": "Rúa Da Cruz, 19",
+    "lat": 42.200729887,
+    "lon": -8.684258964,
+    "lines": []
+  },
+  {
+    "id": "14152",
+    "name": "Rúa Do Monte Calvario, 4",
+    "lat": 42.204815402,
+    "lon": -8.687168969,
+    "lines": []
+  },
+  {
+    "id": "8282",
+    "name": "Subida Á Mouteira, 6",
+    "lat": 42.206854901,
+    "lon": -8.686031058,
+    "lines": []
+  },
+  {
+    "id": "7662",
+    "name": "Rúa De Recaré, 6",
+    "lat": 42.211013462,
+    "lon": -8.68554295,
+    "lines": []
+  },
+  {
+    "id": "7664",
+    "name": "Rúa De Recaré (cruce Segade)",
+    "lat": 42.211201327,
+    "lon": -8.688838517,
+    "lines": []
+  },
+  {
+    "id": "7762",
+    "name": "Rúa De Segade, 41",
+    "lat": 42.209575101,
+    "lon": -8.690548833,
+    "lines": []
+  },
+  {
+    "id": "3574",
+    "name": "Estrada De Bembrive, 129",
+    "lat": 42.208533311,
+    "lon": -8.694987854,
+    "lines": []
+  },
+  {
+    "id": "3380",
+    "name": "Cruce Eifonso",
+    "lat": 42.205623108,
+    "lon": -8.693239335,
+    "lines": []
+  },
+  {
+    "id": "9010",
+    "name": "Rúa De Xeme, 71",
+    "lat": 42.203157887,
+    "lon": -8.694293108,
+    "lines": []
+  },
+  {
+    "id": "2460",
+    "name": "Rúa De Xeme, 59",
+    "lat": 42.203300943,
+    "lon": -8.696320858,
+    "lines": []
+  },
+  {
+    "id": "14411",
+    "name": "Rúa De Xeme, 1",
+    "lat": 42.205174543,
+    "lon": -8.698209134,
+    "lines": []
+  },
+  {
+    "id": "2750",
+    "name": "Rúa Do Cacheno, 28",
+    "lat": 42.20671834,
+    "lon": -8.699160127,
+    "lines": []
+  },
+  {
+    "id": "2760",
+    "name": "Rúa Do Cacheno, 66",
+    "lat": 42.208194443,
+    "lon": -8.701518979,
+    "lines": []
+  },
+  {
+    "id": "2410",
+    "name": "Baixada Ao Río, 31",
+    "lat": 42.209020914,
+    "lon": -8.702331689,
+    "lines": []
+  },
+  {
+    "id": "7070",
+    "name": "Estrada De Moledo, 109",
+    "lat": 42.210620188,
+    "lon": -8.704177049,
+    "lines": []
+  },
+  {
+    "id": "4240",
+    "name": "Estrada De Moledo, 73",
+    "lat": 42.212378349,
+    "lon": -8.704729584,
+    "lines": []
+  },
+  {
+    "id": "4250",
+    "name": "Estrada De Moledo, 25",
+    "lat": 42.213377597,
+    "lon": -8.70601168,
+    "lines": []
+  },
+  {
+    "id": "4230",
+    "name": "Estrada De Moledo, 1",
+    "lat": 42.215373761,
+    "lon": -8.707378349,
+    "lines": []
+  },
+  {
+    "id": "7040",
+    "name": "Estrada De Miraflores, 1",
+    "lat": 42.218435348,
+    "lon": -8.709924429,
+    "lines": []
+  },
+  {
+    "id": "7390",
+    "name": "Camiño Do Raviso, 35",
+    "lat": 42.220167311,
+    "lon": -8.706963864,
+    "lines": []
+  },
+  {
+    "id": "20105",
+    "name": "Rúa De Emilia Pardo Bazán, 121",
+    "lat": 42.221232035,
+    "lon": -8.709808647,
+    "lines": []
+  },
+  {
+    "id": "4310",
+    "name": "Rúa De Emilia Pardo Bazán, 111",
+    "lat": 42.222713762,
+    "lon": -8.711555806,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "4350",
+    "name": "Rúa De Emilia Pardo Bazán, 43",
+    "lat": 42.224562952,
+    "lon": -8.713390437,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "4330",
+    "name": "Rúa De Emilia Pardo Bazán (cruce Baixada Á Salgueira)",
+    "lat": 42.226463146,
+    "lon": -8.71614062,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "4290",
+    "name": "Rúa De Emilia Pardo Bazán, 3",
+    "lat": 42.227785739,
+    "lon": -8.719460889,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "20146",
+    "name": "García Barbón No Activa",
+    "lat": 42.237533566,
+    "lon": -8.71954632,
+    "lines": []
+  },
+  {
+    "id": "6730",
+    "name": "Rúa Do Couto, 29",
+    "lat": 42.199386411,
+    "lon": -8.695417016,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Rúa Da Lagoa (cruce Camiño Do Casmarcelo)",
+    "lat": 42.20020175,
+    "lon": -8.700621608,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5840",
+    "name": "Rúa Da Lagoa (cruce Rúa Do Balde)",
+    "lat": 42.201360896,
+    "lon": -8.702877394,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "20166",
+    "name": "Camiño Da Brea, 2",
+    "lat": 42.202134841,
+    "lon": -8.70572793,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "2550",
+    "name": "Camiño Da Brea, 10",
+    "lat": 42.204086577,
+    "lon": -8.704832445,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "2551",
+    "name": "Camiño Da Brea, 40",
+    "lat": 42.205779861,
+    "lon": -8.704885101,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "7849",
+    "name": "Rúa De Saá, 105",
+    "lat": 42.206246416,
+    "lon": -8.707079433,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "7840",
+    "name": "Rúa Da Saa Do Monte, 73",
+    "lat": 42.203039989,
+    "lon": -8.710936623,
+    "lines": []
+  },
+  {
+    "id": "14238",
+    "name": "Rúa Da Saa Do Monte, 5",
+    "lat": 42.20458802,
+    "lon": -8.714617309,
+    "lines": []
+  },
+  {
+    "id": "14240",
+    "name": "Rúa Das Chabarras, 21",
+    "lat": 42.197985091,
+    "lon": -8.714523201,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14242",
+    "name": "Rúa Das Chabarras (cruce Camiño Dos Pasais)",
+    "lat": 42.196378259,
+    "lon": -8.716979043,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "7170",
+    "name": "Rúa De Ramiro Pascual, 9",
+    "lat": 42.195322512,
+    "lon": -8.719460515,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5920",
+    "name": "Rúa De Macal (cruce Rúa De Ramiro Pascual)",
+    "lat": 42.196173594,
+    "lon": -8.721023814,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5940",
+    "name": "Rúa De Macal, 39",
+    "lat": 42.198347336,
+    "lon": -8.721488003,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5930",
+    "name": "Rúa De Macal (frente 8)",
+    "lat": 42.202050775,
+    "lon": -8.723454133,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5120",
+    "name": "Camiño Da Falcoa, 41",
+    "lat": 42.204935234,
+    "lon": -8.722453969,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5140",
+    "name": "Camiño Da Falcoa, 15",
+    "lat": 42.207336295,
+    "lon": -8.72129506,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "2290",
+    "name": "Baixada Á Laxe, 44",
+    "lat": 42.216415126,
+    "lon": -8.719355076,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "8090",
+    "name": "Estrada Miraflores (centro Saúde)",
+    "lat": 42.216151643,
+    "lon": -8.715616477,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "4150",
+    "name": "Estrada De Miraflores, 69",
+    "lat": 42.217620909,
+    "lon": -8.712429612,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "7810",
+    "name": "Estrada Miraflores (parque Parróco Xesús Alonso)",
+    "lat": 42.217817959,
+    "lon": -8.710940668,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "3190",
+    "name": "Camiño De Quirós (cruce Rúa De Dona Cristina)",
+    "lat": 42.219681782,
+    "lon": -8.711385979,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "4320",
+    "name": "Rúa De Emilia Pardo Bazán, 2",
+    "lat": 42.227716225,
+    "lon": -8.719750568,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "4340",
+    "name": "Rúa De Emilia Pardo Bazán, 54",
+    "lat": 42.226112503,
+    "lon": -8.715718376,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "4280",
+    "name": "Rúa De Emilia Pardo Bazán, 80",
+    "lat": 42.224507337,
+    "lon": -8.713465538,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "4300",
+    "name": "Rúa De Emilia Pardo Bazán, 104",
+    "lat": 42.22278924,
+    "lon": -8.711754289,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "20104",
+    "name": "Rúa De Emilia Pardo Bazán, 134",
+    "lat": 42.220938435,
+    "lon": -8.709621883,
+    "lines": []
+  },
+  {
+    "id": "7380",
+    "name": "Camiño Do Raviso, 8",
+    "lat": 42.220087856,
+    "lon": -8.707014826,
+    "lines": []
+  },
+  {
+    "id": "7050",
+    "name": "Praza De Miraflores, 4",
+    "lat": 42.218502886,
+    "lon": -8.710133641,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "4200",
+    "name": "Estrada De Moledo, 6",
+    "lat": 42.215236994,
+    "lon": -8.707384971,
+    "lines": []
+  },
+  {
+    "id": "4220",
+    "name": "Estrada De Moledo, 22",
+    "lat": 42.213737557,
+    "lon": -8.706283115,
+    "lines": []
+  },
+  {
+    "id": "4210",
+    "name": "Estrada De Moledo, 42",
+    "lat": 42.212141078,
+    "lon": -8.704563545,
+    "lines": []
+  },
+  {
+    "id": "7060",
+    "name": "Estrada De Moledo, 70",
+    "lat": 42.210499286,
+    "lon": -8.703983192,
+    "lines": []
+  },
+  {
+    "id": "2420",
+    "name": "Rúa Do Cacheno (lavadero)",
+    "lat": 42.208468606,
+    "lon": -8.702143934,
+    "lines": []
+  },
+  {
+    "id": "2740",
+    "name": "Rúa Do Cacheno, 75",
+    "lat": 42.207451401,
+    "lon": -8.701194432,
+    "lines": []
+  },
+  {
+    "id": "2770",
+    "name": "Rúa Do Cacheno, 49",
+    "lat": 42.20648703,
+    "lon": -8.698760561,
+    "lines": []
+  },
+  {
+    "id": "14412",
+    "name": "Rúa De Xeme, 6",
+    "lat": 42.20497586,
+    "lon": -8.697957006,
+    "lines": []
+  },
+  {
+    "id": "14156",
+    "name": "Rúa De Xeme (cruce Camiño Da Carballeira)",
+    "lat": 42.203378431,
+    "lon": -8.696666863,
+    "lines": []
+  },
+  {
+    "id": "14157",
+    "name": "Rúa Do Xeme (cruce Rúa De Eifonso)",
+    "lat": 42.202979066,
+    "lon": -8.694065121,
+    "lines": []
+  },
+  {
+    "id": "3390",
+    "name": "Estrada De Bembrive, 160",
+    "lat": 42.205296644,
+    "lon": -8.692558914,
+    "lines": []
+  },
+  {
+    "id": "3580",
+    "name": "Estrada De Bembrive, 180",
+    "lat": 42.204440318,
+    "lon": -8.690871804,
+    "lines": []
+  },
+  {
+    "id": "2520",
+    "name": "Estrada De Bembrive, 238",
+    "lat": 42.204563665,
+    "lon": -8.687025359,
+    "lines": []
+  },
+  {
+    "id": "14112",
+    "name": "Estrada De Bembrive (alameda)",
+    "lat": 42.204047198,
+    "lon": -8.684697288,
+    "lines": []
+  },
+  {
+    "id": "7450",
+    "name": "Rúa Da Cruz, 2",
+    "lat": 42.202168422,
+    "lon": -8.68473908,
+    "lines": []
+  },
+  {
+    "id": "7440",
+    "name": "Rúa Da Cruz, 18",
+    "lat": 42.200640474,
+    "lon": -8.684744444,
+    "lines": []
+  },
+  {
+    "id": "6890",
+    "name": "Rúa Da Cruz, 36",
+    "lat": 42.198959642,
+    "lon": -8.68628496,
+    "lines": []
+  },
+  {
+    "id": "7460",
+    "name": "Rúa Da Cruz, 46",
+    "lat": 42.19807525,
+    "lon": -8.684800771,
+    "lines": []
+  },
+  {
+    "id": "14150",
+    "name": "Rúa Do Padre Don Rúa, 1",
+    "lat": 42.232076561,
+    "lon": -8.719055236,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "3572",
+    "name": "Estrada De Bembrive, 110",
+    "lat": 42.208457815,
+    "lon": -8.695017358,
+    "lines": []
+  },
+  {
+    "id": "7764",
+    "name": "Rúa De Segade, 86",
+    "lat": 42.209654568,
+    "lon": -8.690495189,
+    "lines": []
+  },
+  {
+    "id": "7668",
+    "name": "Rúa De Recaré, 39",
+    "lat": 42.211022529,
+    "lon": -8.688318168,
+    "lines": []
+  },
+  {
+    "id": "7666",
+    "name": "Rúa De Recaré, 3",
+    "lat": 42.210514541,
+    "lon": -8.685349777,
+    "lines": []
+  },
+  {
+    "id": "8284",
+    "name": "Subida Á Mouteira (parque Monte Calvario)",
+    "lat": 42.206779403,
+    "lon": -8.686218813,
+    "lines": []
+  },
+  {
+    "id": "1910",
+    "name": "Avda.. De Europa (fronte Cruce Rúa Do Bravo)",
+    "lat": 42.211905694,
+    "lon": -8.766999036,
+    "lines": []
+  },
+  {
+    "id": "1870",
+    "name": "Avda.. De Europa, 102",
+    "lat": 42.211235082,
+    "lon": -8.773459294,
+    "lines": []
+  },
+  {
+    "id": "20220",
+    "name": "Coia - Samil",
+    "lat": 42.213783955,
+    "lon": -8.774372371,
+    "lines": []
+  },
+  {
+    "id": "1530",
+    "name": "Avda.. Da Ponte (fronte Grupo S. Gorxal)",
+    "lat": 42.212814417,
+    "lon": -8.670537674,
+    "lines": []
+  },
+  {
+    "id": "1520",
+    "name": "Avda.. Da Ponte, 83",
+    "lat": 42.215400704,
+    "lon": -8.671308533,
+    "lines": []
+  },
+  {
+    "id": "1570",
+    "name": "Avda.. Da Ponte, 47",
+    "lat": 42.217957539,
+    "lon": -8.669369577,
+    "lines": []
+  },
+  {
+    "id": "14299",
+    "name": "Avda.. De Samil (frente Verbum)",
+    "lat": 42.213777217,
+    "lon": -8.774600284,
+    "lines": []
+  },
+  {
+    "id": "20143",
+    "name": "Rúa Das Teixugueiras (fronte 1)",
+    "lat": 42.215448094,
+    "lon": -8.756474306,
+    "lines": []
+  },
+  {
+    "id": "1560",
+    "name": "Avda.. Da Ponte, 31",
+    "lat": 42.219388605,
+    "lon": -8.669172606,
+    "lines": []
+  },
+  {
+    "id": "3260",
+    "name": "Rúa Da Coruña, 37",
+    "lat": 42.226287696,
+    "lon": -8.737475832,
+    "lines": []
+  },
+  {
+    "id": "14409",
+    "name": "Estrada Das Plantas (fronte Cruce Avda.. Do Rebullón)",
+    "lat": 42.204188441,
+    "lon": -8.670257126,
+    "lines": []
+  },
+  {
+    "id": "4550",
+    "name": "Estrada Das Plantas (cruce Camiño Do Pouso)",
+    "lat": 42.199945182,
+    "lon": -8.669085873,
+    "lines": []
+  },
+  {
+    "id": "20072",
+    "name": "Camiño Do Pouso",
+    "lat": 42.196643694,
+    "lon": -8.671663218,
+    "lines": []
+  },
+  {
+    "id": "20045",
+    "name": "Rúa De Xestoso, 4",
+    "lat": 42.200532989,
+    "lon": -8.674075447,
+    "lines": []
+  },
+  {
+    "id": "20046",
+    "name": "Rúa De Xestoso, 12",
+    "lat": 42.201968444,
+    "lon": -8.67477879,
+    "lines": []
+  },
+  {
+    "id": "20047",
+    "name": "Rúa Do Xestoso, 72",
+    "lat": 42.204330306,
+    "lon": -8.674670483,
+    "lines": []
+  },
+  {
+    "id": "20071",
+    "name": "Rúa De Xestoso (fronte 105)",
+    "lat": 42.205511653,
+    "lon": -8.672824803,
+    "lines": []
+  },
+  {
+    "id": "14421",
+    "name": "Estrada Das Prantas (fronte Campo De Béisbol)",
+    "lat": 42.186683264,
+    "lon": -8.669320703,
+    "lines": []
+  },
+  {
+    "id": "4540",
+    "name": "Estrada Das Plantas (fronte Viveiros)",
+    "lat": 42.181370416,
+    "lon": -8.667861084,
+    "lines": []
+  },
+  {
+    "id": "14364",
+    "name": "Estrada Das Plantas (fronte Cidade Deportiva)",
+    "lat": 42.175757186,
+    "lon": -8.671074371,
+    "lines": []
+  },
+  {
+    "id": "4520",
+    "name": "Estrada Das Plantas (cidade Deportiva)",
+    "lat": 42.175884385,
+    "lon": -8.670789023,
+    "lines": []
+  },
+  {
+    "id": "14365",
+    "name": "Estrada Das Plantas (viveiros)",
+    "lat": 42.181650197,
+    "lon": -8.667515723,
+    "lines": []
+  },
+  {
+    "id": "14422",
+    "name": "Estrada Das Plantas (campo De Béisbol)",
+    "lat": 42.18695315,
+    "lon": -8.669514066,
+    "lines": []
+  },
+  {
+    "id": "4530",
+    "name": "Estrada Das Plantas (fronte Cruce Camiño Do Pouso)",
+    "lat": 42.199681015,
+    "lon": -8.668860289,
+    "lines": []
+  },
+  {
+    "id": "14410",
+    "name": "Estrada Das Plantas (cruce Avda.. Do Rebullón)",
+    "lat": 42.204639457,
+    "lon": -8.670329545,
+    "lines": []
+  },
+  {
+    "id": "5260",
+    "name": "Rúa Das Figueiras, 22",
+    "lat": 42.222838218,
+    "lon": -8.667795118,
+    "lines": []
+  },
+  {
+    "id": "5180",
+    "name": "Rúa Das Figueiras, 96",
+    "lat": 42.224562288,
+    "lon": -8.66579419,
+    "lines": []
+  },
+  {
+    "id": "5190",
+    "name": "Rúa Das Figueiras, 124",
+    "lat": 42.226051942,
+    "lon": -8.663629647,
+    "lines": []
+  },
+  {
+    "id": "5200",
+    "name": "Rúa Das Figueiras, 138",
+    "lat": 42.227533616,
+    "lon": -8.661561664,
+    "lines": []
+  },
+  {
+    "id": "5220",
+    "name": "Rúa Das Figueiras, 190",
+    "lat": 42.228984217,
+    "lon": -8.658438326,
+    "lines": []
+  },
+  {
+    "id": "20191",
+    "name": "Rúa Das Figueiras, 200",
+    "lat": 42.229676205,
+    "lon": -8.657383392,
+    "lines": []
+  },
+  {
+    "id": "5230",
+    "name": "Rúa Das Figueiras, 254",
+    "lat": 42.230261894,
+    "lon": -8.653683012,
+    "lines": []
+  },
+  {
+    "id": "20089",
+    "name": "Porriño - Padre Seixas ©",
+    "lat": 42.213044566,
+    "lon": -8.751396835,
+    "lines": []
+  },
+  {
+    "id": "14175",
+    "name": "Rúa Do Padre Seixas, 32",
+    "lat": 42.211792864,
+    "lon": -8.749617832,
+    "lines": []
+  },
+  {
+    "id": "6370",
+    "name": "Rúa De Pablo Iglesias (río)",
+    "lat": 42.210130966,
+    "lon": -8.744872428,
+    "lines": []
+  },
+  {
+    "id": "6360",
+    "name": "Rúa De Pablo Iglesias (colexio)",
+    "lat": 42.211426266,
+    "lon": -8.743166543,
+    "lines": []
+  },
+  {
+    "id": "5060",
+    "name": "Estadio De Balaídos (avda. Do Fragoso)",
+    "lat": 42.212676247,
+    "lon": -8.739585545,
+    "lines": []
+  },
+  {
+    "id": "20010",
+    "name": "Avda.. De Balaídos, 69",
+    "lat": 42.212824845,
+    "lon": -8.737161077,
+    "lines": []
+  },
+  {
+    "id": "20011",
+    "name": "Avda.. De Balaídos, 11",
+    "lat": 42.213089061,
+    "lon": -8.733392573,
+    "lines": []
+  },
+  {
+    "id": "14256",
+    "name": "Rúa De Zamora, 89",
+    "lat": 42.222198901,
+    "lon": -8.728317834,
+    "lines": []
+  },
+  {
+    "id": "14257",
+    "name": "Rúa De Zamora, 71",
+    "lat": 42.223448271,
+    "lon": -8.725547112,
+    "lines": []
+  },
+  {
+    "id": "14258",
+    "name": "Rúa De Zamora, 51",
+    "lat": 42.224870416,
+    "lon": -8.723632015,
+    "lines": []
+  },
+  {
+    "id": "14259",
+    "name": "Rúa De Zamora, 31",
+    "lat": 42.227088982,
+    "lon": -8.721545256,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14261",
+    "name": "Rúa De Zamora, 1",
+    "lat": 42.228644118,
+    "lon": -8.720692314,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "20022",
+    "name": "Rúa Da Vía Norte (hospital)",
+    "lat": 42.234622237,
+    "lon": -8.707758443,
+    "lines": []
+  },
+  {
+    "id": "20023",
+    "name": "Rúa Da Vía Norte - Est. Intermodal - C.c.",
+    "lat": 42.234062973,
+    "lon": -8.712195759,
+    "lines": []
+  },
+  {
+    "id": "14142",
+    "name": "Avda.. Da Hispanidade, 22",
+    "lat": 42.231463434,
+    "lon": -8.728844425,
+    "lines": []
+  },
+  {
+    "id": "14143",
+    "name": "Avda.. Da Hispanidade, 38",
+    "lat": 42.229753483,
+    "lon": -8.729002675,
+    "lines": []
+  },
+  {
+    "id": "14144",
+    "name": "Avda.. Da Hispanidade, 82",
+    "lat": 42.226760436,
+    "lon": -8.727385303,
+    "lines": []
+  },
+  {
+    "id": "14255",
+    "name": "Rúa Do Pintor Colmeiro (parque Do Pintor Colmeiro)",
+    "lat": 42.225111918,
+    "lon": -8.726733526,
+    "lines": []
+  },
+  {
+    "id": "14307",
+    "name": "Rúa Do Pintor Colmeiro, 11",
+    "lat": 42.224464416,
+    "lon": -8.727967343,
+    "lines": []
+  },
+  {
+    "id": "7030",
+    "name": "Rúa De Manuel Castro, 23",
+    "lat": 42.212808952,
+    "lon": -8.740022994,
+    "lines": []
+  },
+  {
+    "id": "6380",
+    "name": "Rúa De Pablo Iglesias, 2",
+    "lat": 42.211811672,
+    "lon": -8.742420889,
+    "lines": []
+  },
+  {
+    "id": "6390",
+    "name": "Rúa De Pablo Iglesias, 20",
+    "lat": 42.210204472,
+    "lon": -8.74559126,
+    "lines": []
+  },
+  {
+    "id": "6260",
+    "name": "Estrada Da Balsa, 3",
+    "lat": 42.199568643,
+    "lon": -8.741030554,
+    "lines": []
+  },
+  {
+    "id": "2960",
+    "name": "Rúa Dos Canteiros, 101",
+    "lat": 42.20073699,
+    "lon": -8.738895516,
+    "lines": []
+  },
+  {
+    "id": "3010",
+    "name": "Rúa Dos Canteiros, 73",
+    "lat": 42.20121252,
+    "lon": -8.735711467,
+    "lines": []
+  },
+  {
+    "id": "3000",
+    "name": "Rúa Dos Canteiros, 49",
+    "lat": 42.201188677,
+    "lon": -8.733208966,
+    "lines": []
+  },
+  {
+    "id": "2990",
+    "name": "Rúa Dos Canteiros, 9",
+    "lat": 42.203792573,
+    "lon": -8.729630723,
+    "lines": []
+  },
+  {
+    "id": "5000",
+    "name": "Rúa Do Doutor Corbal, 6",
+    "lat": 42.250121395,
+    "lon": -8.696122376,
+    "lines": []
+  },
+  {
+    "id": "14404",
+    "name": "Rúa Do Doutor Corbal, 58",
+    "lat": 42.251785642,
+    "lon": -8.696871994,
+    "lines": []
+  },
+  {
+    "id": "5020",
+    "name": "Rúa Do Doutor Corbal, 94",
+    "lat": 42.254104511,
+    "lon": -8.697655199,
+    "lines": []
+  },
+  {
+    "id": "4970",
+    "name": "Rúa Do Doutor Corbal, 126",
+    "lat": 42.255883312,
+    "lon": -8.696812986,
+    "lines": []
+  },
+  {
+    "id": "4980",
+    "name": "Rúa Do Doutor Corbal, 149",
+    "lat": 42.257539061,
+    "lon": -8.697019814,
+    "lines": []
+  },
+  {
+    "id": "4960",
+    "name": "Rúa Do Doutor Corbal, 135",
+    "lat": 42.256210875,
+    "lon": -8.696882723,
+    "lines": []
+  },
+  {
+    "id": "5010",
+    "name": "Rúa Do Doutor Corbal, 95",
+    "lat": 42.254169539,
+    "lon": -8.697752273,
+    "lines": []
+  },
+  {
+    "id": "14403",
+    "name": "Rúa De Pedro Alvarado (cruce Camiño Das Maceiras)",
+    "lat": 42.25049654,
+    "lon": -8.698390035,
+    "lines": []
+  },
+  {
+    "id": "14408",
+    "name": "Rúa De Pedro Alvarado, 5",
+    "lat": 42.248885006,
+    "lon": -8.698128758,
+    "lines": []
+  },
+  {
+    "id": "14406",
+    "name": "Rúa De Enrique Lorenzo, 32",
+    "lat": 42.249462772,
+    "lon": -8.699772952,
+    "lines": []
+  },
+  {
+    "id": "14287",
+    "name": "Rúa Santa Tegra, 67",
+    "lat": 42.25020334,
+    "lon": -8.701924083,
+    "lines": []
+  },
+  {
+    "id": "14288",
+    "name": "Avda.. De Guixar (fronte 28)",
+    "lat": 42.249218849,
+    "lon": -8.704807605,
+    "lines": []
+  },
+  {
+    "id": "14289",
+    "name": "Rúa De Xulián Estévez (fronte 58)",
+    "lat": 42.246484972,
+    "lon": -8.705864005,
+    "lines": []
+  },
+  {
+    "id": "14290",
+    "name": "Rúa De Xulián Estévez (fronte 18)",
+    "lat": 42.244107542,
+    "lon": -8.706343638,
+    "lines": []
+  },
+  {
+    "id": "2950",
+    "name": "Rúa Dos Canteiros, 4",
+    "lat": 42.204307169,
+    "lon": -8.729719236,
+    "lines": []
+  },
+  {
+    "id": "3020",
+    "name": "Rúa Dos Canteiros, 76",
+    "lat": 42.201218481,
+    "lon": -8.733509374,
+    "lines": []
+  },
+  {
+    "id": "2970",
+    "name": "Rúa Dos Canteiros, 116",
+    "lat": 42.201317829,
+    "lon": -8.735636365,
+    "lines": []
+  },
+  {
+    "id": "2980",
+    "name": "Rúa Dos Canteiros, 164",
+    "lat": 42.200758846,
+    "lon": -8.739043037,
+    "lines": []
+  },
+  {
+    "id": "6050",
+    "name": "Rúa De Manuel Cominges, 22",
+    "lat": 42.19890849,
+    "lon": -8.73623433,
+    "lines": []
+  },
+  {
+    "id": "6080",
+    "name": "Rúa De Manuel Cominges, 64",
+    "lat": 42.197736144,
+    "lon": -8.732267294,
+    "lines": []
+  },
+  {
+    "id": "6100",
+    "name": "Rúa De Manuel Cominges, 80",
+    "lat": 42.197066521,
+    "lon": -8.730468609,
+    "lines": []
+  },
+  {
+    "id": "14381",
+    "name": "Rúa Do Abade Juan De Bastos, 6",
+    "lat": 42.195647685,
+    "lon": -8.728974153,
+    "lines": []
+  },
+  {
+    "id": "50",
+    "name": "Rúa Do Abade Juan De Bastos, 24",
+    "lat": 42.19287042,
+    "lon": -8.727513924,
+    "lines": []
+  },
+  {
+    "id": "40",
+    "name": "Rúa Do Abade Juan De Bastos (cruce Baixada Da Moo)",
+    "lat": 42.192126677,
+    "lon": -8.72901589,
+    "lines": []
+  },
+  {
+    "id": "20",
+    "name": "Rúa Do Abade Juan De Bastos (fronte Asociación Veciños)",
+    "lat": 42.187593499,
+    "lon": -8.741246641,
+    "lines": []
+  },
+  {
+    "id": "10061",
+    "name": "Estrada De San Xoán, 193",
+    "lat": 42.185277472,
+    "lon": -8.741558953,
+    "lines": []
+  },
+  {
+    "id": "4440",
+    "name": "Estrada De San Xoán, 169",
+    "lat": 42.183275038,
+    "lon": -8.742437444,
+    "lines": []
+  },
+  {
+    "id": "4460",
+    "name": "Estrada De San Xoán, 141",
+    "lat": 42.18366712,
+    "lon": -8.744402777,
+    "lines": []
+  },
+  {
+    "id": "4450",
+    "name": "Estrada De San Xoán, 61",
+    "lat": 42.185081179,
+    "lon": -8.748029634,
+    "lines": []
+  },
+  {
+    "id": "5480",
+    "name": "Estrada De San Xoán, 25",
+    "lat": 42.186179757,
+    "lon": -8.748888329,
+    "lines": []
+  },
+  {
+    "id": "14271",
+    "name": "Estrada Da Balsa, 103",
+    "lat": 42.196050474,
+    "lon": -8.745105715,
+    "lines": []
+  },
+  {
+    "id": "14270",
+    "name": "Estrada Da Balsa, 67",
+    "lat": 42.196619218,
+    "lon": -8.743240048,
+    "lines": []
+  },
+  {
+    "id": "14277",
+    "name": "Avda.. Da Mariña Española, 8",
+    "lat": 42.251776399,
+    "lon": -8.69414009,
+    "lines": []
+  },
+  {
+    "id": "14278",
+    "name": "Avda.. Da Mariña Española, 44",
+    "lat": 42.25430173,
+    "lon": -8.692915616,
+    "lines": []
+  },
+  {
+    "id": "14279",
+    "name": "Riós (rotonda)",
+    "lat": 42.257069093,
+    "lon": -8.690786611,
+    "lines": []
+  },
+  {
+    "id": "14280",
+    "name": "Avda.. Da Mariña Española (etea)",
+    "lat": 42.254604716,
+    "lon": -8.692539681,
+    "lines": []
+  },
+  {
+    "id": "14281",
+    "name": "Avda.. Da Mariña Española (praia De Ríos)",
+    "lat": 42.251596707,
+    "lon": -8.69420171,
+    "lines": []
+  },
+  {
+    "id": "2610",
+    "name": "Rúa Da Cabalaría, 14",
+    "lat": 42.233426101,
+    "lon": -8.693298639,
+    "lines": []
+  },
+  {
+    "id": "2590",
+    "name": "Rúa Da Cabalaría, 94",
+    "lat": 42.232442621,
+    "lon": -8.689558541,
+    "lines": []
+  },
+  {
+    "id": "20042",
+    "name": "Rúa Da Cabalaría, 148",
+    "lat": 42.233723398,
+    "lon": -8.689094231,
+    "lines": []
+  },
+  {
+    "id": "2620",
+    "name": "Rúa Da Cabalaría, 186",
+    "lat": 42.235420737,
+    "lon": -8.68894034,
+    "lines": []
+  },
+  {
+    "id": "20043",
+    "name": "Rúa Do Areiro, 20",
+    "lat": 42.236036786,
+    "lon": -8.686656768,
+    "lines": []
+  },
+  {
+    "id": "14346",
+    "name": "Rúa Do Areiro, 52",
+    "lat": 42.237287688,
+    "lon": -8.685019992,
+    "lines": []
+  },
+  {
+    "id": "14348",
+    "name": "Rúa Do Areiro, 76",
+    "lat": 42.238950988,
+    "lon": -8.683793467,
+    "lines": []
+  },
+  {
+    "id": "14895",
+    "name": "Rúa Do Areiro (cruce Camiño Das Laxes)",
+    "lat": 42.241392275,
+    "lon": -8.681203235,
+    "lines": []
+  },
+  {
+    "id": "14350",
+    "name": "Rúa Do Areiro (fronte Campo De Fútbol)",
+    "lat": 42.244849353,
+    "lon": -8.678366319,
+    "lines": []
+  },
+  {
+    "id": "14353",
+    "name": "Praza Dos Leóns (fronte Vigozoo)",
+    "lat": 42.248151648,
+    "lon": -8.675976097,
+    "lines": []
+  },
+  {
+    "id": "14296",
+    "name": "Praza Dos Leóns (vigozoo)",
+    "lat": 42.248375604,
+    "lon": -8.675578666,
+    "lines": []
+  },
+  {
+    "id": "14349",
+    "name": "Rúa Do Areiro (campo De Fútbol)",
+    "lat": 42.244717312,
+    "lon": -8.678473607,
+    "lines": []
+  },
+  {
+    "id": "14896",
+    "name": "Rúa Do Areiro, 93",
+    "lat": 42.241385532,
+    "lon": -8.681400937,
+    "lines": []
+  },
+  {
+    "id": "14347",
+    "name": "Rúa Do Areiro (cruce Salcides)",
+    "lat": 42.23913765,
+    "lon": -8.683873934,
+    "lines": []
+  },
+  {
+    "id": "14345",
+    "name": "Rúa Do Areiro, 49",
+    "lat": 42.237269816,
+    "lon": -8.685138009,
+    "lines": []
+  },
+  {
+    "id": "8290",
+    "name": "Subida Das Ánimas, 31",
+    "lat": 42.235646525,
+    "lon": -8.685908988,
+    "lines": []
+  },
+  {
+    "id": "2600",
+    "name": "Rúa Da Cabalaría, 153",
+    "lat": 42.235437997,
+    "lon": -8.689019794,
+    "lines": []
+  },
+  {
+    "id": "20041",
+    "name": "Rúa Da Cabalaría, 91",
+    "lat": 42.233622103,
+    "lon": -8.689209566,
+    "lines": []
+  },
+  {
+    "id": "2640",
+    "name": "Rúa Da Cabalaría, 67",
+    "lat": 42.232559793,
+    "lon": -8.689848219,
+    "lines": []
+  },
+  {
+    "id": "2630",
+    "name": "Rúa Da Cabalaría (cruce Subida Ao Rosal Florido)",
+    "lat": 42.233483693,
+    "lon": -8.693266452,
+    "lines": []
+  },
+  {
+    "id": "5860",
+    "name": "Baixada Á Laxe (centro Saúde)",
+    "lat": 42.21669522,
+    "lon": -8.715884298,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "2280",
+    "name": "Baixada Á Laxe, 31",
+    "lat": 42.21650849,
+    "lon": -8.719175368,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14324",
+    "name": "Rúa Finca Dos Aires (urbanización)",
+    "lat": 42.217256401,
+    "lon": -8.720101519,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14325",
+    "name": "Rúa Da Fonte Santa (fronte 4)",
+    "lat": 42.217848286,
+    "lon": -8.7214811,
+    "lines": []
+  },
+  {
+    "id": "14326",
+    "name": "Baixada Á Ponte Nova, 61",
+    "lat": 42.218038279,
+    "lon": -8.722489738,
+    "lines": []
+  },
+  {
+    "id": "2300",
+    "name": "Baixada Á Ponte Nova, 13",
+    "lat": 42.22078735,
+    "lon": -8.722722261,
+    "lines": []
+  },
+  {
+    "id": "3170",
+    "name": "Rúa Das Coutadas, 76",
+    "lat": 42.220968446,
+    "lon": -8.720400826,
+    "lines": []
+  },
+  {
+    "id": "7880",
+    "name": "Barrio Da Salgueira, 106",
+    "lat": 42.222364236,
+    "lon": -8.718898254,
+    "lines": []
+  },
+  {
+    "id": "5040",
+    "name": "Rúa Da Salgueira Entrada, 5",
+    "lat": 42.222543586,
+    "lon": -8.717809812,
+    "lines": []
+  },
+  {
+    "id": "2390",
+    "name": "Baixada Á Salgueira, 49",
+    "lat": 42.224020371,
+    "lon": -8.716787891,
+    "lines": []
+  },
+  {
+    "id": "14314",
+    "name": "Rúa Das Mantelas (cruce Avda.. Da Gran Vía)",
+    "lat": 42.227212568,
+    "lon": -8.720183032,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "20094",
+    "name": "Rúa Das Mantelas (fronte 63)",
+    "lat": 42.22518736,
+    "lon": -8.717399288,
+    "lines": []
+  },
+  {
+    "id": "14315",
+    "name": "Rúa Das Mantelas, 92",
+    "lat": 42.22393338,
+    "lon": -8.716924148,
+    "lines": []
+  },
+  {
+    "id": "14318",
+    "name": "Rúa Da Salguera Entrada (fronte 5)",
+    "lat": 42.222591256,
+    "lon": -8.717753486,
+    "lines": []
+  },
+  {
+    "id": "14317",
+    "name": "Rúa Da Salgueira Entrada (igrexa)",
+    "lat": 42.222723933,
+    "lon": -8.719150283,
+    "lines": []
+  },
+  {
+    "id": "14372",
+    "name": "Barrio Da Salgueira, 22",
+    "lat": 42.221887526,
+    "lon": -8.720011371,
+    "lines": []
+  },
+  {
+    "id": "14319",
+    "name": "Rúa Das Coutadas (fonte)",
+    "lat": 42.221002214,
+    "lon": -8.72027208,
+    "lines": []
+  },
+  {
+    "id": "14320",
+    "name": "Rúa Do Miradoiro (rotonda Centro Comercial)",
+    "lat": 42.220799025,
+    "lon": -8.723345356,
+    "lines": []
+  },
+  {
+    "id": "14321",
+    "name": "Camiño Do Freixeiro, 74",
+    "lat": 42.218131641,
+    "lon": -8.723120057,
+    "lines": []
+  },
+  {
+    "id": "14322",
+    "name": "Rúa Da Fonte Santa, 4",
+    "lat": 42.217813814,
+    "lon": -8.721352482,
+    "lines": []
+  },
+  {
+    "id": "14323",
+    "name": "Rúa Finca Dos Aires (cruce Rúa Da Fonte Santa)",
+    "lat": 42.217059742,
+    "lon": -8.720340235,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "4160",
+    "name": "Estrada De Miraflores, 36",
+    "lat": 42.217849364,
+    "lon": -8.710994711,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "4170",
+    "name": "Estrada De Miraflores, 64",
+    "lat": 42.217345186,
+    "lon": -8.713011334,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14910",
+    "name": "Estrada Do Marco, 4",
+    "lat": 42.21025095,
+    "lon": -8.704036986,
+    "lines": []
+  },
+  {
+    "id": "14911",
+    "name": "Estrada Do Marco, 16",
+    "lat": 42.208830737,
+    "lon": -8.706971174,
+    "lines": []
+  },
+  {
+    "id": "2580",
+    "name": "Camiño Da Brea, 69",
+    "lat": 42.207235488,
+    "lon": -8.704631381,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "2560",
+    "name": "Camiño Da Brea, 37",
+    "lat": 42.204297185,
+    "lon": -8.704942415,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "20167",
+    "name": "Camiño Da Brea, 3",
+    "lat": 42.202095058,
+    "lon": -8.705814233,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5850",
+    "name": "Rúa Da Lagoa (fronte 21)",
+    "lat": 42.201154253,
+    "lon": -8.702343635,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Rúa Da Lagoa, 46",
+    "lat": 42.200132216,
+    "lon": -8.700535777,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "2570",
+    "name": "Camiño Da Brea, 54",
+    "lat": 42.207146083,
+    "lon": -8.704526775,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "20061",
+    "name": "Rúa De Martín Echegaray (colexio)",
+    "lat": 42.217568173,
+    "lon": -8.744018511,
+    "lines": []
+  },
+  {
+    "id": "20044",
+    "name": "Rúa De Martín Echegaray, 7",
+    "lat": 42.215220874,
+    "lon": -8.742680967,
+    "lines": []
+  },
+  {
+    "id": "20110",
+    "name": "Rúa De Manuel Castro, 10",
+    "lat": 42.213797254,
+    "lon": -8.741472696,
+    "lines": []
+  },
+  {
+    "id": "6187",
+    "name": "Rúa De Martín Echegaray (parque)",
+    "lat": 42.215244712,
+    "lon": -8.74244225,
+    "lines": []
+  },
+  {
+    "id": "14900",
+    "name": "Rúa De Martín Echegaray, 24",
+    "lat": 42.217196117,
+    "lon": -8.743726669,
+    "lines": []
+  },
+  {
+    "id": "14906",
+    "name": "Rúa Da Rabadeira, 6",
+    "lat": 42.232479787,
+    "lon": -8.654890792,
+    "lines": []
+  },
+  {
+    "id": "14907",
+    "name": "Rúa Da Rabadeira, 24",
+    "lat": 42.233655479,
+    "lon": -8.653300242,
+    "lines": []
+  },
+  {
+    "id": "14232",
+    "name": "Rúa Da Rabadeira (fronte 33)",
+    "lat": 42.235317662,
+    "lon": -8.652094641,
+    "lines": []
+  },
+  {
+    "id": "20187",
+    "name": "Rúa Da Rabadeira, 46",
+    "lat": 42.237422128,
+    "lon": -8.65153195,
+    "lines": []
+  },
+  {
+    "id": "7650",
+    "name": "Rúa Da Rabadeira, 64",
+    "lat": 42.239043121,
+    "lon": -8.650247888,
+    "lines": []
+  },
+  {
+    "id": "7660",
+    "name": "Rúa Da Rabadeira, 104",
+    "lat": 42.241610852,
+    "lon": -8.651865944,
+    "lines": []
+  },
+  {
+    "id": "14391",
+    "name": "Rúa Do Salgueiro (fronte 38)",
+    "lat": 42.241652296,
+    "lon": -8.655302935,
+    "lines": []
+  },
+  {
+    "id": "7740",
+    "name": "Rúa De Salgueiro, 23",
+    "lat": 42.241658253,
+    "lon": -8.658202403,
+    "lines": []
+  },
+  {
+    "id": "7750",
+    "name": "Rúa Do Salgueiro, 1",
+    "lat": 42.243330503,
+    "lon": -8.661852545,
+    "lines": []
+  },
+  {
+    "id": "2840",
+    "name": "Rúa Da Goleta, 3",
+    "lat": 42.241698248,
+    "lon": -8.665209215,
+    "lines": []
+  },
+  {
+    "id": "14893",
+    "name": "Rúa De Manuel Costas Bastos, 26",
+    "lat": 42.243157956,
+    "lon": -8.666962176,
+    "lines": []
+  },
+  {
+    "id": "6110",
+    "name": "Camiño Da Devesa, 6",
+    "lat": 42.243941636,
+    "lon": -8.669169025,
+    "lines": []
+  },
+  {
+    "id": "4930",
+    "name": "Travesía Da Devesa (asociación Veciños)",
+    "lat": 42.246018558,
+    "lon": -8.669287042,
+    "lines": []
+  },
+  {
+    "id": "4940",
+    "name": "Camiño Da Devesa (fronte 55)",
+    "lat": 42.245450719,
+    "lon": -8.672406783,
+    "lines": []
+  },
+  {
+    "id": "8240",
+    "name": "Subida Á Madroa (urbanización)",
+    "lat": 42.243382567,
+    "lon": -8.674125307,
+    "lines": []
+  },
+  {
+    "id": "8250",
+    "name": "Subida Á Madroa, 15",
+    "lat": 42.242669731,
+    "lon": -8.670096629,
+    "lines": []
+  },
+  {
+    "id": "7680",
+    "name": "Rúa San Cristobo, 117",
+    "lat": 42.240866745,
+    "lon": -8.669273191,
+    "lines": []
+  },
+  {
+    "id": "7710",
+    "name": "Rúa San Cristobo, 41",
+    "lat": 42.236825775,
+    "lon": -8.669313413,
+    "lines": []
+  },
+  {
+    "id": "7690",
+    "name": "Rúa San Cristobo, 11",
+    "lat": 42.235468446,
+    "lon": -8.670649153,
+    "lines": []
+  },
+  {
+    "id": "7670",
+    "name": "Rúa San Cristobo, 6",
+    "lat": 42.235169136,
+    "lon": -8.671176685,
+    "lines": []
+  },
+  {
+    "id": "7700",
+    "name": "Rúa San Cristobo, 30",
+    "lat": 42.236478263,
+    "lon": -8.669194381,
+    "lines": []
+  },
+  {
+    "id": "7720",
+    "name": "Rúa San Cristobo, 80",
+    "lat": 42.24099726,
+    "lon": -8.669077286,
+    "lines": []
+  },
+  {
+    "id": "14233",
+    "name": "Rúa San Cristobo, 90",
+    "lat": 42.241037275,
+    "lon": -8.668947597,
+    "lines": []
+  },
+  {
+    "id": "2850",
+    "name": "Rúa Da Goleta, 2",
+    "lat": 42.241676405,
+    "lon": -8.665026825,
+    "lines": []
+  },
+  {
+    "id": "7630",
+    "name": "Rúa Do Salgueiro, 6",
+    "lat": 42.243135911,
+    "lon": -8.66173721,
+    "lines": []
+  },
+  {
+    "id": "7730",
+    "name": "Rúa Do Salgueiro, 24",
+    "lat": 42.241580812,
+    "lon": -8.658065611,
+    "lines": []
+  },
+  {
+    "id": "14390",
+    "name": "Rúa Do Salgueiro (cruce Camiño Sanatorio)",
+    "lat": 42.241570883,
+    "lon": -8.655380719,
+    "lines": []
+  },
+  {
+    "id": "7640",
+    "name": "Rúa Da Rabadeira, 135",
+    "lat": 42.241620781,
+    "lon": -8.652000054,
+    "lines": []
+  },
+  {
+    "id": "7080",
+    "name": "Rúa Da Rabadeira, 95",
+    "lat": 42.238797018,
+    "lon": -8.650399429,
+    "lines": []
+  },
+  {
+    "id": "20186",
+    "name": "Rúa Da Rabadeira, 71",
+    "lat": 42.23755404,
+    "lon": -8.651558138,
+    "lines": []
+  },
+  {
+    "id": "14231",
+    "name": "Rúa Da Rabadeira, 39",
+    "lat": 42.235542066,
+    "lon": -8.652196565,
+    "lines": []
+  },
+  {
+    "id": "14908",
+    "name": "Rúa Da Rabadeira, 17",
+    "lat": 42.233829075,
+    "lon": -8.653458259,
+    "lines": []
+  },
+  {
+    "id": "14909",
+    "name": "Rúa Da Rabadeira, 11",
+    "lat": 42.232663198,
+    "lon": -8.655097059,
+    "lines": []
+  },
+  {
+    "id": "20030",
+    "name": "Subida Á Madroa (campo Fútbol)",
+    "lat": 42.247859379,
+    "lon": -8.674363625,
+    "lines": []
+  },
+  {
+    "id": "20029",
+    "name": "Subida Á Madroa (fronte Campo Fútbol)",
+    "lat": 42.245921506,
+    "lon": -8.673014474,
+    "lines": []
+  },
+  {
+    "id": "14192",
+    "name": "Rúa Das Figueiras, 282",
+    "lat": 42.231625599,
+    "lon": -8.652046516,
+    "lines": []
+  },
+  {
+    "id": "14193",
+    "name": "Avda.. De Santa Mariña, 443",
+    "lat": 42.230916628,
+    "lon": -8.641628816,
+    "lines": []
+  },
+  {
+    "id": "14194",
+    "name": "Avda.. De Santa Mariña, 425",
+    "lat": 42.228639377,
+    "lon": -8.640978361,
+    "lines": []
+  },
+  {
+    "id": "14201",
+    "name": "Avda.. De Santa Mariña (cruce Avda.. Do Tranvía)",
+    "lat": 42.226291056,
+    "lon": -8.641647591,
+    "lines": []
+  },
+  {
+    "id": "14195",
+    "name": "Avda.. De Santa Mariña, 249",
+    "lat": 42.226263256,
+    "lon": -8.644091084,
+    "lines": []
+  },
+  {
+    "id": "14196",
+    "name": "Avda.. De Santa Mariña, 229",
+    "lat": 42.225296,
+    "lon": -8.649527921,
+    "lines": []
+  },
+  {
+    "id": "14378",
+    "name": "Rúa Molais, 83",
+    "lat": 42.22396201,
+    "lon": -8.653340726,
+    "lines": []
+  },
+  {
+    "id": "14197",
+    "name": "Rúa Molais (cruce Rúa Das Carballas)",
+    "lat": 42.225912491,
+    "lon": -8.653698801,
+    "lines": []
+  },
+  {
+    "id": "6040",
+    "name": "Rúa De Manuel Álvarez (fronte Cruce Camiño Sulevada)",
+    "lat": 42.22320325,
+    "lon": -8.675213007,
+    "lines": []
+  },
+  {
+    "id": "20060",
+    "name": "Rúa De Manuel Álvarez, 10",
+    "lat": 42.22282586,
+    "lon": -8.678077606,
+    "lines": []
+  },
+  {
+    "id": "6020",
+    "name": "Rúa De Manuel Álvarez, 58",
+    "lat": 42.223195307,
+    "lon": -8.681872932,
+    "lines": []
+  },
+  {
+    "id": "14199",
+    "name": "Camiño Da Bouciña, 79",
+    "lat": 42.223755464,
+    "lon": -8.682041911,
+    "lines": []
+  },
+  {
+    "id": "14221",
+    "name": "Camiño Da Bouciña, 3",
+    "lat": 42.225809218,
+    "lon": -8.681652991,
+    "lines": []
+  },
+  {
+    "id": "14200",
+    "name": "Rúa De Severino Cobas, 119",
+    "lat": 42.225112655,
+    "lon": -8.683402684,
+    "lines": []
+  },
+  {
+    "id": "20051",
+    "name": "Rúa De Severino Cobas, 89",
+    "lat": 42.225652904,
+    "lon": -8.686624017,
+    "lines": []
+  },
+  {
+    "id": "7860",
+    "name": "Rúa De Severino Cobas, 73",
+    "lat": 42.225436283,
+    "lon": -8.68893946,
+    "lines": []
+  },
+  {
+    "id": "8130",
+    "name": "Rúa De Severino Cobas, 51",
+    "lat": 42.225485938,
+    "lon": -8.692235895,
+    "lines": []
+  },
+  {
+    "id": "8120",
+    "name": "Rúa De Severino Cobas (cruce Trav. De Santa Cristina)",
+    "lat": 42.22493632,
+    "lon": -8.694369092,
+    "lines": []
+  },
+  {
+    "id": "8150",
+    "name": "Rúa De Severino Cobas, 3",
+    "lat": 42.225076787,
+    "lon": -8.697168477,
+    "lines": []
+  },
+  {
+    "id": "14377",
+    "name": "Rúa Da Pateira, 5",
+    "lat": 42.226582661,
+    "lon": -8.700385762,
+    "lines": []
+  },
+  {
+    "id": "14376",
+    "name": "Rúa Da Pateira, 20",
+    "lat": 42.226612651,
+    "lon": -8.699658408,
+    "lines": []
+  },
+  {
+    "id": "8140",
+    "name": "Rúa De Severino Cobas, 14",
+    "lat": 42.224657696,
+    "lon": -8.696532794,
+    "lines": []
+  },
+  {
+    "id": "8160",
+    "name": "Rúa De Severino Cobas, 88",
+    "lat": 42.224884679,
+    "lon": -8.694275214,
+    "lines": []
+  },
+  {
+    "id": "14416",
+    "name": "Rúa De Severino Cobas, 118",
+    "lat": 42.225468623,
+    "lon": -8.691491081,
+    "lines": []
+  },
+  {
+    "id": "8170",
+    "name": "Rúa De Severino Cobas, 140",
+    "lat": 42.225428901,
+    "lon": -8.688744499,
+    "lines": []
+  },
+  {
+    "id": "20050",
+    "name": "Rúa De Severino Cobas, 186",
+    "lat": 42.225550059,
+    "lon": -8.686684563,
+    "lines": []
+  },
+  {
+    "id": "14190",
+    "name": "Rúa De Severino Cobas, 196",
+    "lat": 42.225080876,
+    "lon": -8.683314171,
+    "lines": []
+  },
+  {
+    "id": "14220",
+    "name": "Camiño Da Bouciña, 14",
+    "lat": 42.225657321,
+    "lon": -8.681467666,
+    "lines": []
+  },
+  {
+    "id": "14191",
+    "name": "Camiño Da Bouciña, 76",
+    "lat": 42.223737557,
+    "lon": -8.682141153,
+    "lines": []
+  },
+  {
+    "id": "14204",
+    "name": "Rúa De Manuel Álvarez, 151",
+    "lat": 42.22312688,
+    "lon": -8.681864633,
+    "lines": []
+  },
+  {
+    "id": "20059",
+    "name": "Rúa De Manuel Álvarez (fronte 10)",
+    "lat": 42.222745522,
+    "lon": -8.677932515,
+    "lines": []
+  },
+  {
+    "id": "6010",
+    "name": "Rúa De Manuel Álvarez (cruce Camiño Sulevada)",
+    "lat": 42.223077231,
+    "lon": -8.675499751,
+    "lines": []
+  },
+  {
+    "id": "20139",
+    "name": "Estrada Matamá Pazo (fronte 162)",
+    "lat": 42.199144892,
+    "lon": -8.758506717,
+    "lines": []
+  },
+  {
+    "id": "14137",
+    "name": "Estrada Matamá Pazo (igrexa)",
+    "lat": 42.200003406,
+    "lon": -8.753169,
+    "lines": []
+  },
+  {
+    "id": "3950",
+    "name": "Estrada De Casás (cruce Camiño Do Rial)",
+    "lat": 42.196014193,
+    "lon": -8.759919516,
+    "lines": []
+  },
+  {
+    "id": "3050",
+    "name": "Estrada De Casás (cruce Camiño Da Pedra Branca)",
+    "lat": 42.192360267,
+    "lon": -8.756680959,
+    "lines": []
+  },
+  {
+    "id": "3940",
+    "name": "Estrada De Casás, 83",
+    "lat": 42.196165214,
+    "lon": -8.759890011,
+    "lines": []
+  },
+  {
+    "id": "14177",
+    "name": "Rúa De Fernando Conde (cruce Avda.. Da Gran Vía)",
+    "lat": 42.22985125,
+    "lon": -8.71972059,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5960",
+    "name": "Rúa Dos Mestres Goldar, 77",
+    "lat": 42.206757786,
+    "lon": -8.730056705,
+    "lines": []
+  },
+  {
+    "id": "5980",
+    "name": "Rúa Dos Mestres Goldar, 37",
+    "lat": 42.207198849,
+    "lon": -8.726658346,
+    "lines": []
+  },
+  {
+    "id": "5160",
+    "name": "Camiño Da Falcoa, 26",
+    "lat": 42.204783634,
+    "lon": -8.722664062,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5900",
+    "name": "Rúa De Macal, 8",
+    "lat": 42.202071034,
+    "lon": -8.723541884,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14244",
+    "name": "Rúa De Macal, 60",
+    "lat": 42.198216234,
+    "lon": -8.721498041,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5910",
+    "name": "Rúa De Macal, 90",
+    "lat": 42.196213336,
+    "lon": -8.721136467,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "7100",
+    "name": "Rúa De Ramiro Pascual, 16",
+    "lat": 42.1952442,
+    "lon": -8.71956212,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "7110",
+    "name": "Rúa De Ramiro Pascual, 30",
+    "lat": 42.195709195,
+    "lon": -8.716896004,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "7130",
+    "name": "Rúa De Ramiro Pascual, 46",
+    "lat": 42.19350247,
+    "lon": -8.715219623,
+    "lines": []
+  },
+  {
+    "id": "7150",
+    "name": "Rúa De Ramiro Pascual, 74",
+    "lat": 42.192415468,
+    "lon": -8.71184004,
+    "lines": []
+  },
+  {
+    "id": "20154",
+    "name": "Rúa De Ramiro Pascual (fronte 127)",
+    "lat": 42.192089689,
+    "lon": -8.709245389,
+    "lines": []
+  },
+  {
+    "id": "7090",
+    "name": "Rúa De Ramiro Pascual, 108",
+    "lat": 42.191918475,
+    "lon": -8.706869692,
+    "lines": []
+  },
+  {
+    "id": "2490",
+    "name": "Rúa Das Coutadas, 57",
+    "lat": 42.194635725,
+    "lon": -8.699504032,
+    "lines": []
+  },
+  {
+    "id": "4500",
+    "name": "Rúa De Manuel Lago Lago, 20",
+    "lat": 42.188761213,
+    "lon": -8.775973652,
+    "lines": []
+  },
+  {
+    "id": "4490",
+    "name": "Rúa De Manuel Lago Lago (fronte Colexio)",
+    "lat": 42.187522648,
+    "lon": -8.772977937,
+    "lines": []
+  },
+  {
+    "id": "4040",
+    "name": "Estrada De Fragoselo, 108",
+    "lat": 42.18661248,
+    "lon": -8.769574881,
+    "lines": []
+  },
+  {
+    "id": "4010",
+    "name": "Estrada De Fragoselo, 170",
+    "lat": 42.184148566,
+    "lon": -8.767237312,
+    "lines": []
+  },
+  {
+    "id": "4050",
+    "name": "Estrada De Fragoselo, 196",
+    "lat": 42.182111026,
+    "lon": -8.76479691,
+    "lines": []
+  },
+  {
+    "id": "5390",
+    "name": "Estrada De Fragoselo (cruce Camiño Río Da Barxa)",
+    "lat": 42.179556959,
+    "lon": -8.761854527,
+    "lines": []
+  },
+  {
+    "id": "4000",
+    "name": "Estrada De Fragoselo, 143",
+    "lat": 42.182434997,
+    "lon": -8.764713761,
+    "lines": []
+  },
+  {
+    "id": "4030",
+    "name": "Estrada De Fragoselo, 111",
+    "lat": 42.184118753,
+    "lon": -8.767049558,
+    "lines": []
+  },
+  {
+    "id": "4020",
+    "name": "Estrada De Fragoselo, 79",
+    "lat": 42.187056187,
+    "lon": -8.769605703,
+    "lines": []
+  },
+  {
+    "id": "4510",
+    "name": "Rúa De Manuel Lago Lago (colexio)",
+    "lat": 42.187542924,
+    "lon": -8.772887753,
+    "lines": []
+  },
+  {
+    "id": "3280",
+    "name": "Rúa De Manuel Lago Lago, 1",
+    "lat": 42.188898503,
+    "lon": -8.776299224,
+    "lines": []
+  },
+  {
+    "id": "3890",
+    "name": "Estrada Da Coutada, 39",
+    "lat": 42.193625246,
+    "lon": -8.7014263,
+    "lines": []
+  },
+  {
+    "id": "3900",
+    "name": "Estrada Da Coutada, 19",
+    "lat": 42.19232927,
+    "lon": -8.704749414,
+    "lines": []
+  },
+  {
+    "id": "2500",
+    "name": "Rúa De Ramiro Pascual (igrexa)",
+    "lat": 42.191950062,
+    "lon": -8.707193511,
+    "lines": []
+  },
+  {
+    "id": "20155",
+    "name": "Rúa De Ramiro Pascual, 131",
+    "lat": 42.19217626,
+    "lon": -8.708899009,
+    "lines": []
+  },
+  {
+    "id": "7160",
+    "name": "Rúa De Ramiro Pascual, 97",
+    "lat": 42.192526527,
+    "lon": -8.712588696,
+    "lines": []
+  },
+  {
+    "id": "7140",
+    "name": "Rúa De Ramiro Pascual, 71",
+    "lat": 42.193601829,
+    "lon": -8.715157933,
+    "lines": []
+  },
+  {
+    "id": "7120",
+    "name": "Rúa De Ramiro Pascual, 33",
+    "lat": 42.195795442,
+    "lon": -8.716893641,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "5950",
+    "name": "Rúa Dos Mestres Goldar, 62",
+    "lat": 42.207127325,
+    "lon": -8.726636888,
+    "lines": []
+  },
+  {
+    "id": "5970",
+    "name": "Rúa Dos Mestres Goldar, 96",
+    "lat": 42.206880283,
+    "lon": -8.729978952,
+    "lines": []
+  },
+  {
+    "id": "1340",
+    "name": "Avda.. De Castrelos (parque)",
+    "lat": 42.212870645,
+    "lon": -8.732131792,
+    "lines": []
+  },
+  {
+    "id": "8916",
+    "name": "Rúa De Venezuela, 60",
+    "lat": 42.231593651,
+    "lon": -8.71714227,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "8300",
+    "name": "Subida Das Ánimas, 32",
+    "lat": 42.23556225,
+    "lon": -8.686044366,
+    "lines": []
+  },
+  {
+    "id": "20117",
+    "name": "Estrada Do Porto (cruce Camiño Do Frascuelo)",
+    "lat": 42.191616209,
+    "lon": -8.706277831,
+    "lines": []
+  },
+  {
+    "id": "20107",
+    "name": "Estrada Do Porto (lavadero)",
+    "lat": 42.188244696,
+    "lon": -8.703164368,
+    "lines": []
+  },
+  {
+    "id": "20083",
+    "name": "Rúa Castañal, 6",
+    "lat": 42.188074669,
+    "lon": -8.701928367,
+    "lines": []
+  },
+  {
+    "id": "20084",
+    "name": "Rúa Castañal, 26",
+    "lat": 42.18711079,
+    "lon": -8.699519743,
+    "lines": []
+  },
+  {
+    "id": "20085",
+    "name": "Rúa Castañal (cruce Camiño Das Presas)",
+    "lat": 42.185852445,
+    "lon": -8.696410892,
+    "lines": []
+  },
+  {
+    "id": "20086",
+    "name": "Estrada Dos Seixiños, 67",
+    "lat": 42.190645281,
+    "lon": -8.696150583,
+    "lines": []
+  },
+  {
+    "id": "20087",
+    "name": "Estrada Dos Seixiños, 23",
+    "lat": 42.194639373,
+    "lon": -8.696795357,
+    "lines": []
+  },
+  {
+    "id": "3920",
+    "name": "Estrada Da Coutada, 65",
+    "lat": 42.195725689,
+    "lon": -8.697154293,
+    "lines": []
+  },
+  {
+    "id": "3060",
+    "name": "Rúa Da Ceboleira, 30",
+    "lat": 42.224698049,
+    "lon": -8.701749123,
+    "lines": []
+  },
+  {
+    "id": "120",
+    "name": "Avda.. Do Alcalde Lavadores, 8",
+    "lat": 42.223288295,
+    "lon": -8.700954873,
+    "lines": []
+  },
+  {
+    "id": "150",
+    "name": "Avda.. Do Alcalde Lavadores, 48",
+    "lat": 42.222636676,
+    "lon": -8.697201413,
+    "lines": []
+  },
+  {
+    "id": "130",
+    "name": "Avda.. Do Alcalde Lavadores, 102",
+    "lat": 42.219001694,
+    "lon": -8.696198267,
+    "lines": []
+  },
+  {
+    "id": "170",
+    "name": "Avda.. Do Alcalde Lavadores, 152",
+    "lat": 42.215084316,
+    "lon": -8.696854931,
+    "lines": []
+  },
+  {
+    "id": "3600",
+    "name": "Estrada De Bembrive, 22",
+    "lat": 42.21246424,
+    "lon": -8.697218847,
+    "lines": []
+  },
+  {
+    "id": "3680",
+    "name": "Estrada De Bembrive, 64",
+    "lat": 42.211144971,
+    "lon": -8.69652789,
+    "lines": []
+  },
+  {
+    "id": "3560",
+    "name": "Estrada De Bembrive, 104",
+    "lat": 42.209126518,
+    "lon": -8.695599845,
+    "lines": []
+  },
+  {
+    "id": "3620",
+    "name": "Estrada De Bembrive, 278",
+    "lat": 42.202562995,
+    "lon": -8.685437577,
+    "lines": []
+  },
+  {
+    "id": "14420",
+    "name": "Estrada De Bembrive, 318",
+    "lat": 42.201419233,
+    "lon": -8.688526069,
+    "lines": []
+  },
+  {
+    "id": "3650",
+    "name": "Estrada De Bembrive, 346",
+    "lat": 42.199275919,
+    "lon": -8.689032944,
+    "lines": []
+  },
+  {
+    "id": "3550",
+    "name": "Estrada De Bembrive (cruce Camiño Cova)",
+    "lat": 42.19747765,
+    "lon": -8.688158543,
+    "lines": []
+  },
+  {
+    "id": "3670",
+    "name": "Estrada De Bembrive, 398",
+    "lat": 42.194968863,
+    "lon": -8.689201981,
+    "lines": []
+  },
+  {
+    "id": "3700",
+    "name": "Estrada De Bembrive (cruce Camiño Riomao)",
+    "lat": 42.194055385,
+    "lon": -8.692079677,
+    "lines": []
+  },
+  {
+    "id": "14383",
+    "name": "Estrada Clara Campoamor (cruce Estrada Do Portal)",
+    "lat": 42.174718265,
+    "lon": -8.713684656,
+    "lines": []
+  },
+  {
+    "id": "14252",
+    "name": "Estrada Clara Campoamor (instituto)",
+    "lat": 42.165934208,
+    "lon": -8.707243001,
+    "lines": []
+  },
+  {
+    "id": "14384",
+    "name": "Estrada Clara Campoamor (parque Tecnolóxico)",
+    "lat": 42.175073486,
+    "lon": -8.713494654,
+    "lines": []
+  },
+  {
+    "id": "20223",
+    "name": "Avda.. De Castrelos (pavillón)",
+    "lat": 42.219691433,
+    "lon": -8.732510039,
+    "lines": []
+  },
+  {
+    "id": "3360",
+    "name": "Rúa Do Doutor Canoa, 8",
+    "lat": 42.237803518,
+    "lon": -8.704409031,
+    "lines": []
+  },
+  {
+    "id": "14425",
+    "name": "Avda.. Do Alcalde Gregorio Espino, 2",
+    "lat": 42.232253792,
+    "lon": -8.707208575,
+    "lines": []
+  },
+  {
+    "id": "5710",
+    "name": "Avda.. Do Alcalde Gregorio Espino, 22",
+    "lat": 42.230108908,
+    "lon": -8.707230032,
+    "lines": []
+  },
+  {
+    "id": "5730",
+    "name": "Avda.. Do Alcalde Gregorio Espino, 44",
+    "lat": 42.227970137,
+    "lon": -8.708024217,
+    "lines": []
+  },
+  {
+    "id": "6240",
+    "name": "Avda.. De E. Martínez Garrido, 77",
+    "lat": 42.224493844,
+    "lon": -8.707734948,
+    "lines": []
+  },
+  {
+    "id": "6230",
+    "name": "Avda.. De E. Martínez Garrido, 69",
+    "lat": 42.224839145,
+    "lon": -8.706082215,
+    "lines": []
+  },
+  {
+    "id": "6220",
+    "name": "Avda.. De E. Martínez Garrido, 45",
+    "lat": 42.226116269,
+    "lon": -8.703346362,
+    "lines": []
+  },
+  {
+    "id": "6030",
+    "name": "Rúa De Manuel Álvarez, 102",
+    "lat": 42.220829925,
+    "lon": -8.685158812,
+    "lines": []
+  },
+  {
+    "id": "14897",
+    "name": "Camiño Do Arieiro (fronte 13)",
+    "lat": 42.213239161,
+    "lon": -8.67854147,
+    "lines": []
+  },
+  {
+    "id": "14335",
+    "name": "Camiño Do Arieiro (residencia De Maiores)",
+    "lat": 42.212692269,
+    "lon": -8.675661599,
+    "lines": []
+  },
+  {
+    "id": "14898",
+    "name": "Camiño Do Arieiro, 13",
+    "lat": 42.213239161,
+    "lon": -8.678369808,
+    "lines": []
+  },
+  {
+    "id": "6000",
+    "name": "Rúa De Manuel Álvarez, 185",
+    "lat": 42.220887532,
+    "lon": -8.685059571,
+    "lines": []
+  },
+  {
+    "id": "1110",
+    "name": "Praza Ribeira Do Berbés",
+    "lat": 42.237821273,
+    "lon": -8.729666379,
+    "lines": []
+  },
+  {
+    "id": "20158",
+    "name": "Estrada Do Porto, 81",
+    "lat": 42.185593055,
+    "lon": -8.702377974,
+    "lines": []
+  },
+  {
+    "id": "20114",
+    "name": "Estrada Do Porto (fronte Lavadero)",
+    "lat": 42.18846205,
+    "lon": -8.703352711,
+    "lines": []
+  },
+  {
+    "id": "20115",
+    "name": "Estrada Do Porto (fronte Cruce Rúa Das Sueiras)",
+    "lat": 42.190100441,
+    "lon": -8.705453204,
+    "lines": []
+  },
+  {
+    "id": "20157",
+    "name": "Estrada Do Porto, 88",
+    "lat": 42.185615419,
+    "lon": -8.702424678,
+    "lines": []
+  },
+  {
+    "id": "20126",
+    "name": "Estrada Clara Campoamor (rotonda Hac)",
+    "lat": 42.190252452,
+    "lon": -8.717998617,
+    "lines": []
+  },
+  {
+    "id": "20171",
+    "name": "Estrada Clara Campoamor (cruce Camiño Da Pousa)",
+    "lat": 42.204380762,
+    "lon": -8.726688445,
+    "lines": []
+  },
+  {
+    "id": "20125",
+    "name": "Estrada Clara Campoamor (fronte 6)",
+    "lat": 42.209126911,
+    "lon": -8.729344197,
+    "lines": []
+  },
+  {
+    "id": "20199",
+    "name": "Rúa De Puerto Rico, 12",
+    "lat": 42.228802205,
+    "lon": -8.718136653,
+    "lines": []
+  },
+  {
+    "id": "14117",
+    "name": "Rúa Do Couto De San Honorato, 26",
+    "lat": 42.228574702,
+    "lon": -8.712864548,
+    "lines": []
+  },
+  {
+    "id": "14119",
+    "name": "Rúa Do Couto De San Honorato, 80",
+    "lat": 42.229320789,
+    "lon": -8.710390551,
+    "lines": []
+  },
+  {
+    "id": "20180",
+    "name": "Rúa Do Reiseñor, 10",
+    "lat": 42.229527407,
+    "lon": -8.70843784,
+    "lines": []
+  },
+  {
+    "id": "14237",
+    "name": "Rúa De Manuel Cominges, 134",
+    "lat": 42.196119748,
+    "lon": -8.723457198,
+    "lines": []
+  },
+  {
+    "id": "20209",
+    "name": "Avda.. Do Alcalde Portanet, 23",
+    "lat": 42.211481651,
+    "lon": -8.734440746,
+    "lines": []
+  },
+  {
+    "id": "20118",
+    "name": "Rúa Conde De Gondomar",
+    "lat": 42.228358488,
+    "lon": -8.719490904,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14236",
+    "name": "Rúa De Manuel Cominges (fronte 112)",
+    "lat": 42.196308523,
+    "lon": -8.723526935,
+    "lines": []
+  },
+  {
+    "id": "6060",
+    "name": "Rúa De Manuel Cominges, 135",
+    "lat": 42.196716802,
+    "lon": -8.729966982,
+    "lines": []
+  },
+  {
+    "id": "6090",
+    "name": "Rúa De Manuel Cominges, 77",
+    "lat": 42.197626151,
+    "lon": -8.732546841,
+    "lines": []
+  },
+  {
+    "id": "6070",
+    "name": "Rúa De Manuel Cominges, 15",
+    "lat": 42.199197066,
+    "lon": -8.736588816,
+    "lines": []
+  },
+  {
+    "id": "3180",
+    "name": "Camiño De Quirós, 106",
+    "lat": 42.21955863,
+    "lon": -8.711410119,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "3160",
+    "name": "Camiño Da Falcoa, 10",
+    "lat": 42.206593246,
+    "lon": -8.721651793,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14243",
+    "name": "Rúa Das Chabarras, 24",
+    "lat": 42.196539214,
+    "lon": -8.716874437,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "14241",
+    "name": "Rúa Das Chabarras, 60",
+    "lat": 42.197842023,
+    "lon": -8.71471632,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "20142",
+    "name": "Camiño Do Outeiro, 3",
+    "lat": 42.200738188,
+    "lon": -8.714882876,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "20189",
+    "name": "Rúa Da Saa, 10",
+    "lat": 42.201625853,
+    "lon": -8.712945043,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "20188",
+    "name": "Rúa Da Saa (fronte 43)",
+    "lat": 42.201670402,
+    "lon": -8.708928464,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "7830",
+    "name": "Rúa De Saa, 72",
+    "lat": 42.20297089,
+    "lon": -8.707945762,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "6130",
+    "name": "Estrada Do Marco, 105",
+    "lat": 42.207132591,
+    "lon": -8.706967295,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "6140",
+    "name": "Estrada Do Marco (colexio)",
+    "lat": 42.206925967,
+    "lon": -8.707050443,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "7850",
+    "name": "Rúa De Saa, 57",
+    "lat": 42.202923204,
+    "lon": -8.708085237,
+    "lines": [
+      "LINEAS_DE_VITRASA._AUTOBUS_PUBLICO_URBANO_KML-51FFF2A9"
+    ]
+  },
+  {
+    "id": "15002",
+    "name": "Ptl, 2",
+    "lat": 42.177194637,
+    "lon": -8.707850807,
+    "lines": []
+  },
+  {
+    "id": "15003",
+    "name": "Ptl, 3",
+    "lat": 42.178231278,
+    "lon": -8.706474418,
+    "lines": []
+  },
+  {
+    "id": "15004",
+    "name": "Ptl, 4",
+    "lat": 42.176503017,
+    "lon": -8.710007303,
+    "lines": []
+  },
+  {
+    "id": "20145",
+    "name": "Samil Por Bouzas",
+    "lat": 42.215944153,
+    "lon": -8.774726162,
+    "lines": []
+  },
+  {
+    "id": "20144",
+    "name": "Samil Por Coia",
+    "lat": 42.215903856,
+    "lon": -8.774724852,
+    "lines": []
+  },
+  {
+    "id": "20137",
+    "name": "Camiño Da Devesa (asociación Veciños)",
+    "lat": 42.246563041,
+    "lon": -8.669395817,
+    "lines": []
+  },
+  {
+    "id": "14905",
+    "name": "Camiño Da Devesa (cemiterio)",
+    "lat": 42.249981353,
+    "lon": -8.667186504,
+    "lines": []
+  },
+  {
+    "id": "20202",
+    "name": "Estación Marítima",
+    "lat": 42.2404374,
+    "lon": -8.726048008,
+    "lines": []
+  },
+  {
+    "id": "6305",
+    "name": "O Castro",
+    "lat": 42.230800582,
+    "lon": -8.725954962,
+    "lines": []
+  },
+  {
+    "id": "6415",
+    "name": "Parque De Castrelos (museo)",
+    "lat": 42.213852214,
+    "lon": -8.727322863,
+    "lines": []
+  }
+]

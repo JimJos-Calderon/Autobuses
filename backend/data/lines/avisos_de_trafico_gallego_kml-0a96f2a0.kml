@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="texto" type="string"></SimpleField>
+	<SimpleField name="data_inicio" type="string"></SimpleField>
+	<SimpleField name="data_fin" type="string"></SimpleField>
+	<SimpleField name="ovp_data_fin" type="string"></SimpleField>
+	<SimpleField name="ovp_horario" type="string"></SimpleField>
+	<SimpleField name="titulo" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="data_publicacion" type="string"></SimpleField>
+	<SimpleField name="nexp" type="int"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="texto">Poñemos en coñecemento do público en xeral que por mor da obra de humanización do Paseo de Granada, a realizar pola empresa Civis Global, S.L.U. , estará pechada ao tráfico a rúa GRANADA(PASEO) Nº 2 (VIGO) , no seu encontro con rúa Camelias. 
+Acceso ao parking de Praza do Rei: 
+Dende Camelias, baixada por Romil e acceso por Cachamuiña 
+Dende Paseo Alfonso XII/Pi y Margall -&gt; Por Rúa Falperra e Rúa Cachamuiña. 
+Acceso a Praza do Rei en superficie: 
+Dende Rúa Cachamuiña, xiro á esquerda e subida pola rampla xunto a Urbanismo. 
+Acceso ao parking de funcionarios (sen cambios respecto da dinámica actual) 
+Acceso ao parking de Policía (sen cambios respecto da dinámica actual) , dende o 9 de marzo de 2026 ás 10:00 horas e por un período aproximado de dous meses.
+	Solicítase a máxima colaboración cidadá.
+RCGFjr</SimpleData>
+		<SimpleData name="data_inicio">09-03-2026</SimpleData>
+		<SimpleData name="data_fin">31-05-2026</SimpleData>
+		<SimpleData name="ovp_data_fin">2026-05-31</SimpleData>
+		<SimpleData name="ovp_horario"></SimpleData>
+		<SimpleData name="titulo">Pechada ao tráfico a rúa GRANADA(PASEO) Nº 2 (VIGO) , no seu encontro con rúa Camelias.</SimpleData>
+		<SimpleData name="lon">-8.72630530019664</SimpleData>
+		<SimpleData name="data_publicacion">04-03-2026</SimpleData>
+		<SimpleData name="nexp">260050186</SimpleData>
+		<SimpleData name="lat">42.2361854241631</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.726305300196641,42.236185424163097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="texto">Poñemos en coñecemento do público en xeral que por mor da obra de HUMANIZACIÓN DA RÚA SAN ROQUE, ENTRE AS RÚAS GREGORIO ESPINO E REISEÑOR-EXPTE- 2111/441, , a realizar pola empresa Oreco Balgon Sa , estará pechada ao tráfico a rúa SAN ROQUE(RUA) (VIGO) , ENTRE AS RÚAS GREGORIO ESPINO E REISEÑOR, con acceso exclusivo para garaxes, servizo público e carga descarga, dende o 9 de febreiro de 2026 ás 10:00 horas e por un período aproximado de dous meses. Só se pemitirán acceso a vehículos autorizados, garaxes de vivendas co seu correpondente Vado, e comercios existentes nese tramo. Desvío por Alcalde Gregorio Espino, Morcego, Faisán, Fdo Lago Olano, San Roque ou por Alcalde Gregorio Espino, Morcego, San Roque. Para chegar á rúa Colombia poden continuar ata o cruzamento coa rúa Reiseñor, seguir de fronte pola rúa San Roque ata o número 110 e xirar á esquerda por Colombia.
+	Tamén poden acceder dende a Praza de España, tomar a rúa Puerto Rico,
+continuar pola rúa Couto San Honorato ata chegar á rúa Reiseñor e xirar á esquerda por San Roque cara á rúa Colombia.
+	Solicítase a máxima colaboración cidadá.</SimpleData>
+		<SimpleData name="data_inicio">09-02-2026</SimpleData>
+		<SimpleData name="data_fin">15-04-2026</SimpleData>
+		<SimpleData name="ovp_data_fin">2026-04-15</SimpleData>
+		<SimpleData name="ovp_horario"></SimpleData>
+		<SimpleData name="titulo">Pechada ao tráfico a rúa SAN ROQUE(RUA) (VIGO) , ENTRE AS RÚAS GREGORIO ESPINO E REISEÑOR</SimpleData>
+		<SimpleData name="lon">-8.70873616883095</SimpleData>
+		<SimpleData name="data_publicacion">08-02-2026</SimpleData>
+		<SimpleData name="nexp">260028295</SimpleData>
+		<SimpleData name="lat">42.2302746755472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.708736168830949,42.2302746755472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="texto">Poñemos en coñecemento do público en xeral que por mor da obra de canalización autorizada en licenza 93472/250, do Camiño Fondo entre o cruzamento con Camiño Pousa e Camiño da Falcoa, a realizar pola empresa Edelne Sl , estará pechada ao tráfico a rúa FONDO(CMÑO) Nº 18 (CASTRELOS) , entre o cruzamento con Camiño Pousa e Camiño da Falcoa, con acceso exclusivo para garaxes, servizo público e carga descarga, dende o 16 de marzo de 2026 ás 10:00 horas e por un período aproximado dun mes. Permitirán o paso do autobús urbano polo vial. 
+	Solicítase a máxima colaboración cidadá.</SimpleData>
+		<SimpleData name="data_inicio">16-03-2026</SimpleData>
+		<SimpleData name="data_fin">10-04-2026</SimpleData>
+		<SimpleData name="ovp_data_fin">2026-04-10</SimpleData>
+		<SimpleData name="ovp_horario"></SimpleData>
+		<SimpleData name="titulo">Pechada ao tráfico a rúa FONDO(CMÑO) Nº 18 (CASTRELOS) , entre o cruzamento con Camiño Pousa e Camiño da Falcoa</SimpleData>
+		<SimpleData name="lon">-8.7247515535235</SimpleData>
+		<SimpleData name="data_publicacion">12-03-2026</SimpleData>
+		<SimpleData name="nexp">260058567</SimpleData>
+		<SimpleData name="lat">42.2056124780463</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7247515535235,42.205612478046298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="texto">Poñemos en coñecemento do público en xeral que por mor da obra de HUMANIZACIÓN DA RÚA SERAFÍN AVENDAÑO, ENTRE AVDA. GARCÍA BARBÓN E ACCESO INFRAESTRUCTURA VIGO VERTICAL HALO-EXPTE. 2210/441, a realizar pola empresa Oreco Balgon Sa , estará pechada ao tráfico a rúa SERAFIN AVENDAÑO(RUA) Nº 16_20 (VIGO) , con acceso exclusivo para peóns, dende o 23 de febreiro de 2026 ás 10:00 horas e por un período aproximado de sete meses. 
+En todo momento durante os traballos garantirán o paso peonil. 
+
+Permitirán o paso a vehículos de emerxencia ou autorizados. 
+
+Quedarán habilitadas rutas peoniles de acceso seguras e debidamente sinalizadas ao C.E.I.P García Barbón e ao HALO. 
+En García Barbón 68, fronte ao Círculo de Empresarios de Galicia, habilitarán unha zona de parada puntual, para poder deixar e recoller aos alumnos e, dende ahí, polo percorrido sinalizado accedan andando ao C.E.I.P García Barbón. 
+	
+	Solicítase a máxima colaboración cidadá.</SimpleData>
+		<SimpleData name="data_inicio">23-02-2026</SimpleData>
+		<SimpleData name="data_fin">30-09-2026</SimpleData>
+		<SimpleData name="ovp_data_fin">2026-09-30</SimpleData>
+		<SimpleData name="ovp_horario"></SimpleData>
+		<SimpleData name="titulo">Pechada ao tráfico a rúa SERAFIN AVENDAÑO(RUA) Nº 16_20</SimpleData>
+		<SimpleData name="lon">-8.71266469836143</SimpleData>
+		<SimpleData name="data_publicacion">19-02-2026</SimpleData>
+		<SimpleData name="nexp">260039086</SimpleData>
+		<SimpleData name="lat">42.2367296862912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.712664698361429,42.236729686291199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="texto">Poñemos en coñecemento do público en xeral que por mor da obra de HUMANIZACIÓN DA RÚA DO PAZO (BOUZAS), a realizar pola empresa Oresa Construccion Y Servicios Globales, S.L. , estará pechada ao tráfico a rúa PAZO (BOUZAS)(RUA) (VIGO) , con acceso exclusivo para garaxes, servizo público e carga descarga, dende o 1 de xaneiro de 2026 ás 10:00 horas e por un período aproximado de tres meses.
+	Solicítase a máxima colaboración cidadá.</SimpleData>
+		<SimpleData name="data_inicio">04-07-2025</SimpleData>
+		<SimpleData name="data_fin">01-04-2026</SimpleData>
+		<SimpleData name="ovp_data_fin">2026-04-01</SimpleData>
+		<SimpleData name="ovp_horario"></SimpleData>
+		<SimpleData name="titulo">Pechada ao tráfico a rúa PAZO (BOUZAS). AMPLIACIÓN</SimpleData>
+		<SimpleData name="lon">-8.75424462762934</SimpleData>
+		<SimpleData name="data_publicacion">20-01-2026</SimpleData>
+		<SimpleData name="nexp">250175605</SimpleData>
+		<SimpleData name="lat">42.2253435780467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.75424462762934,42.225343578046697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="texto">Poñemos en coñecemento do público en xeral que por mor da obra de traballos arqueolóxicos nos locais da rúa Carral e na rúa Laxe., a realizar pola empresa Patrimonio Histórico , estará pechada ao tráfico a rúa LAXE (VIGO VELLO)(RUA) Nº 2 (VIGO) , con acceso exclusivo para garaxes, servizo público e carga descarga, dende o 6 de abril de 2026 ás 10:00 horas e por un período aproximado dun mes.
+O acceso polo norte, no encontro entre Laxe e Carral sería só para emerxencias dos bombeiros. 
+O acceso para suministros dos establecementos de hostelería da metade da rúa (C. Argentina, Tiquismiquis) sería pola rúa Baixada á Fonte e Travesía do Cónsul, seguindo o consensuado con Seguridade. Polo sur (dende Oliva) acceden tamén bombeiros e vehículos que van a: garaxe Palacio da Oliva, almacén Palacio Oliva pola rúa Xoanelo e Fundación Menela, con saída polo mesmo lugar. 
+	Solicítase a máxima colaboración cidadá.</SimpleData>
+		<SimpleData name="data_inicio">06-04-2026</SimpleData>
+		<SimpleData name="data_fin">30-04-2026</SimpleData>
+		<SimpleData name="ovp_data_fin">2026-04-30</SimpleData>
+		<SimpleData name="ovp_horario">08:30 a 17:30</SimpleData>
+		<SimpleData name="titulo">Pechada ao tráfico a rúa LAXE (VIGO VELLO)(RUA) Nº 2</SimpleData>
+		<SimpleData name="lon">-8.72505201767563</SimpleData>
+		<SimpleData name="data_publicacion">23-03-2026</SimpleData>
+		<SimpleData name="nexp">260064909</SimpleData>
+		<SimpleData name="lat">42.2393717621619</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72505201767563,42.239371762161902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="texto">Con motivo da festa de Reconquista da Vila de Vigo en datas 26, 27, 28 e 29 de marzo, comunícaselles as seguintes restriccións de tráfico: 
+
+   - Retirada de estacionamento dende as 20:00 horas do 26 de marzo nas seguintes rúas: Falperra entre Paseo de Alfonso e Cachamuiña, Paseo de Alfonso, inicio das rúas Teófilo Llorente, rúas Real, Chao, San Vicente e carga e descarga de San Francisco.  Incluidas motos.
+    - Retirada de estacionamento na rúa Victoria e Reconquista o domingo 29 de marzo dende as 15:00 horas  até o final do acto.
+    - Cambio da parada de taxis ao inicio da rúa Falperra.
+    - Pola restrición de acceso de vehículos ao Paseo Alfonso dende o 27 de marzo ,ás 11:00 horas  até o  remate da festa o 29 de marzo, as persoas  residentes do Casco Vello Baixo deberán acceder e saír pola rúa San Francisco,  con axuda dun bloqueo semafórico e as persoas  residentes do Casco Vello Alto, pola rúa Abeleira Menéndez ou rúa Santiago.
+- Corte de tráfico da rúa Carral o domingo 29 de marzo dende as 16:30-21:00 horas e dende as 18:30  horas, Policarpo Sanz, Reconquista, Praza Compostela e Victoria para a representación da Reconquista
+
+Pregase a colaboración cidadá.</SimpleData>
+		<SimpleData name="data_inicio">26-03-2026</SimpleData>
+		<SimpleData name="data_fin">29-03-2026</SimpleData>
+		<SimpleData name="ovp_data_fin">2026-03-29</SimpleData>
+		<SimpleData name="ovp_horario">VARIOS</SimpleData>
+		<SimpleData name="titulo">Festa de Reconquista da Vila de Vigo en datas 26, 27, 28 e 29 de marzo</SimpleData>
+		<SimpleData name="lon">-8.72539328767879</SimpleData>
+		<SimpleData name="data_publicacion">26-03-2026</SimpleData>
+		<SimpleData name="nexp">260050440</SimpleData>
+		<SimpleData name="lat">42.2381060160504</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72539328767879,42.238106016050402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="texto">Poñemos en coñecemento do público en xeral que por mor da obra de izado de materiais, a realizar pola empresa Grúas Doniz,S.L. , estará pechada ao tráfico a rúa COMPOSTELA(PRAZA) Nº 20 (VIGO) , con acceso exclusivo para garaxes, servizo público e carga descarga, o 6 de abril de 2026 dende as 15:30 horas e por un período aproximado de dúas horas.
+	Solicítase a máxima colaboración cidadá.</SimpleData>
+		<SimpleData name="data_inicio">06-04-2026</SimpleData>
+		<SimpleData name="data_fin">06-04-2026</SimpleData>
+		<SimpleData name="ovp_data_fin">2026-04-06</SimpleData>
+		<SimpleData name="ovp_horario">15:30 a 17:30</SimpleData>
+		<SimpleData name="titulo">Pechada ao tráfico a rúa COMPOSTELA(PRAZA) Nº 20</SimpleData>
+		<SimpleData name="lon">-8.72114737543424</SimpleData>
+		<SimpleData name="data_publicacion">26-03-2026</SimpleData>
+		<SimpleData name="nexp">260069649</SimpleData>
+		<SimpleData name="lat">42.2396596743168</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72114737543424,42.239659674316798</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

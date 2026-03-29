@@ -1,4 +1,7 @@
 import type { BusStop } from "@autobuses/shared";
+import { buildStopLineIndex, enrichStopsWithLines, readEnrichedStopsFile } from "./stop-lines.js";
+import { loadLinesGeometry } from "./lines.js";
+import { sanitizeTitle } from "./sanitizer.js";
 
 /**
  * JSON de paradas Vitrasa publicado en Open Data del Concello.
@@ -93,7 +96,7 @@ export function itemToBusStop(item: unknown): BusStop | null {
 
   if (!id) return null;
 
-  const stop: BusStop = { id, name };
+  const stop: BusStop = { id, name: sanitizeTitle(name) };
   if (lat !== undefined && lon !== undefined && Number.isFinite(lat) && Number.isFinite(lon)) {
     stop.lat = lat;
     stop.lon = lon;
@@ -128,4 +131,19 @@ export function jsonToBusStops(raw: unknown): BusStop[] {
     if (s) out.push(s);
   }
   return out;
+}
+
+/**
+ * Obtiene paradas enriquecidas con lineas precomputadas.
+ * Si no hay artefacto procesado, hace fallback a calculo en caliente.
+ */
+export async function fetchEnrichedStops(): Promise<BusStop[]> {
+  const cached = await readEnrichedStopsFile();
+  if (cached && cached.length > 0) return cached;
+
+  const raw = await fetchParadasJson();
+  const stops = jsonToBusStops(raw);
+  const lines = await loadLinesGeometry();
+  const index = buildStopLineIndex(stops, lines, 110);
+  return enrichStopsWithLines(stops, index);
 }

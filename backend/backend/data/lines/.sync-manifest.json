@@ -1,0 +1,18 @@
+{
+  "entries": {
+    "51fff2a9-6a78-402e-a9cb-41b465b68628": {
+      "resourceId": "51fff2a9-6a78-402e-a9cb-41b465b68628",
+      "sourceUrl": "https://datos.vigo.org/data/transporte/lineas.kml",
+      "lastModified": "2020-03-17T17:55:03.831901",
+      "checksum": "f26a50e610b183f5af0c7fc3788ba067f831cde8e403c61647beeb0e656b586c",
+      "fileName": "lineas_de_vitrasa._autobus_publico_urbano_kml-51fff2a9.kml"
+    },
+    "01f3f630-b833-48b5-a2d2-57b97953fce0": {
+      "resourceId": "01f3f630-b833-48b5-a2d2-57b97953fce0",
+      "sourceUrl": "https://datos.vigo.org/data/transporte/paradas.kml",
+      "lastModified": "2020-03-17T17:55:02.145611",
+      "checksum": "1c5aaaf5e0aceb94d5f7b3b6c22069bf68c1cc736a1427c1e72634d75fa3fb17",
+      "fileName": "paradas_de_vitrasa_kml-01f3f630.kml"
+    }
+  }
+}

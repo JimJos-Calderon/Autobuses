@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="id" type="string"></SimpleField>
+	<SimpleField name="nombre" type="string"></SimpleField>
+	<SimpleField name="url" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.74407</SimpleData>
+		<SimpleData name="id">0</SimpleData>
+		<SimpleData name="nombre">Castelao - Grove</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=05</SimpleData>
+		<SimpleData name="lat">42.21836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.74407,42.218359999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.75131</SimpleData>
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="nombre">Av. Florida - Caramuxo</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=09</SimpleData>
+		<SimpleData name="lat">42.20723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.75131,42.207230000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.72315</SimpleData>
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="nombre">Policarpo Sanz - Reconquista</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=24</SimpleData>
+		<SimpleData name="lat">42.23753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72315,42.23753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.77428</SimpleData>
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="nombre">Av. Europa - Samil</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=27</SimpleData>
+		<SimpleData name="lat">42.21129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.774279999999999,42.211289999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.72855</SimpleData>
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="nombre">Paseo de Alfonso XII</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=10</SimpleData>
+		<SimpleData name="lat">42.23602</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72855,42.236020000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.74168</SimpleData>
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="nombre">Florida - Manuel de Castro</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=29</SimpleData>
+		<SimpleData name="lat">42.21456</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.74168,42.214559999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71639</SimpleData>
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="nombre">Alfonso XIII - Cervantes</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=30</SimpleData>
+		<SimpleData name="lat">42.23625</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71639,42.236249999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71171</SimpleData>
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="nombre">Areal - Miragaia</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=34</SimpleData>
+		<SimpleData name="lat">42.2388</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71171,42.238799999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.75276</SimpleData>
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="nombre">Tomás Paredes - Av. Atlántida</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=26</SimpleData>
+		<SimpleData name="lat">42.2223</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.75276,42.222299999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.73247</SimpleData>
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="nombre">López Mora - Pintor Lugrís</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=31</SimpleData>
+		<SimpleData name="lat">42.22459</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.732469999999999,42.224589999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71237</SimpleData>
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="nombre">Praza Isabel la Católica</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=32</SimpleData>
+		<SimpleData name="lat">42.23123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71237,42.231229999999996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.7324</SimpleData>
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="nombre">Pi y Margall - Tomás Alonso</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=33</SimpleData>
+		<SimpleData name="lat">42.22808</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7324,42.228079999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.70722</SimpleData>
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="nombre">Travesía de Vigo - Gregorio Espino</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=07</SimpleData>
+		<SimpleData name="lat">42.23252</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.70722,42.23252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.69567</SimpleData>
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="nombre">Sanjurjo Badía - Buenos Aires</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=14</SimpleData>
+		<SimpleData name="lat">42.24985</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.69567,42.249850000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.69894</SimpleData>
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="nombre">Avenida de Madrid - Seminario</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=35</SimpleData>
+		<SimpleData name="lat">42.21377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.69894,42.213769999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.73608</SimpleData>
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="nombre">Plaza de la Industria</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=18</SimpleData>
+		<SimpleData name="lat">42.2245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.736079999999999,42.224499999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.72292</SimpleData>
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="nombre">Baixada Pontenova</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=21</SimpleData>
+		<SimpleData name="lat">42.22039</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72292,42.220390000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.63543</SimpleData>
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="nombre">Aeropuerto</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=25</SimpleData>
+		<SimpleData name="lat">42.22359</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.635429999999999,42.223590000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.70232</SimpleData>
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="nombre">Aragón - Jenaro de la Fuente</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=06</SimpleData>
+		<SimpleData name="lat">42.23201</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.70232,42.232010000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.69815</SimpleData>
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="nombre">Travesía de Vigo - Aragón</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=19</SimpleData>
+		<SimpleData name="lat">42.24262</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.69815,42.242620000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.73764</SimpleData>
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="nombre">Av. Portanet - Val miñor</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=20</SimpleData>
+		<SimpleData name="lat">42.21116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.73764,42.21116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.72495</SimpleData>
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="nombre">Carral - Montero Ríos</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=22</SimpleData>
+		<SimpleData name="lat">42.24058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72495,42.24058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.7</SimpleData>
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="nombre">Martínez Garrido - Ramón Nieto</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=23</SimpleData>
+		<SimpleData name="lat">42.23099</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.699999999999999,42.230989999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.73269</SimpleData>
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="nombre">Praza de América 1</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=01</SimpleData>
+		<SimpleData name="lat">42.22104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.73269,42.221040000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.70167</SimpleData>
+		<SimpleData name="id">24</SimpleData>
+		<SimpleData name="nombre">Martínez Garrido - Dr. Carracido</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=28</SimpleData>
+		<SimpleData name="lat">42.22695</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.70167,42.226950000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.72996</SimpleData>
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="nombre">Túnel Orillamar - Berbés</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=001</SimpleData>
+		<SimpleData name="lat">42.23704</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72996,42.23704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.72926</SimpleData>
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="nombre">Túnel Orillamar - Cánovas del Castillo</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=003</SimpleData>
+		<SimpleData name="lat">42.23895</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72926,42.238950000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.70851</SimpleData>
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="nombre">García Barbón - Isaac Peral</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=17</SimpleData>
+		<SimpleData name="lat">42.23924</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.70851,42.239240000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.7068</SimpleData>
+		<SimpleData name="id">28</SimpleData>
+		<SimpleData name="nombre">Túnel Areal - Sanjurjo Badía</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=616</SimpleData>
+		<SimpleData name="lat">42.2429</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.706799999999999,42.242899999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71733</SimpleData>
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="nombre">Túnel Orillamar - Areal</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=011</SimpleData>
+		<SimpleData name="lat">42.23928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71733,42.23928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.7277</SimpleData>
+		<SimpleData name="id">30</SimpleData>
+		<SimpleData name="nombre">Baixada ó Pontillón</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=36</SimpleData>
+		<SimpleData name="lat">42.21746</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7277,42.217460000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.73859</SimpleData>
+		<SimpleData name="id">31</SimpleData>
+		<SimpleData name="nombre">Balaídos - Fragoso</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=37</SimpleData>
+		<SimpleData name="lat">42.21282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.73859,42.21282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.70061</SimpleData>
+		<SimpleData name="id">32</SimpleData>
+		<SimpleData name="nombre">Aragón - Padre Celso</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=38</SimpleData>
+		<SimpleData name="lat">42.23659</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.700609999999999,42.23659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71797</SimpleData>
+		<SimpleData name="id">33</SimpleData>
+		<SimpleData name="nombre">Hospital A. Cunqueiro</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=40</SimpleData>
+		<SimpleData name="lat">42.18989</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.717969999999999,42.189889999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71156</SimpleData>
+		<SimpleData name="id">34</SimpleData>
+		<SimpleData name="nombre">Av. Madrid</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=12</SimpleData>
+		<SimpleData name="lat">42.22487</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71156,42.224870000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.73244</SimpleData>
+		<SimpleData name="id">35</SimpleData>
+		<SimpleData name="nombre">Castrelos - Antonio Palacios</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=15</SimpleData>
+		<SimpleData name="lat">42.21502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.73244,42.215020000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.7294</SimpleData>
+		<SimpleData name="id">36</SimpleData>
+		<SimpleData name="nombre">Camelias - Ourense</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=16</SimpleData>
+		<SimpleData name="lat">42.22584</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7294,42.225839999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.7166</SimpleData>
+		<SimpleData name="id">37</SimpleData>
+		<SimpleData name="nombre">Urzáiz - Gran Vía - Lepanto</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=03</SimpleData>
+		<SimpleData name="lat">42.23439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7166,42.234389999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.72602</SimpleData>
+		<SimpleData name="id">38</SimpleData>
+		<SimpleData name="nombre">Venezuela - Granada</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=11</SimpleData>
+		<SimpleData name="lat">42.23499</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72602,42.234990000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71976</SimpleData>
+		<SimpleData name="id">39</SimpleData>
+		<SimpleData name="nombre">Praza de España</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=02</SimpleData>
+		<SimpleData name="lat">42.22922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71976,42.229219999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.72058</SimpleData>
+		<SimpleData name="id">40</SimpleData>
+		<SimpleData name="nombre">Colón - Policarpo Sanz - García Barbón</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=04</SimpleData>
+		<SimpleData name="lat">42.23763</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72058,42.237630000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.7255</SimpleData>
+		<SimpleData name="id">41</SimpleData>
+		<SimpleData name="nombre">Gran Vía - Tarragona</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=08</SimpleData>
+		<SimpleData name="lat">42.22237</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7255,42.222369999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71531</SimpleData>
+		<SimpleData name="id">42</SimpleData>
+		<SimpleData name="nombre">Pizarro - Vázquez Varela</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=13</SimpleData>
+		<SimpleData name="lat">42.23061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71531,42.230609999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.73328</SimpleData>
+		<SimpleData name="id">43</SimpleData>
+		<SimpleData name="nombre">Praza América 2</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=39</SimpleData>
+		<SimpleData name="lat">42.2205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.73328,42.2205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.7207</SimpleData>
+		<SimpleData name="id">44</SimpleData>
+		<SimpleData name="nombre">Gran Vía - Valle Inclán hacia Pr. América</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=41</SimpleData>
+		<SimpleData name="lat">42.22727</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7207,42.227269999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.7206</SimpleData>
+		<SimpleData name="id">45</SimpleData>
+		<SimpleData name="nombre">Gran Vía - Valle Inclán hacia Pr. España</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=42</SimpleData>
+		<SimpleData name="lat">42.22707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.720599999999999,42.227069999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71998</SimpleData>
+		<SimpleData name="id">46</SimpleData>
+		<SimpleData name="nombre">Colón - Urzáiz</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=43</SimpleData>
+		<SimpleData name="lat">42.23579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71998,42.23579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.72992</SimpleData>
+		<SimpleData name="id">47</SimpleData>
+		<SimpleData name="nombre">Camelias - Romil</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=44</SimpleData>
+		<SimpleData name="lat">42.23137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72992,42.231369999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71216</SimpleData>
+		<SimpleData name="id">48</SimpleData>
+		<SimpleData name="nombre">Emilia Pardo Bazán - A. Palacios</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=45</SimpleData>
+		<SimpleData name="lat">42.22322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71216,42.223219999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.70714</SimpleData>
+		<SimpleData name="id">49</SimpleData>
+		<SimpleData name="nombre">Gregorio Espino - Reiseñor</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=46</SimpleData>
+		<SimpleData name="lat">42.22928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.70714,42.229280000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71241</SimpleData>
+		<SimpleData name="id">50</SimpleData>
+		<SimpleData name="nombre">García Barbón - Serafín Avendaño</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=47</SimpleData>
+		<SimpleData name="lat">42.23694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71241,42.236939999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.73063</SimpleData>
+		<SimpleData name="id">51</SimpleData>
+		<SimpleData name="nombre">Camelias - Dr. Marañón</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=48</SimpleData>
+		<SimpleData name="lat">42.22817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.73063,42.228169999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71024</SimpleData>
+		<SimpleData name="id">52</SimpleData>
+		<SimpleData name="nombre">Vía Norte - Escultor Gregorio Fdez</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=49</SimpleData>
+		<SimpleData name="lat">42.23464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71024,42.234639999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71396</SimpleData>
+		<SimpleData name="id">53</SimpleData>
+		<SimpleData name="nombre">Vía Norte - Urzáiz</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=50</SimpleData>
+		<SimpleData name="lat">42.23355</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.71396,42.23355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.70309</SimpleData>
+		<SimpleData name="id">54</SimpleData>
+		<SimpleData name="nombre">Trav. de Vigo - Dr. Canoa</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=51</SimpleData>
+		<SimpleData name="lat">42.23708</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.70309,42.237079999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.73822</SimpleData>
+		<SimpleData name="id">55</SimpleData>
+		<SimpleData name="nombre">Av. Beiramar - Bouzas</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=52</SimpleData>
+		<SimpleData name="lat">42.22639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.73822,42.226390000000002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.73787</SimpleData>
+		<SimpleData name="id">56</SimpleData>
+		<SimpleData name="nombre">Av. Beiramar - Berbés</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=53</SimpleData>
+		<SimpleData name="lat">42.22758</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.737869999999999,42.227580000000003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.7027</SimpleData>
+		<SimpleData name="id">57</SimpleData>
+		<SimpleData name="nombre">Trav. de Vigo - Mestre Montes</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=54</SimpleData>
+		<SimpleData name="lat">42.24064</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7027,42.240639999999999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="lon">-8.71802</SimpleData>
+		<SimpleData name="id">58</SimpleData>
+		<SimpleData name="nombre">Gran Vía - Venezuela</SimpleData>
+		<SimpleData name="url">http://camaras.vigo.org/webcam/camv2.php?id=55</SimpleData>
+		<SimpleData name="lat">42.23186</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.718019999999999,42.231859999999998</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

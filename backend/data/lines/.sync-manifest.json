@@ -1,0 +1,116 @@
+{
+  "entries": {
+    "51fff2a9-6a78-402e-a9cb-41b465b68628": {
+      "resourceId": "51fff2a9-6a78-402e-a9cb-41b465b68628",
+      "sourceUrl": "https://datos.vigo.org/data/transporte/lineas.kml",
+      "lastModified": "2020-03-17T17:55:03.831901",
+      "checksum": "83de22631d246669121c8a97de10488dd84e3973cd3d11f16cea3f150597cdd2",
+      "fileName": "lineas_de_vitrasa._autobus_publico_urbano_kml-51fff2a9.kml"
+    },
+    "01f3f630-b833-48b5-a2d2-57b97953fce0": {
+      "resourceId": "01f3f630-b833-48b5-a2d2-57b97953fce0",
+      "sourceUrl": "https://datos.vigo.org/data/transporte/paradas.kml",
+      "lastModified": "2020-03-17T17:55:02.145611",
+      "checksum": "909c7db0c7afa8e037fa2809112f912978e4ff88652419f2e62c981eec4b4acc",
+      "fileName": "paradas_de_vitrasa_kml-01f3f630.kml"
+    },
+    "ab183fa5-225a-4fde-86ef-56f041c3b4a4": {
+      "resourceId": "ab183fa5-225a-4fde-86ef-56f041c3b4a4",
+      "sourceUrl": "https://datos.vigo.org/data/trafico/carga-descarga.kml",
+      "lastModified": "2023-04-25T06:41:36.741516",
+      "checksum": "b9c66c5b88a15efbe95e54d68c9a02da60b85e17e4fe3da28fe5ed2bdade6277",
+      "fileName": "zonas_reservadas_de_carga_y_descarga_en_vigo_kml-ab183fa5.kml"
+    },
+    "59aa5c19-b86e-48db-a1d4-d045c818140d": {
+      "resourceId": "59aa5c19-b86e-48db-a1d4-d045c818140d",
+      "sourceUrl": "https://datos.vigo.org/data/trafico/carrilesbici.kml",
+      "lastModified": "2023-04-17T10:19:21.667584",
+      "checksum": "adc27a0201933684523e03c07a66e03e078f37b3077c261c5efb6bb18ebcbdd4",
+      "fileName": "carriles_bici_de_la_ciudad_de_vigo_kml-59aa5c19.kml"
+    },
+    "0a96f2a0-af16-462c-bb18-3e5e94696579": {
+      "resourceId": "0a96f2a0-af16-462c-bb18-3e5e94696579",
+      "sourceUrl": "https://datos.vigo.org/data/trafico/avisos-trafico-gl.kml",
+      "lastModified": "2020-03-17T17:55:27.818320",
+      "checksum": "e24c7b006b3eb0bbfa388b00f3ebdbfa681a1c2c7a3286dfdb4dfb7af131ea01",
+      "fileName": "avisos_de_trafico_gallego_kml-0a96f2a0.kml"
+    },
+    "ee8b9940-209c-48fb-b886-5c13d16e79cf": {
+      "resourceId": "ee8b9940-209c-48fb-b886-5c13d16e79cf",
+      "sourceUrl": "https://datos.vigo.org/data/trafico/avisos-trafico-es.kml",
+      "lastModified": "2020-03-17T17:55:25.837686",
+      "checksum": "52eacdd9ecdd29730485bb70d6debaa5fa0043d157aef769cd4490b40b3e2264",
+      "fileName": "avisos_de_trafico_espanol_kml-ee8b9940.kml"
+    },
+    "bd5c6f79-048d-4fba-a329-559ae7d5982c": {
+      "resourceId": "bd5c6f79-048d-4fba-a329-559ae7d5982c",
+      "sourceUrl": "https://datos.vigo.org/data/trafico/camaras-trafico.kml",
+      "lastModified": "2020-03-17T17:55:23.798611",
+      "checksum": "3dc213f5307bb4a7e61b97cfff1fdd922bd00d372229fea31fdf33b115da9d4f",
+      "fileName": "camaras_de_trafico_kml-bd5c6f79.kml"
+    },
+    "22c76d64-960e-4748-ad34-9ed0f75d89c0": {
+      "resourceId": "22c76d64-960e-4748-ad34-9ed0f75d89c0",
+      "sourceUrl": "https://datos.vigo.org/data/trafico/gasolineras.kml",
+      "lastModified": "2020-03-17T17:55:22.446180",
+      "checksum": "e2e644691d5daede74049a7fdd6871e6d0f2fa2709ff2a0310ebdf81f849886c",
+      "fileName": "gasolineras_de_la_ciudad_kml-22c76d64.kml"
+    },
+    "d874fc06-1ffe-45c3-ad72-634cb406d59e": {
+      "resourceId": "d874fc06-1ffe-45c3-ad72-634cb406d59e",
+      "sourceUrl": "https://datos.vigo.org/data/trafico/aparcabicis.kml",
+      "lastModified": "2020-03-17T17:55:20.242893",
+      "checksum": "9a8c08fd57589cd8a4aefad5e178800d837526f6ec76853b4357671449f69655",
+      "fileName": "aparcabicis_de_la_ciudad_de_vigo_kml-d874fc06.kml"
+    },
+    "ec17e6dc-d5e5-4db6-80c9-3a883de7f32c": {
+      "resourceId": "ec17e6dc-d5e5-4db6-80c9-3a883de7f32c",
+      "sourceUrl": "https://datos.vigo.org/data/trafico/aparcamientos-od.kml",
+      "lastModified": "2020-03-17T17:55:18.031518",
+      "checksum": "27dec4f91a925ceac6b0a1986328731c74f4148f00bbd5b49f13847b78912b53",
+      "fileName": "aparcamientos_en_la_ciudad_kml-ec17e6dc.kml"
+    },
+    "0c6e157e-4043-4cc7-80a9-f8a9a9d4c388": {
+      "resourceId": "0c6e157e-4043-4cc7-80a9-f8a9a9d4c388",
+      "sourceUrl": "https://datos.vigo.org/data/trafico/est-tren.kml",
+      "lastModified": "2020-03-17T17:55:15.933883",
+      "checksum": "301a8a97a31721a7eb4a9c3b90f7de98fd7d90eacc10fb044bbb1406048f6389",
+      "fileName": "estaciones_de_tren_de_vigo_-_transporte_kml-0c6e157e.kml"
+    },
+    "58c34f5b-fa26-4e37-aa65-81bfa4aa9e03": {
+      "resourceId": "58c34f5b-fa26-4e37-aa65-81bfa4aa9e03",
+      "sourceUrl": "https://datos.vigo.org/data/trafico/navieras.kml",
+      "lastModified": "2020-03-17T17:55:13.951864",
+      "checksum": "213feb77867531b4ccf4a8f12e9ca60af87c6ddbdc977f7d5bc33b2e223110bb",
+      "fileName": "navieras_-_transporte_de_ria_kml-58c34f5b.kml"
+    },
+    "ac2ce93d-9e8b-4d3e-8a83-f717f7ce1bfb": {
+      "resourceId": "ac2ce93d-9e8b-4d3e-8a83-f717f7ce1bfb",
+      "sourceUrl": "https://datos.vigo.org/data/trafico/taxi.kml",
+      "lastModified": "2020-03-17T17:55:12.021781",
+      "checksum": "258007a727c6258b9647ccf4e26fa4090873c3bf641806b578eab8ac06c45a6c",
+      "fileName": "paradas_de_taxi_en_vigo_kml-ac2ce93d.kml"
+    },
+    "0f460742-c6be-4469-a723-aa8cbc3a7a60": {
+      "resourceId": "0f460742-c6be-4469-a723-aa8cbc3a7a60",
+      "sourceUrl": "https://datos.vigo.org/data/trafico/plazas_minusvalido.kml",
+      "lastModified": "2020-03-17T17:55:10.387893",
+      "checksum": "c1d9b583f71b36d689cceabe6c5848c984786240e62f6912b3a3c2f4e1e09d01",
+      "fileName": "plazas_discapacidad_kml-0f460742.kml"
+    },
+    "e47ef083-01e8-4f06-bd8c-655aca0a1544": {
+      "resourceId": "e47ef083-01e8-4f06-bd8c-655aca0a1544",
+      "sourceUrl": "https://datos.vigo.org/data/transporte/calles-numeracion.kml",
+      "lastModified": "2020-03-17T17:55:08.013600",
+      "checksum": "ff4eaab476f4bfce0223e6a77b8579bd3a7586d4fa649d46ddb835cd6d715b41",
+      "fileName": "numeracion_del_callejero_de_vigo_kml-e47ef083.kml"
+    },
+    "1c88d365-88b7-460b-8f16-7d4e243d8b5c": {
+      "resourceId": "1c88d365-88b7-460b-8f16-7d4e243d8b5c",
+      "sourceUrl": "https://datos.vigo.org/data/transporte/calles.kml",
+      "lastModified": "2020-03-17T17:55:05.038363",
+      "checksum": "99075b5ca4c45c82d8f111a05f8505ac199baafc20310d8313fb7c28b092a2bc",
+      "fileName": "calles_de_vigo_con_su_geometria_kml-1c88d365.kml"
+    }
+  }
+}

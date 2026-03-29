@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="barrio" type="string"></SimpleField>
+	<SimpleField name="codigo_postal" type="string"></SimpleField>
+	<SimpleField name="numero" type="int"></SimpleField>
+	<SimpleField name="web" type="string"></SimpleField>
+	<SimpleField name="calle" type="string"></SimpleField>
+	<SimpleField name="parroquia" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="telefono" type="string"></SimpleField>
+	<SimpleField name="nombre" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36202</SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web"></SimpleData>
+		<SimpleData name="calle">RUA CANOVAS DEL CASTILLO</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.72523</SimpleData>
+		<SimpleData name="id">0</SimpleData>
+		<SimpleData name="telefono">986433370</SimpleData>
+		<SimpleData name="nombre">Naviera De Las Rías Gallegas</SimpleData>
+		<SimpleData name="lat">42.24075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72523,42.240749999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36202</SimpleData>
+		<SimpleData name="numero">26</SimpleData>
+		<SimpleData name="web">https://www.mardeons.es</SimpleData>
+		<SimpleData name="calle">RUA CANOVAS DEL CASTILLO</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.72529</SimpleData>
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="telefono">986225272</SimpleData>
+		<SimpleData name="nombre">Naviera Mar de Ons</SimpleData>
+		<SimpleData name="lat">42.24023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.725289999999999,42.240229999999997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio">VIGO</SimpleData>
+		<SimpleData name="codigo_postal">36202</SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web">www.piratasdenabia.com</SimpleData>
+		<SimpleData name="calle">RUA CANOVAS DEL CASTILLO</SimpleData>
+		<SimpleData name="parroquia">VIGO</SimpleData>
+		<SimpleData name="lon">-8.72466</SimpleData>
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="telefono">986320048</SimpleData>
+		<SimpleData name="nombre">Nabia Naviera</SimpleData>
+		<SimpleData name="lat">42.24122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.72466,42.241219999999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="barrio"></SimpleData>
+		<SimpleData name="codigo_postal"></SimpleData>
+		<SimpleData name="numero">0</SimpleData>
+		<SimpleData name="web">http://crucerosriasbaixas.com</SimpleData>
+		<SimpleData name="calle">RUA MONTERO RIOS</SimpleData>
+		<SimpleData name="parroquia"></SimpleData>
+		<SimpleData name="lon">-8.7258</SimpleData>
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="telefono">986731343</SimpleData>
+		<SimpleData name="nombre">Cruceros Rías Baixas</SimpleData>
+		<SimpleData name="lat">42.24056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.7258,42.240560000000002</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
