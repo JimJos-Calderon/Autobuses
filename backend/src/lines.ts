@@ -8,7 +8,13 @@ import type {
 } from "@autobuses/shared";
 import { resolveLineMetadata } from "@autobuses/shared";
 import { BACKEND_LINES_DIR, BACKEND_PROCESSED_DIR } from "./paths.js";
-import { buildStopLineIndex, enrichStopsWithLines, writeStopLineArtifacts } from "./stop-lines.js";
+import {
+  buildStopLineIndex,
+  enrichStopsWithLines,
+  mergeStopsWithMetadata,
+  readEnrichedStopsFile,
+  writeStopLineArtifacts,
+} from "./stop-lines.js";
 import { sanitizeTitle } from "./sanitizer.js";
 
 const DEFAULT_LINES_DIR = BACKEND_LINES_DIR;
@@ -200,19 +206,34 @@ export async function loadLinesGeometry(): Promise<LineGeometryFeatureCollection
 
 export async function listLines(): Promise<LineSummary[]> {
   const geo = await loadLinesGeometry();
-  return geo.features
-    .map((feature) => {
-      const metadata = resolveLineMetadata(feature.properties.id);
-      return {
-        id: feature.properties.id,
-        name: sanitizeTitle(feature.properties.name),
-        destination: feature.properties.destination,
-        color: metadata.color,
-        icon: metadata.icon,
-        friendlyName: metadata.friendlyName,
-      };
-    })
-    .sort((a, b) => a.id.localeCompare(b.id, "es-ES"));
+
+  // Deduplicar por lineId base para no listar "C1_ida" y "C1_vuelta" como líneas separadas.
+  // Se expone solo el lineId limpio (sin _ida/_vuelta) con los metadatos de la primera feature.
+  const seen = new Set<string>();
+  const summaries: LineSummary[] = [];
+
+  for (const feature of geo.features) {
+    const props = feature.properties as Record<string, unknown>;
+    // Usar lineId de las propiedades si existe (geojson enriquecido), si no parsear el id.
+    const rawLineId = String(props.lineId ?? props.idBusLine ?? feature.properties.id)
+      .replace(/_(?:ida|vuelta)$/i, "")
+      .toUpperCase();
+
+    if (seen.has(rawLineId)) continue;
+    seen.add(rawLineId);
+
+    const metadata = resolveLineMetadata(rawLineId);
+    summaries.push({
+      id: rawLineId,
+      name: sanitizeTitle(feature.properties.name),
+      destination: feature.properties.destination,
+      color: metadata.color,
+      icon: metadata.icon,
+      friendlyName: metadata.friendlyName,
+    });
+  }
+
+  return summaries.sort((a, b) => a.id.localeCompare(b.id, "es-ES"));
 }
 
 export async function findLineGeometryById(
@@ -220,22 +241,57 @@ export async function findLineGeometryById(
 ): Promise<LineGeometryFeatureCollection | null> {
   const geo = await loadLinesGeometry();
   const wanted = lineId.trim().toUpperCase();
-  const match = geo.features.find((feature) => feature.properties.id.toUpperCase() === wanted);
-  if (!match) return null;
-  const metadata = resolveLineMetadata(match.properties.id);
+
+  // Estrategia 1: coincidencia exacta case-insensitive del campo `id` de la feature.
+  // Cubre "C1_IDA" == "C1_ida", "10_VUELTA" == "10_vuelta", etc.
+  let matches = geo.features.filter(
+    (feature) => feature.properties.id.toUpperCase() === wanted,
+  );
+
+  // Estrategia 2: interpretar el wanted como ID compuesto "{lineId}_{direction}"
+  // y buscar en las propiedades `lineId` + `direction` por separado.
+  // Cubre el caso donde el campo `id` no coincide pero los metadatos sí.
+  if (matches.length === 0) {
+    const underscoreIdx = wanted.lastIndexOf("_");
+    if (underscoreIdx > 0) {
+      const baseId = wanted.slice(0, underscoreIdx);
+      const dir = wanted.slice(underscoreIdx + 1).toLowerCase();
+      matches = geo.features.filter((feature) => {
+        const props = feature.properties as Record<string, unknown>;
+        const featureLineId = String(props.lineId ?? props.idBusLine ?? "").toUpperCase();
+        const featureDir = String(props.direction ?? "").toLowerCase();
+        return featureLineId === baseId && featureDir === dir;
+      });
+    }
+  }
+
+  // Estrategia 3: solo lineId base (sin direction) → devolver TODAS las features
+  // de esa línea. El frontend ya filtra por direction usando la propiedad `direction`
+  // de cada feature en su propia lógica de routing.
+  if (matches.length === 0) {
+    matches = geo.features.filter((feature) => {
+      const props = feature.properties as Record<string, unknown>;
+      const featureLineId = String(props.lineId ?? props.idBusLine ?? feature.properties.id)
+        .replace(/_(?:ida|vuelta)$/i, "")
+        .toUpperCase();
+      return featureLineId === wanted;
+    });
+  }
+
+  if (matches.length === 0) return null;
+
+  const metadata = resolveLineMetadata(matches[0].properties.id);
   return {
     type: "FeatureCollection",
-    features: [
-      {
-        ...match,
-        properties: {
-          ...match.properties,
-          color: metadata.color,
-          icon: metadata.icon,
-          friendlyName: metadata.friendlyName,
-        },
+    features: matches.map((f) => ({
+      ...f,
+      properties: {
+        ...f.properties,
+        color: metadata.color,
+        icon: metadata.icon,
+        friendlyName: metadata.friendlyName,
       },
-    ],
+    })),
   };
 }
 
@@ -250,7 +306,9 @@ export async function buildLinesAndStopIndexArtifacts(stops: BusStop[]): Promise
   await fs.mkdir(path.dirname(LINES_GEOJSON_PATH), { recursive: true });
   await fs.writeFile(LINES_GEOJSON_PATH, JSON.stringify(geo, null, 2), "utf8");
 
-  const index = buildStopLineIndex(stops, geo, 110);
-  const enrichedStops = enrichStopsWithLines(stops, index);
+  const metadataStops = await readEnrichedStopsFile();
+  const mergedStops = mergeStopsWithMetadata(stops, metadataStops);
+  const index = buildStopLineIndex(mergedStops, geo, 150);
+  const enrichedStops = enrichStopsWithLines(mergedStops, index);
   await writeStopLineArtifacts(index, enrichedStops);
 }

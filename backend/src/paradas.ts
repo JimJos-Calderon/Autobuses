@@ -1,5 +1,10 @@
 import type { BusStop } from "@autobuses/shared";
-import { buildStopLineIndex, enrichStopsWithLines, readEnrichedStopsFile } from "./stop-lines.js";
+import {
+  buildStopLineIndex,
+  enrichStopsWithLines,
+  mergeStopsWithMetadata,
+  readEnrichedStopsFile,
+} from "./stop-lines.js";
 import { loadLinesGeometry } from "./lines.js";
 import { sanitizeTitle } from "./sanitizer.js";
 
@@ -47,6 +52,28 @@ function pickString(...vals: unknown[]): string | undefined {
     if (typeof v === "number" && Number.isFinite(v)) return String(v);
   }
   return undefined;
+}
+
+function extractLineIds(...vals: unknown[]): string[] {
+  const out = new Set<string>();
+
+  for (const value of vals) {
+    if (Array.isArray(value)) {
+      for (const item of value) {
+        if (typeof item === "string" && item.trim()) out.add(item.trim().toUpperCase());
+      }
+      continue;
+    }
+
+    if (typeof value === "string" && value.trim()) {
+      for (const chunk of value.split(/[;,|]/)) {
+        const normalized = chunk.trim().toUpperCase();
+        if (normalized) out.add(normalized);
+      }
+    }
+  }
+
+  return Array.from(out).sort((a, b) => a.localeCompare(b, "es-ES"));
 }
 
 /** GeoJSON Feature o fila plana → BusStop */
@@ -101,6 +128,19 @@ export function itemToBusStop(item: unknown): BusStop | null {
     stop.lat = lat;
     stop.lon = lon;
   }
+  const lineIds = extractLineIds(
+    props.lines,
+    props.lineas,
+    props.linea,
+    props.idBusLine,
+    props.idBusLines,
+    o.lines,
+    o.lineas,
+    o.linea,
+  );
+  if (lineIds.length > 0) {
+    stop.lines = lineIds;
+  }
   return stop;
 }
 
@@ -144,6 +184,8 @@ export async function fetchEnrichedStops(): Promise<BusStop[]> {
   const raw = await fetchParadasJson();
   const stops = jsonToBusStops(raw);
   const lines = await loadLinesGeometry();
-  const index = buildStopLineIndex(stops, lines, 110);
-  return enrichStopsWithLines(stops, index);
+  const metadataStops = await readEnrichedStopsFile();
+  const mergedStops = mergeStopsWithMetadata(stops, metadataStops);
+  const index = buildStopLineIndex(mergedStops, lines, 150);
+  return enrichStopsWithLines(mergedStops, index);
 }

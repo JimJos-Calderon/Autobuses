@@ -73,11 +73,16 @@ app.get("/api/v1/stops/:id", async (req, res) => {
 app.get("/api/live/:stopId", async (req, res) => {
   const { stopId } = req.params;
   console.log(`[api/live] request stopId=${stopId}`);
-  const result = await fetchLiveArrivalsSafe(stopId);
-  if (result.arrivals.length === 0 && result.isTheoretical) {
-    console.warn(`[api/live] returning empty theoretical fallback stopId=${stopId}`);
+  try {
+    const result = await fetchLiveArrivalsSafe(stopId);
+    if (result.arrivals.length === 0 && result.isTheoretical) {
+      console.warn(`[api/live] returning empty theoretical fallback stopId=${stopId}`);
+    }
+    res.status(200).json(result);
+  } catch (e) {
+    const message = e instanceof Error ? e.message : "Error desconocido";
+    res.status(502).json({ error: "No se pudo obtener tiempo real", detail: message });
   }
-  res.status(200).json(result);
 });
 
 app.get("/api/v1/lines", async (_req, res) => {
@@ -102,6 +107,54 @@ app.get("/api/v1/lines/:id/geometry", async (req, res) => {
   } catch (e) {
     const message = e instanceof Error ? e.message : "Error desconocido";
     res.status(502).json({ error: "No se pudo obtener geometria de linea", detail: message });
+  }
+});
+
+app.get("/api/v1/sequences", async (_req, res) => {
+  try {
+    const fs = await import("node:fs/promises");
+    const path = await import("node:path");
+    const indexPath = path.resolve(process.cwd(), "data/processed/stop-lines-index.json");
+    
+    try {
+      const indexRaw = await fs.readFile(indexPath, "utf8");
+      const index = JSON.parse(indexRaw);
+      const byLD = index.byLineDirection || {};
+      const result: Record<string, { ida: string[]; vuelta: string[] }> = {};
+
+      Object.keys(byLD).forEach(key => {
+        const [lineId, dir] = key.split(':');
+        const entries = byLD[key];
+        if (!lineId || !dir || !entries) return;
+        if (!result[lineId]) result[lineId] = { ida: [], vuelta: [] };
+        result[lineId][dir as 'ida'|'vuelta'] = entries.map((e: any) => e.stopId);
+      });
+
+      if (Object.keys(result).length > 0) {
+        res.json(result);
+        return;
+      }
+    } catch (e) {
+      console.warn("No se pudo procesar stop-lines-index, usando fallback de secuencia oficial.");
+    }
+
+    const filepath = path.resolve(process.cwd(), "data/processed/official-sequences.json");
+    const raw = await fs.readFile(filepath, "utf8");
+    res.json(JSON.parse(raw));
+  } catch (e) {
+    res.json({});
+  }
+});
+
+app.get("/api/v1/alias-map", async (_req, res) => {
+  try {
+    const fs = await import("node:fs/promises");
+    const path = await import("node:path");
+    const filepath = path.resolve(process.cwd(), "data/processed/alias-map.json");
+    const raw = await fs.readFile(filepath, "utf8");
+    res.json(JSON.parse(raw));
+  } catch (e) {
+    res.json({});
   }
 });
 
