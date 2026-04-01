@@ -9,11 +9,18 @@
     "start": "node dist/index.js",
     "build:lines": "tsx src/scripts/build-lines-geojson.ts",
     "build:lines-geojson": "tsx src/scripts/build-lines-geojson.ts",
-    "sync:ckan": "tsx src/scripts/sync-ckan.ts"
+    "sync:ckan": "tsx src/scripts/sync-ckan.ts",
+    "sync:ckan:relational": "tsx src/scripts/sync-ckan-relational.ts",
+    "scrape:vitrasa:routes": "tsx src/scripts/scrape-vitrasa-routes.ts",
+    "scrape:vitrasa:sequences": "tsx src/scripts/scrape-vitrasa-official-sequence.ts"
   },
   "dependencies": {
     "@autobuses/shared": "file:../shared",
+    "@turf/clean-coords": "^7.3.4",
+    "@turf/simplify": "^7.3.4",
+    "@turf/truncate": "^7.3.4",
     "axios": "^1.13.2",
+    "cheerio": "^1.2.0",
     "cors": "^2.8.5",
     "express": "^4.21.2"
   },

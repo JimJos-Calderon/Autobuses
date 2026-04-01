@@ -29,6 +29,12 @@ function resolveLineColor(linea: string, colorByLine?: Record<string, string>): 
 }
 
 export function BusList({ arrivals, colorByLine }: BusListProps) {
+  console.log("[live/ui] BusList render", {
+    arrivalCount: arrivals.length,
+    hiddenByStyles: false,
+    hiddenByCondition: arrivals.length === 0,
+  });
+
   if (arrivals.length === 0) {
     return (
       <div className="rounded-xl border border-slate-200 bg-white p-4 text-sm text-slate-500">
@@ -38,7 +44,7 @@ export function BusList({ arrivals, colorByLine }: BusListProps) {
   }
 
   return (
-    <div className="grid gap-3">
+    <div className="grid gap-3 opacity-100" data-live-visibility="visible">
       {arrivals.map((arrival) => {
         const style = {
           "--line-color": resolveLineColor(arrival.linea, colorByLine),
